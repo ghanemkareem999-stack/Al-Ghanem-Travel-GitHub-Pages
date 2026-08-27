@@ -1,0 +1,58 @@
+@import "tailwindcss";
+@import "tw-animate-css";
+
+@custom-variant dark (&:is(.dark *));
+
+@theme inline {
+  --radius-sm: calc(var(--radius) - 4px);
+  --radius-md: calc(var(--radius) - 2px);
+  --radius-lg: var(--radius);
+  --radius-xl: calc(var(--radius) + 4px);
+  --color-background: var(--background);
+  --color-foreground: var(--foreground);
+  --color-card: var(--card);
+  --color-card-foreground: var(--card-foreground);
+  --color-popover: var(--popover);
+  --color-popover-foreground: var(--popover-foreground);
+  --color-primary: var(--primary);
+  --color-primary-foreground: var(--primary-foreground);
+  --color-secondary: var(--secondary);
+  --color-secondary-foreground: var(--secondary-foreground);
+  --color-muted: var(--muted);
+  --color-muted-foreground: var(--muted-foreground);
+  --color-accent: var(--accent);
+  --color-accent-foreground: var(--accent-foreground);
+  --color-destructive: var(--destructive);
+  --color-destructive-foreground: var(--destructive-foreground);
+  --color-border: var(--border);
+  --color-input: var(--input);
+  --color-ring: var(--ring);
+}
+
+:root { --primary: #173e35; --primary-foreground: #ffffff; --radius: .75rem; --background: #fbfaf6; --foreground: #173e35; --card: #ffffff; --card-foreground: #173e35; --popover: #ffffff; --popover-foreground: #173e35; --secondary: #f4f0e6; --secondary-foreground: #173e35; --muted: #f5f3ed; --muted-foreground: #5a6e68; --accent: #e8ddc5; --accent-foreground: #173e35; --destructive: #b42318; --destructive-foreground: #ffffff; --border: #d9d7cd; --input: #d9d7cd; --ring: #a9853d; }
+
+@layer base {
+  * { @apply border-border outline-ring/50; }
+  html { scroll-behavior: smooth; }
+  body { @apply bg-background text-foreground; font-family: "DM Sans", "Noto Naskh Arabic", sans-serif; text-align: start; }
+  html[dir="rtl"] body { font-family: "Noto Naskh Arabic", "DM Sans", sans-serif; }
+  button:not(:disabled), [role="button"]:not([aria-disabled="true"]), [type="button"]:not(:disabled), [type="submit"]:not(:disabled), a[href], select:not(:disabled) { @apply cursor-pointer; }
+}
+
+@layer components {
+  .container { width:100%; margin-inline:auto; padding-inline:1rem; }
+  .font-serif { font-family: "Playfair Display", "Noto Naskh Arabic", serif; }
+  .nav-link { @apply text-[12px] font-bold uppercase tracking-[0.11em] text-[#37574e] transition hover:text-[#a9853d]; }
+  .contact-link, .footer-link { @apply inline-flex items-center gap-1.5 transition hover:text-[#a9853d]; }
+  .language-select { @apply h-10 max-w-[126px] rounded-full border border-[#173e35]/15 bg-transparent px-3 text-xs font-semibold text-[#173e35] outline-none transition focus:border-[#a9853d] focus:ring-2 focus:ring-[#a9853d]/20; }
+  .footer-heading { @apply text-[11px] font-bold uppercase tracking-[0.16em] text-[#dfc27f]; }
+  .eyebrow { @apply text-[11px] font-bold tracking-[0.18em] text-[#a9853d]; }
+  .section-title { @apply mt-3 font-serif text-3xl leading-[1.12] text-[#173e35] md:text-4xl; }
+  .gold-rule { @apply h-px w-14 bg-[#c49b4d]; }
+  .hero-pattern { background-image: linear-gradient(30deg,transparent 40%,rgba(233,212,160,.36) 40.5%,rgba(233,212,160,.36) 41%,transparent 41.5%), linear-gradient(150deg,transparent 40%,rgba(233,212,160,.24) 40.5%,rgba(233,212,160,.24) 41%,transparent 41.5%); background-size: 56px 56px; background-position: 0 0, 28px 28px; mask-image: linear-gradient(90deg,black,transparent 75%); }
+  .contact-card { @apply flex items-center gap-3 rounded-xl border border-white/15 px-4 py-4 text-sm text-white/85 transition hover:border-[#dfc27f]/60 hover:bg-white/5 hover:text-[#efcf82]; }
+}
+
+@media (min-width:640px) { .container { padding-inline:1.5rem; } }
+@media (min-width:1024px) { .container { max-width:1280px; padding-inline:2rem; } }
+@media (prefers-reduced-motion: no-preference) { a, button, select { transition-timing-function: cubic-bezier(.23,1,.32,1); } a:active, button:active { transform:scale(.97); } }

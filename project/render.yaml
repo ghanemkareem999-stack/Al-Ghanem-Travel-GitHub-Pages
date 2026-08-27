@@ -1,0 +1,27 @@
+services:
+  - type: web
+    name: al-ghanem-travel
+    runtime: node
+    buildCommand: corepack enable && pnpm install --frozen-lockfile && pnpm run build
+    startCommand: pnpm start
+    healthCheckPath: /healthz
+    autoDeploy: false
+    envVars:
+      - key: NODE_ENV
+        value: production
+      - key: DATABASE_URL
+        sync: false
+      - key: JWT_SECRET
+        sync: false
+      - key: CANONICAL_ORIGIN
+        sync: false
+      - key: ASSET_STORAGE_ORIGIN
+        sync: false
+      - key: RESEND_API_KEY
+        sync: false
+      - key: VITE_GA4_MEASUREMENT_ID
+        sync: false
+      - key: VITE_GTM_ID
+        sync: false
+      - key: VITE_META_PIXEL_ID
+        sync: false

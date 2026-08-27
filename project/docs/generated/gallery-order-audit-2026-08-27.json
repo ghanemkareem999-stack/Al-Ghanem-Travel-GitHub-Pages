@@ -1,0 +1,416 @@
+{
+  "generatedAt": "2026-08-27T14:35:17.968Z",
+  "totalProfiles": 167,
+  "profilesWithGallery": 148,
+  "profilesNeedingManualReview": 51,
+  "findings": [
+    {
+      "slug": "dar-al-taqwa-madinah",
+      "name": "Dar Al Taqwa Hotel",
+      "galleryCount": 3,
+      "firstImage": "/manus-storage/dar-al-taqwa-madinah-room-2026_a6636fc2.jpg",
+      "firstLooksExterior": false,
+      "firstLooksInterior": true
+    },
+    {
+      "slug": "biltmore-al-madinah",
+      "name": "The Biltmore Al Madinah Hotel",
+      "galleryCount": 3,
+      "firstImage": "/manus-storage/biltmore-al-madinah-suite-2026_d7a31330.jpg",
+      "firstLooksExterior": false,
+      "firstLooksInterior": false
+    },
+    {
+      "slug": "doubletree-by-hilton-madinah-gate",
+      "name": "DoubleTree by Hilton Madinah Gate",
+      "galleryCount": 4,
+      "firstImage": "/manus-storage/doubletree-madinah-gate-room-2026_d74126a5.jpg",
+      "firstLooksExterior": false,
+      "firstLooksInterior": true
+    },
+    {
+      "slug": "view-al-madinah-hotel",
+      "name": "View Al Madinah Hotel",
+      "galleryCount": 1,
+      "firstImage": "/manus-storage/madinah-directory-placeholder-2026-08-25_d4dcf8bd.jpg",
+      "firstLooksExterior": false,
+      "firstLooksInterior": false
+    },
+    {
+      "slug": "novotel-madinah",
+      "name": "Novotel Madinah",
+      "galleryCount": 7,
+      "firstImage": "/manus-storage/novotel-madinah-room_5c83530d.jpg",
+      "firstLooksExterior": false,
+      "firstLooksInterior": true
+    },
+    {
+      "slug": "kayan-international-hotel",
+      "name": "Kayan International Hotel",
+      "galleryCount": 7,
+      "firstImage": "/manus-storage/kayan-international-lobby_793e81fa.png",
+      "firstLooksExterior": false,
+      "firstLooksInterior": true
+    },
+    {
+      "slug": "elaf-taiba-madinah",
+      "name": "Elaf Taiba Hotel",
+      "galleryCount": 7,
+      "firstImage": "/manus-storage/elaf-taiba-lobby_c986b5f3.jpg",
+      "firstLooksExterior": false,
+      "firstLooksInterior": true
+    },
+    {
+      "slug": "faraj-almadina-hotel",
+      "name": "Faraj Almadina Hotel",
+      "galleryCount": 7,
+      "firstImage": "/manus-storage/faraj-almadina-room_7a0c1cfd.jpg",
+      "firstLooksExterior": false,
+      "firstLooksInterior": true
+    },
+    {
+      "slug": "jawharat-al-rasheed-madinah",
+      "name": "Jawharat Al Rasheed Hotel",
+      "galleryCount": 7,
+      "firstImage": "/manus-storage/jawharat-al-rasheed-room_34f22827.jpg",
+      "firstLooksExterior": false,
+      "firstLooksInterior": true
+    },
+    {
+      "slug": "manarat-al-taj-madinah",
+      "name": "Manarat Al Taj Hotel",
+      "galleryCount": 2,
+      "firstImage": "/manus-storage/manarat-al-taj-lobby_2c6f6b02.jpg",
+      "firstLooksExterior": false,
+      "firstLooksInterior": true
+    },
+    {
+      "slug": "rawabi-al-zahra-madinah",
+      "name": "Rawabi Al Zahra Hotel",
+      "galleryCount": 7,
+      "firstImage": "/manus-storage/rawabi-al-zahra-lobby_fdc12dd5.jpg",
+      "firstLooksExterior": false,
+      "firstLooksInterior": true
+    },
+    {
+      "slug": "bosphorus-hotel-al-salam",
+      "name": "Bosphorus Hotel Al Salam",
+      "galleryCount": 7,
+      "firstImage": "/manus-storage/bosphorus-al-salam-room_ece8d1fa.jpg",
+      "firstLooksExterior": false,
+      "firstLooksInterior": true
+    },
+    {
+      "slug": "bosphorus-waqf-safi-madinah",
+      "name": "Bosphorus Hotel Waqf Safi",
+      "galleryCount": 7,
+      "firstImage": "/manus-storage/bosphorus-waqf-safi-room_68fb17b3.jpg",
+      "firstLooksExterior": false,
+      "firstLooksInterior": true
+    },
+    {
+      "slug": "odst-al-madinah",
+      "name": "Odst Al Madinah Hotel",
+      "galleryCount": 7,
+      "firstImage": "/manus-storage/odst-al-madinah-lobby_01eb9d86.jpg",
+      "firstLooksExterior": false,
+      "firstLooksInterior": true
+    },
+    {
+      "slug": "golden-tulip-al-ansar-madinah",
+      "name": "Golden Tulip Al Ansar",
+      "galleryCount": 6,
+      "firstImage": "/manus-storage/al-ansar-golden-tulip-lobby_41130aab.jpg",
+      "firstLooksExterior": false,
+      "firstLooksInterior": true
+    },
+    {
+      "slug": "grand-zowar-madinah",
+      "name": "Grand Zowar Hotel",
+      "galleryCount": 7,
+      "firstImage": "/manus-storage/grand-zowar-lobby_f2dc01a1.jpg",
+      "firstLooksExterior": false,
+      "firstLooksInterior": true
+    },
+    {
+      "slug": "waqt-al-nazeel-madinah",
+      "name": "Waqt Al Nazeel Hotel",
+      "galleryCount": 7,
+      "firstImage": "/manus-storage/waqt-al-nazeel-madinah-lobby_86c96a14.jpg",
+      "firstLooksExterior": false,
+      "firstLooksInterior": true
+    },
+    {
+      "slug": "anwar-al-zahraa-madinah",
+      "name": "Anwar Al Zahraa Hotel",
+      "galleryCount": 6,
+      "firstImage": "/manus-storage/anwar-al-zahraa-lobby_6e37bb77.jpg",
+      "firstLooksExterior": false,
+      "firstLooksInterior": true
+    },
+    {
+      "slug": "diyar-al-sater-madinah",
+      "name": "Diyar Al Sater Hotel",
+      "galleryCount": 1,
+      "firstImage": "/manus-storage/madinah-directory-placeholder-2026-08-25_d4dcf8bd.jpg",
+      "firstLooksExterior": false,
+      "firstLooksInterior": false
+    },
+    {
+      "slug": "diyar-al-salam-madinah",
+      "name": "Diyar Al Salam Hotel",
+      "galleryCount": 3,
+      "firstImage": "/manus-storage/diyar-al-salam-room_0cbeb420.jpg",
+      "firstLooksExterior": false,
+      "firstLooksInterior": true
+    },
+    {
+      "slug": "diyar-al-salam-silver-madinah",
+      "name": "Diyar Al Salam Silver Hotel",
+      "galleryCount": 7,
+      "firstImage": "/manus-storage/diyar-al-salam-silver-lobby_de339a55.jpg",
+      "firstLooksExterior": false,
+      "firstLooksInterior": true
+    },
+    {
+      "slug": "diyar-ajwa-tapestry-hilton",
+      "name": "Diyar Ajwa, Tapestry Collection by Hilton",
+      "galleryCount": 7,
+      "firstImage": "/manus-storage/diyar-ajwa-lobby_1ffce765.jpg",
+      "firstLooksExterior": false,
+      "firstLooksInterior": true
+    },
+    {
+      "slug": "the-venue-al-harithia",
+      "name": "The Venue Al Harithia Hotel",
+      "galleryCount": 7,
+      "firstImage": "/manus-storage/the-venue-al-harithia-lobby_f5ec87b0.jpeg",
+      "firstLooksExterior": false,
+      "firstLooksInterior": true
+    },
+    {
+      "slug": "artal-al-monawwarah",
+      "name": "Artal Al-Monawwarah Hotel",
+      "galleryCount": 5,
+      "firstImage": "/manus-storage/artal-al-monawwarah-lobby_f554974b.jpg",
+      "firstLooksExterior": false,
+      "firstLooksInterior": true
+    },
+    {
+      "slug": "ruve-al-madinah",
+      "name": "Ruve Hotel Medinah",
+      "galleryCount": 6,
+      "firstImage": "/manus-storage/ruve-al-madinah-official-1_b30d8745.jpg",
+      "firstLooksExterior": false,
+      "firstLooksInterior": false
+    },
+    {
+      "slug": "tulip-inn-al-daar-rawafid",
+      "name": "Tulip Inn Al Daar Rawafid",
+      "galleryCount": 7,
+      "firstImage": "/manus-storage/tulip-inn-al-daar-rawafid-room_9fca4742.jpg",
+      "firstLooksExterior": false,
+      "firstLooksInterior": true
+    },
+    {
+      "slug": "maien-taiba",
+      "name": "Maien Taiba Hotel",
+      "galleryCount": 7,
+      "firstImage": "/manus-storage/maien-taiba-reception_eed933d9.jpg",
+      "firstLooksExterior": false,
+      "firstLooksInterior": true
+    },
+    {
+      "slug": "diyar-al-taqwa-madinah",
+      "name": "Diyar Al Taqwa Hotel",
+      "galleryCount": 7,
+      "firstImage": "/manus-storage/diyar-al-taqwa-lobby_48740534.jpg",
+      "firstLooksExterior": false,
+      "firstLooksInterior": true
+    },
+    {
+      "slug": "nusk-al-hijrah-madinah",
+      "name": "Nusk Al Hijrah Hotel",
+      "galleryCount": 7,
+      "firstImage": "/manus-storage/nusk-al-hijrah-lobby_bb7ebc30.jpg",
+      "firstLooksExterior": false,
+      "firstLooksInterior": true
+    },
+    {
+      "slug": "plaza-inn-ohud-madinah",
+      "name": "Plaza Inn Ohud",
+      "galleryCount": 7,
+      "firstImage": "/manus-storage/plaza-inn-ohud-dining_e08fde1e.jpg",
+      "firstLooksExterior": false,
+      "firstLooksInterior": true
+    },
+    {
+      "slug": "belvedere-hotel-madinah",
+      "name": "Belvedere Hotel",
+      "galleryCount": 7,
+      "firstImage": "/manus-storage/belvedere-hotel-madinah-lobby_a664a0c2.jpg",
+      "firstLooksExterior": false,
+      "firstLooksInterior": true
+    },
+    {
+      "slug": "aurion-al-aqeeq-madinah",
+      "name": "AURION Hotel Al-Aqeeq",
+      "galleryCount": 7,
+      "firstImage": "/manus-storage/aurion-al-aqeeq-room_97c2a1da.jpg",
+      "firstLooksExterior": false,
+      "firstLooksInterior": true
+    },
+    {
+      "slug": "maysan-rihab-al-misk-madinah",
+      "name": "Maysan Rihab Al Misk",
+      "galleryCount": 7,
+      "firstImage": "/manus-storage/maysan-rihab-al-misk-room_e30b875c.jpg",
+      "firstLooksExterior": false,
+      "firstLooksInterior": true
+    },
+    {
+      "slug": "saraya-taba-hotel-a-madinah",
+      "name": "Saraya Taba Hotel A",
+      "galleryCount": 7,
+      "firstImage": "/manus-storage/saraya-taba-room_a679b92b.jpg",
+      "firstLooksExterior": false,
+      "firstLooksInterior": true
+    },
+    {
+      "slug": "manazeli-al-madinah",
+      "name": "Manazeli Al Madinah Hotel",
+      "galleryCount": 7,
+      "firstImage": "/manus-storage/manazeli-al-madinah-room_9022665b.jpg",
+      "firstLooksExterior": false,
+      "firstLooksInterior": true
+    },
+    {
+      "slug": "hayah-plaza-madinah",
+      "name": "Hayah Plaza Hotel",
+      "galleryCount": 7,
+      "firstImage": "/manus-storage/hayah-plaza-room_c528be45.jpg",
+      "firstLooksExterior": false,
+      "firstLooksInterior": true
+    },
+    {
+      "slug": "qasr-al-andalus-golden-madinah",
+      "name": "Qasr Al Andalus Golden Hotel",
+      "galleryCount": 6,
+      "firstImage": "/manus-storage/qasr-al-andalus-golden-room_4ac41372.jpg",
+      "firstLooksExterior": false,
+      "firstLooksInterior": true
+    },
+    {
+      "slug": "al-waha-rawdah-madinah",
+      "name": "Al Waha Rawdah Hotel",
+      "galleryCount": 7,
+      "firstImage": "/manus-storage/al-waha-rawdah-lobby_a793a776.jpg",
+      "firstLooksExterior": false,
+      "firstLooksInterior": true
+    },
+    {
+      "slug": "nusk-al-madinah-hotel",
+      "name": "Nusk Al Madinah Hotel",
+      "galleryCount": 6,
+      "firstImage": "/manus-storage/nusk-al-madinah-room_863b9541.jpg",
+      "firstLooksExterior": false,
+      "firstLooksInterior": true
+    },
+    {
+      "slug": "abraj-al-diyafah-madinah",
+      "name": "Abraj Al Diyafah Hotel",
+      "galleryCount": 7,
+      "firstImage": "/manus-storage/abraj-al-diyafah-lobby_fdebf33e.jpg",
+      "firstLooksExterior": false,
+      "firstLooksInterior": true
+    },
+    {
+      "slug": "lulu-al-arab-madinah",
+      "name": "Hotel Lulu Al Arab",
+      "galleryCount": 1,
+      "firstImage": "/manus-storage/madinah-directory-placeholder-2026-08-25_d4dcf8bd.jpg",
+      "firstLooksExterior": false,
+      "firstLooksInterior": false
+    },
+    {
+      "slug": "luluat-quba-madinah",
+      "name": "Luluat Quba Hotel",
+      "galleryCount": 1,
+      "firstImage": "/manus-storage/madinah-directory-placeholder-2026-08-25_d4dcf8bd.jpg",
+      "firstLooksExterior": false,
+      "firstLooksInterior": false
+    },
+    {
+      "slug": "afaq-al-masi-madinah",
+      "name": "Afaq Al Masi Hotel",
+      "galleryCount": 7,
+      "firstImage": "/manus-storage/afaq-al-masi-lobby_c43ead7c.jpg",
+      "firstLooksExterior": false,
+      "firstLooksInterior": true
+    },
+    {
+      "slug": "cladium-hotel-madinah",
+      "name": "Cladium Hotel",
+      "galleryCount": 7,
+      "firstImage": "/manus-storage/cladium-room_6bfa7b5e.jpg",
+      "firstLooksExterior": false,
+      "firstLooksInterior": true
+    },
+    {
+      "slug": "shaza-al-baraka-madinah",
+      "name": "Shaza Al Baraka Hotel",
+      "galleryCount": 5,
+      "firstImage": "/manus-storage/shaza-al-baraka-room_aefb2321.jpg",
+      "firstLooksExterior": false,
+      "firstLooksInterior": true
+    },
+    {
+      "slug": "zaha-al-munawara-madinah",
+      "name": "Zaha Al Munawara Hotel",
+      "galleryCount": 7,
+      "firstImage": "/manus-storage/zaha-al-munawara-lobby_89d655d0.jpg",
+      "firstLooksExterior": false,
+      "firstLooksInterior": true
+    },
+    {
+      "slug": "shaza-regency-plaza-madinah",
+      "name": "Shaza Regency Plaza Hotel",
+      "galleryCount": 7,
+      "firstImage": "/manus-storage/shaza-regency-plaza-lobby_ff5b7f4e.jpg",
+      "firstLooksExterior": false,
+      "firstLooksInterior": true
+    },
+    {
+      "slug": "the-seasons-hotel-madinah",
+      "name": "The Seasons Hotel",
+      "galleryCount": 1,
+      "firstImage": "/manus-storage/madinah-directory-placeholder-2026-08-25_d4dcf8bd.jpg",
+      "firstLooksExterior": false,
+      "firstLooksInterior": false
+    },
+    {
+      "slug": "season-star-hotel-madinah",
+      "name": "Season Star Hotel Madinah",
+      "galleryCount": 1,
+      "firstImage": "/manus-storage/madinah-directory-placeholder-2026-08-25_d4dcf8bd.jpg",
+      "firstLooksExterior": false,
+      "firstLooksInterior": false
+    },
+    {
+      "slug": "surestay-by-best-western-madinah",
+      "name": "SureStay by Best Western Madinah",
+      "galleryCount": 1,
+      "firstImage": "/manus-storage/madinah-directory-placeholder-2026-08-25_d4dcf8bd.jpg",
+      "firstLooksExterior": false,
+      "firstLooksInterior": false
+    },
+    {
+      "slug": "sidra-alia-al-dahabi-madinah",
+      "name": "Sidra Alia Al-Dahabi Hotel",
+      "galleryCount": 3,
+      "firstImage": "/manus-storage/sidra-alia-01_72e009c1.jpg",
+      "firstLooksExterior": false,
+      "firstLooksInterior": false
+    }
+  ]
+}

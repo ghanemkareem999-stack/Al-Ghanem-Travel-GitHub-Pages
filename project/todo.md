@@ -1,0 +1,525 @@
+# Project TODO
+
+- [x] Establish Al Ghanem Travel content model for cities, localized hotel details, room configurations, amenities, galleries, and holy-site walking routes.
+- [x] Create a multilingual i18n system with English LTR and Arabic RTL translations, locale switching, semantic HTML direction, and locale-aware navigation.
+- [x] Create the public homepage with a Madinah green, soft gold, and white design system; Islamic geometric pattern treatment; corporate value proposition; lead-generation calls to action; responsive header; and footer.
+- [x] Build city-category hotel directory routes with Madinah active on launch and Makkah structurally available but not yet promoted as live inventory.
+- [x] Build hotel detail routes with localized descriptions, responsive galleries, room configurations, corporate amenities, distance information, nearby holy sites, and embedded route maps to Al-Masjid an-Nabawi.
+- [x] Add a validated corporate inquiry form that captures all booking and contact fields, persists submissions, and triggers an owner notification containing every submitted field.
+- [x] Integrate configured mapping services for property-specific location and walking-route presentation on individual hotel pages.
+- [x] Add technical SEO foundations including title and description tags, Open Graph data, canonical URLs, robots rules, sitemap generation, structured business and hotel data, and keyword-aware copy.
+- [x] Add accessible interaction states, keyboard navigation, responsive layouts, reduced-motion support, and mobile QA across the public site.
+- [x] Add database migrations, typed server procedures, form validation, and Vitest coverage for key localization, portfolio, and inquiry logic.
+- [x] Produce production-launch documentation covering domain connection, HTTPS, secrets, notification configuration, performance checks, and publishing through the project controls.
+- [x] Verify the site through type checks, automated tests, browser inspection, responsive screenshots, and a deployment-ready checkpoint.
+- [x] Apply a premium, reverent visual system with refined Arabic and Latin typography, subtle Islamic geometry, restrained motion, and polished B2B interface details suited to the Haram and Madinah context.
+- [x] Integrate the supplied Al Ghanem Travel logo without alteration and use the official wording “Al Ghanem Travel | Islamic Tourism & Travel Services” consistently across identity touchpoints.
+- [x] Deliver a global-standard Madinah hotel catalogue architecture with searchable city, proximity, category, amenity, room, gallery, and corporate-capability filters, plus a controlled verified-data import workflow to expand toward complete live inventory.
+- [x] Ensure all layouts, interaction patterns, imagery, and decorative assets are original to Al Ghanem Travel or explicitly commercial-use-safe; never reproduce another company’s brand, site, or proprietary presentation.
+- [x] Add +966 56 375 6320 as the primary call and WhatsApp action, alghanemtravel@gmail.com as the business email, and +20 10 42923435 as a secondary WhatsApp action across the website contact surfaces.
+- [x] Support Arabic, English, Bahasa Melayu, Urdu, Bahasa Indonesia, and Hindi across all customer-facing content, SEO metadata, forms, and contact surfaces, respecting RTL for Arabic and Urdu and LTR for the remaining languages.
+- [x] Complete all site functionality without a custom domain and defer only Resend sender-domain verification and final email activation until the business domain is selected.
+- [x] Integrate the approved Arabic positioning line “الراحة والأمان لضيوف الرحمن” into the brand narrative and appropriate bilingual identity touchpoints.
+- [x] Localize hotel summaries, highlights, rooms, amenities, nearby holy-site labels, and page SEO metadata across all six launch languages.
+- [x] Add property-specific nearby holy-site context and map markers alongside the Al-Masjid an-Nabawi walking route.
+- [x] Add city, proximity, room, gallery, and corporate-capability filters to the scalable catalogue interface, and define a verified-data ingestion workflow for future live inventory.
+- [x] Add Vitest coverage for portfolio data filtering and property-detail behavior.
+- [x] Standardize the exact official wording “Al Ghanem Travel | Islamic Tourism & Travel Services” across header, footer, metadata, and contact identity surfaces.
+- [x] Localize hotel-detail SEO title and description metadata for all six launch languages.
+- [x] Audit public metadata and ensure the exact official wording “Al Ghanem Travel | Islamic Tourism & Travel Services” is retained alongside page-specific titles and descriptions.
+- [x] Verify localized metadata and public page titles after the SEO audit.
+- [x] Audit and refine all customer-facing headings, labels, hotel claims, inquiry terminology, and contact copy for professional, realistic B2B religious-travel communication across the six supported languages.
+- [x] Audit and refine contact hierarchy, telephone, WhatsApp, email actions, form messaging, responsive alignment, RTL/LTR layout, keyboard accessibility, metadata, and visual consistency across all public pages.
+- [x] Localize the remaining Madinah and Makkah destination-card support text on the homepage across all six languages and verify it in RTL and LTR layouts.
+- [x] Convert the supplied Madinah hotel planning file into a source-aware candidate catalogue, retaining only appropriately qualified planning estimates until each property is verified for publication.
+- [x] Add professional proximity categories for Central North, Central East, Central South, Central West, North/King Fahd Road, and other Madinah districts, with clear walking versus vehicle-transfer distinctions.
+- [x] Expand the hotel directory and profile data model to capture official property name, grade, category, distance and route-estimate ranges, operational notes, source status, locations, amenities, rooms, galleries, and editorial notes.
+- [x] Build an administrator-only hotel content workflow for controlled property creation, source review, and authorized image upload to managed storage.
+- [x] Provide a polished hotel-profile design that displays only verified property details and licensed or partner-authorized images, with a factual media-status note where applicable.
+- [x] Keep customer reviews and ratings absent unless they are genuine, attributable, approved for use, and collected through an appropriate review workflow; use clearly labeled internal editorial notes instead.
+- [x] Test the Madinah category filters, publication-state safeguards, content validation, photo metadata rules, and mobile hotel-directory experience.
+- [ ] Verify each supplied Madinah hotel against an official property source or a credible map/listing source before publishing its official name, address, grade, property description, or source link.
+- [x] Replace planning walking and vehicle estimates with route-derived values only where a reviewed Google Maps property point and destination route are available; otherwise retain a prominently qualified planning estimate or omit it.
+- [ ] Record a source URL, verification date, evidence level, and any uncertainty for every public hotel fact; do not infer rooms, amenities, photos, transfers, ratings, reviews, or commercial availability from the planning file.
+- [ ] Identify additional prominent Madinah properties absent from the supplied list and add them only after the same identity, source, location, classification, and route verification standard is met.
+- [x] Evaluate Sofitel Shahd Al Madinah for a location-first public profile only after reviewing its exact property pin and customer-safe data scope from the Accor-confirmed operating identity.
+- [x] Review and document the exact Google Maps property pin for Sofitel Shahd Al Madinah, including matching public map evidence, before keeping any profile publicly published.
+- [x] Align Sofitel Shahd Al Madinah documentation and portfolio state after the final map-pin review; retain no location, route, gallery, amenity, or other unsupported public fact beforehand.
+- [x] Evaluate Dallah Taibah Hotel for a narrow location-only profile after reconciling its current name and Abi Zar Street property listing without publishing hotel-direct contact, gallery, amenities, or a gate route.
+- [x] Evaluate Novotel Madinah for a narrow location-only profile after matching the current Accor identity, King Faisal Road address, and independent Google Hotels listing.
+- [x] Evaluate Kayan Al Alami Hotel for a public profile only after confirming its current operating identity, Madinah property location, and customer-safe data scope.
+- [x] Evaluate Al Manakha Rotana Madinah for a public profile after matching the current Rotana identity and Google Hotels property address, while withholding any unreviewed gate route.
+- [x] Evaluate Mysk Al Balad Hotel Madinah for a location-only profile after reconciling the current Mysk operator name with its Google Hotels property listing.
+- [x] Evaluate The Biltmore Al Madinah Hotel for a location-only profile after matching the current Biltmore operator identity and Google Hotels property address.
+- [x] Evaluate Maden Hotel Madinah for a location-only profile after matching the current Maden operator identity and King Fahd Road Google Hotels property address.
+- [x] Evaluate Elaf Al Taqwa Hotel Madinah for a location-only profile after matching the current Elaf operator identity and Google Hotels property listing.
+- [x] Add Elaf Taiba Hotel to the public directory as a location-only profile after documenting that the operator’s current name is Elaf Taiba Hotel while Google Hotels uses the searchable “New ELAF Taiba Hotel” wording for the same property.
+- [x] Evaluate Taiba Front Hotel Madinah for a location-only profile after matching the current Aqeeq Hotels identity and Musab Bin Omair Street Google Hotels property address.
+- [x] Replace the blank unavailable embedded-map state on location-only hotel pages with an accessible Google Maps fallback that preserves the reviewed property point and external location action.
+- [x] Evaluate Emaar Taibah Hotel for a location-only profile after confirming its current Google Hotels identity and Central Madinah property point; withhold all details lacking a first-party property source.
+- [x] Publish the Emaar Taibah Hotel walking route to Al Salam Gate B only after confirming it is the named Google Hotels pedestrian destination from the reviewed property point, without inferring extra hotel data.
+- [x] Reconcile the two current Google Hotels records using Emaar Maktan and Emaar Mektan spellings before publishing either as one public hotel; retain the historical Golden Tulip Al Mektan identity only as an internal lead until an exact operator-to-property match is confirmed.
+- [x] Evaluate New Madinah Hotel by IHG for a location-only profile after matching the current IHG identity and an independent reviewed property point.
+- [x] Evaluate Jiwar Al Madina Hotel for a location-only profile after matching the current Jiwar operator identity and Google Hotels property listing.
+- [x] Evaluate Maden Al Rawda Hotel for a location-only profile after matching the current Maden Hotels identity and Google Hotels property listing; retain any Royal Inn naming only as a searchable alias until an operator source confirms a rebrand.
+- [x] Evaluate Faraj Almadina Hotel for a location-only profile after matching the current public property identity and its Google Maps property point on Uthman Ibn Affan Road.
+- [x] Add Jawharat Al Rasheed Hotel as a separate location-only profile after matching its official name and Google Maps point; keep the non-exact Al Jawhara Madinah planning record separate and verification-pending.
+- [x] Review Al Taj Madinah against current hotel and map sources; retain the generic record as verification-pending because Manarat Al Taj and other Taj identities cannot be matched to its unreviewed planning location.
+- [x] Review Al Waleed Madinah against current hotel and map sources; retain the generic record as verification-pending because no exact open Madinah property can be matched and the surfaced Waleed-named property is closed.
+- [x] Review Al Eman (East Branch) against current hotel and map sources; retain the generic record as verification-pending because no exact current operating identity or property point can be confirmed.
+- [x] Review Al Jazira Hotel Madinah against current sources; do not add it to active public inventory while its Google Maps listing marks the property temporarily closed.
+- [x] Add Manarat Al Taj Hotel as a separate location-only profile after matching its exact current name and property point; keep the generic Al Taj Madinah record separate and verification-pending.
+- [x] Add Manar Al Eiman Hotel as a location-only profile after matching its exact current name and reviewed property point.
+- [x] Add Bosphorus Hotel Medina as a location-only profile after matching its operator-facing current identity and reviewed property point.
+- [x] Add Mirage Al Salam Hotel as a location-only profile after matching its exact current name and reviewed property point.
+- [x] Review Diyar Al Salam Hotel against current sources; do not add a new profile until its exact property point can be separated from the distinct Diyar Al Salam Silver listing.
+- [x] Add Al Mokhtara Diamond Hotel as a location-only profile after matching its current identity and reviewed property point.
+- [x] Add Hayah Salam Silver Hotel as a location-only profile after matching its current identity and reviewed property point.
+- [x] Add Wardat Al Rayyan Hotel as a location-only profile after matching its current identity and reviewed property point.
+- [x] Review Azhar Salsabil Hotel against current sources; do not add a separate profile until a distinct property point resolves its overlap with the published Hayah Salam Silver listing.
+- [x] Add Al Jaad Madinah Hotel as a location-only profile after matching its current identity and reviewed property point.
+- [x] Review Wefadah Al Zahra Hotel against current sources; do not add a new profile until a distinct property point can be separated from the nearby AL Zahra Hotel listing.
+- [x] Add Diyar Al Huda Hotel as a location-only profile after matching its current identity and reviewed property point.
+- [x] Add Rawabi Al Zahra Hotel as a location-only profile after matching its current identity and reviewed property point.
+- [x] Evaluate Swiss International Taba Al Salam for a location-only profile after matching the current Al Khomri operator identity and Google Hotels property point; withhold the unreviewed gate route and any unsupported hotel data.
+- [x] Publish the Swiss International Taba Al Salam walking route to Al Salam Gate B only after confirming it is the shortest named Google Hotels pedestrian destination from the reviewed property point, without inferring extra hotel data.
+- [x] Give every planning or verified property a purpose-built directory card with its own safe media slots, source status, route context, and staged fields for verified rooms, amenities, and authorized images.
+- [x] Correct RTL contact-number presentation site-wide and change the Arabic footer contact heading to "لطلب الحجوزات والاستفسارات".
+- [x] Remove the visible calendar year from the footer rights copy across all supported languages while retaining the Al Ghanem Travel ownership statement.
+- [ ] Continue adding distinct active Madinah hotels only after matching the current operating identity and a reviewed property point; withhold temporarily closed, retired, ambiguous, or other-city results.
+- [ ] Process verified Madinah hotel additions in consolidated batches and provide one user-facing progress update only after each batch is tested and published.
+- [x] Add Bosphorus Hotel Al Salam and Arjwan Rose Hotel as distinct location-only profiles after matching their current identities and reviewed property points.
+- [x] Align the existing Mokhtara International Hotel profile with its current operator-facing title and add Bosphorus Hotel Waqf Safi as a distinct location-only profile after matching its current identity and reviewed property point.
+- [x] Add Karam Taibah Almasi and Holiday Villa Madinah as distinct location-only profiles after matching their current identities and reviewed property points.
+- [x] Add Al Muna Kareem Hotel and Dar Al Naeem Hotel as distinct location-only profiles after matching their current identities and reviewed property points.
+- [x] Add Zowar International Hotel and Odst Al Madinah Hotel as distinct location-only profiles after matching their current identities and reviewed property points.
+- [x] Add Golden Tulip Al Ansar and Emaar Elite Hotel as distinct location-only profiles after matching their current identities and reviewed property points.
+- [x] Add Hayah Golden Hotel as a distinct location-only profile after matching its current identity and reviewed property point.
+- [x] Verify mobile smoothness for navigation, search, hotel cards, hotel details, inquiry access, and RTL/LTR presentation after the current directory updates.
+- [x] Add Grand Zowar Hotel as a distinct location-only profile after matching its current identity and reviewed property point.
+- [x] Add a hotel-specific WhatsApp inquiry action that pre-fills the selected property name while keeping Al Ghanem Travel as the sole customer contact.
+- [x] Add Hayah Al Huda Hotel as a distinct location-only profile after matching its current identity and reviewed property point.
+- [x] Sort the public Madinah directory with luxury and five-star profiles first, then by verified identity and matched authorized gallery availability without inventing hotel grades or media.
+- [x] Write an Arabic owner guide with step-by-step instructions for editing hotels, names, facts, locations, authorized images, inquiries, reviews, languages, and publication controls.
+- [x] Add Riyadh Al Zahra Hotel as a distinct location-only profile after matching its current identity and reviewed property point.
+- [x] Complete the next consolidated batch of matching Madinah hotels with one test, visual-review, and publication cycle.
+- [x] Add Waqt Al Nazeel Hotel and Araek Taiba Hotel as distinct location-only profiles after matching their current identities and reviewed property points.
+- [x] Add Rabwat Al Safwa Golden Hotel and Diyar Wahat Al Nazeel Hotel as distinct location-only profiles after matching their current identities and reviewed property points.
+- [x] Add Mias Al Madina Hotel and Al Mokhtara Al Gharbi Hotel as distinct location-only profiles after matching their current identities and reviewed property points.
+- [x] Add Diyar Al Madinah Hotel and Mohamadia Al Zahra Hotel as distinct location-only profiles after matching their current identities and reviewed property points.
+- [x] Add Anwar Al Zahraa Hotel as a distinct location-only profile after matching its current identity and reviewed property point.
+- [x] Add Hayah Golden Hotel as a distinct location-only profile after matching its current identity and reviewed property point. (Duplicate backlog entry; completed.)
+- [x] Add a verified Google Maps place or exact coordinates, an embedded location view, and an external directions action for each property only after the hotel pin is reviewed; keep an explicit location-verification state for all remaining records. (Audit: 120 of 120 verified profiles have reviewed maps and the external location action remains covered by regression tests.)
+- [x] Extend the administrator hotel workflow to add or correct a property’s Google Maps address, coordinates, map-source link, and route-review date without changing the public profile until approved.
+- [ ] For every reviewed hotel, identify and record the nearest practical Al-Masjid an-Nabawi gate from that property’s pedestrian approach, then measure and publish the route to that gate rather than to a distant general mosque point.
+- [x] Display the named destination gate, route distance, route duration, walking-access caveat, and review date with each verified hotel map; do not publish a generic mosque distance as if it represented the nearest entrance.
+- [x] Audit and refine the public contact hierarchy, add a multilingual floating WhatsApp Business action, and test telephone, email, WhatsApp, and inquiry links across desktop and mobile layouts.
+- [x] Add only confirmed official Facebook, LinkedIn, and Instagram URLs to the public social-link configuration; keep any unavailable channel hidden rather than linking to a guessed account.
+- [x] Add consent-aware, environment-configured support for GA4, Google Tag Manager, and Meta Pixel without hard-coding tracking identifiers, and document the activation steps.
+- [x] Test B2B inquiry validation, database persistence, owner notification, deferred email behavior, and error handling with automated coverage and live-preview checks.
+- [x] Re-verify desktop, tablet, and mobile navigation, six-language RTL/LTR presentation, page speed safeguards, accessible controls, sitemap, robots, canonical metadata, and hotel-page SEO coverage.
+- [x] Safely inventory the supplied Newfolder archive, classify every asset by file type, copyright and brand suitability, and integrate only approved materials into the website through the managed asset workflow.
+- [x] Inventory the supplied Newfolder archive: 69 WebP images across 38 hotel folders, with no public image approved because every image is marked for commercial-rights review; the archive was documented and no bundled scripts were executed.
+- [x] Replace public WhatsApp chat actions with the confirmed official Al Ghanem Travel WhatsApp Business short link and validate it across shared contact surfaces.
+- [x] Add the confirmed official Al Ghanem Travel Facebook page to the public social-contact configuration, keeping all unconfirmed social channels hidden.
+- [x] Configure the user-confirmed GA4, GTM, and Meta Pixel identifiers through consent-gated site settings, validating their formats and official delivery endpoints without storing tracking IDs in source code.
+- [ ] If independent account-access verification is required, provide authorised access to the official GA4, GTM, and Meta Business accounts; this cannot be established from the website code alone.
+- [x] Create and integrate original general Madinah-inspired visual assets for public site sections, clearly keeping them separate from hotel-specific imagery and claims.
+- [x] Replace public WhatsApp chat actions with the confirmed official Al Ghanem Travel WhatsApp Business short link and validate it across shared contact surfaces. (Duplicate backlog entry; completed.)
+- [x] Configure the confirmed GA4 measurement ID `G-MXNYD0HH4Y` for alghanemtravel.com and verify that it loads only after visitor marketing consent.
+- [x] Configure the confirmed GTM container ID `GTM-WNZK29H3` for alghanemtravel.com and verify that it loads only after visitor marketing consent.
+- [x] Compare the newly supplied hotel-image archive with the prior archive, classify any new assets or rights evidence, and keep all unlicensed media out of the public site.
+- [x] Compared the newly supplied hotel-image archive: it adds a distinct 80-image upload bundle and expanded identity notes, but all images remain marked for commercial-rights review and were kept out of the public site.
+- [x] Reconciled the homepage WhatsApp call to action with the confirmed official WhatsApp Business short link rather than the legacy direct-number link.
+- [x] Corrected the map component so any published verified route uses the supplied nearest-gate address as its walking destination rather than a generic mosque point.
+- [x] Published Pullman Zamzam Madina’s official Al Salam Gate destination for live Google Maps walking directions, while retaining gate-pending safeguards for Dar Al Iman and Anwar Al Madinah Mövenpick.
+- [x] Produce an approval-ready, page-by-page Arabic B2B copy audit that compares current text against professionally standardized proposed wording before applying any public content change.
+- [x] Ensure the proposed Arabic B2B copy creates a respectful emotional connection through confidence, care for guests, and ease of coordination without unsupported promises or exaggerated claims.
+- [x] Prepare natural, culture-aware English, Malay, Urdu, Indonesian, and Hindi counterparts to the approved Arabic B2B copy direction, preserving a consistent emotional and professional message without literal translation.
+- [x] Enforce the confirmed Arabic brand name “الغانم ترافل” across all public Arabic text, metadata, system messages, and supporting documentation, replacing any incorrect Arabic brand form.
+- [x] Corrected the confirmed Arabic brand form to “الغانم ترافل” across public Arabic/Urdu brand references, SEO metadata, portfolio copy, the approval review, and a regression test.
+- [x] Add a multilingual customer-review submission area that captures only genuine partner feedback and publishes reviews only after owner moderation and permission to display the selected company identity.
+- [x] Build an authenticated owner moderation interface for pending customer reviews, with approve/reject actions, moderation notes, and no public access to submitted contact data.
+- [x] Add automated coverage for approved-review publication, anonymous-versus-named company display, and review-moderation state transitions.
+- [x] Add protected review-router flow tests covering pending to approved/rejected outcomes, public approved-only output, and exclusion of private contact data.
+- [x] Replace generic admin-template navigation with the dedicated review-moderation destination for the authenticated owner workflow.
+- [x] Deliver an approval-only A-to-Z launch QA report covering public content, core routes, feature boundaries, B2B data safeguards, privacy consent, SEO, accessibility, responsive behavior, and release blockers before applying new QA changes.
+- [x] Prepared an approval-only A-to-Z launch QA report with prioritized findings and remediation paths; no public behavior was altered by the audit.
+- [x] Prepared an approval-first Arabic B2B copy review with consistent terminology and emotionally resonant, evidence-safe proposals; no public text was changed.
+- [x] Restrict corporate inquiry list access to administrators and add an authorization regression test so public visitors cannot retrieve B2B inquiry records.
+- [x] Remove or replace any customer-facing hotel-direct contact action, hotel website action, or wording that could suggest client communication with a hotel; retain Al Ghanem Travel as the sole customer contact channel.
+- [x] Removed the public hotel-website action and retained Al Ghanem Travel’s enquiry flow as the sole customer-facing hotel contact path.
+- [x] Replace the generic 404 screen with a fully branded, multilingual Al Ghanem Travel utility page and ensure unknown routes do not appear as valid indexable content.
+- [x] Publish multilingual About, Contact, Privacy, and Terms pages with clear business identity, data-use transparency, and links from the public footer.
+- [x] Add non-intrusive anti-spam safeguards to the public corporate inquiry and customer-review submissions while preserving accessible B2B lead capture.
+- [x] Run explicit server-side honeypot regression tests for both corporate inquiry and customer-review submissions before marking public-form spam protection complete.
+- [ ] Complete the Madinah hotel catalogue with source-verified property identity, details, locations, route context, and staged publication status for every supplied planning record.
+- [x] Add only commercially rights-cleared, correctly matched hotel images through managed storage; keep every archive image excluded until its licence or hotel authorization is documented.
+- [x] Match the user-authorized hotel-media archives to named hotel records, upload only clearly matched images through managed storage, and publish them without implying unverified facilities or routes.
+- [x] Remove any uploaded image that visual QA shows is a generic landmark or otherwise not demonstrably the named hotel, beginning with the Four Points by Sheraton gallery image.
+- [x] Review every mapped authorized hotel image for visible property identity and remove any generic landmark, unrelated property, or mismatched hotel image before release.
+- [ ] Continue first-party verification of the current Madinah planning records in priority batches, publishing only substantiated property details and preserving explicit review states for every remaining record.
+- [x] Replace the legacy Radisson Blu planning record with the first-party listed Radisson Hotel Madinah identity and keep the legacy image unassigned until a property-level match is confirmed.
+- [x] Replace the misleading public “Illustrative gallery” label with neutral multilingual property-gallery wording for owner-authorized hotel media.
+- [x] Refined source-reviewed hotel pages to avoid empty gallery, room, and map blocks when no authorized media or independently reviewed map pin is available.
+- [x] Withheld the historical Oberoi Madinah identity from public inventory after the official management-closure notice, pending confirmation of its current operating identity.
+- [x] Hardened the embedded Google Maps script loader against duplicate concurrent loads while retaining the external-directions fallback whenever the provider is unavailable.
+- [x] Simplified the unavailable-map state so a verified route page presents one clear external directions fallback without duplicated status text.
+- [x] Added Saja by Warwick Madinah as a first-party source-reviewed property with official location and facility context only, leaving its map pin and named-gate route unpublished pending independent review.
+- [x] Added Golden Tulip Al Zahabi as a first-party source-reviewed property with official room and facility context only, leaving its property pin and entrance-to-gate route unpublished pending independent review.
+- [x] Remove the country name from the secondary WhatsApp label across all customer-facing translated contact surfaces while keeping the approved secondary number unchanged.
+- [x] Standardize the secondary WhatsApp label as “واتساب إضافي” in Arabic and an equivalent country-neutral “Additional WhatsApp” label in every supported language.
+- [x] Remove public unverified hotel walking-distance and time estimates, planning-record terminology, and source-review process language; retain such research states internally only.
+- [x] Rewrite customer-facing hotel cards, hotel details, and homepage content in concise, professionally warm Al Ghanem Travel language guided by the supplied editorial brief.
+- [x] Reconcile every confirmed customer requirement against the live website and backlog, then complete or explicitly retain only the external dependencies that cannot be safely resolved without rights evidence or account access.
+- [x] Add regression coverage that prevents unverified distance, walking-time, and internal source-review language from returning to public hotel cards and details.
+- [x] Add explicit regression evidence for telephone, email, WhatsApp, and inquiry actions across shared header, footer, contact, and inquiry surfaces.
+- [x] Add explicit inquiry-flow evidence for validation, persistence hand-off, owner notification payloads, deferred email behavior, and user-facing error states.
+- [x] Capture release-QA evidence for tablet layout, all six RTL/LTR locales, accessible controls, canonical metadata, and hotel-page SEO coverage.
+- [x] Remove the remaining Hindi official-source preamble from the New Madinah public hotel summary found during live locale QA.
+- [x] Remove the remaining public source-review wording from the Makkah directory placeholder across all supported languages.
+- [x] Remove the remaining Bahasa Indonesia official-source preamble from the New Madinah public hotel summary found during live locale QA.
+- [x] Remove customer-facing map-review workflow sentences from Saja by Warwick and Golden Tulip Al Zahabi summaries while retaining unpublished route safeguards internally.
+- [x] Add explicit verification/editorial metadata fields to the hotel profile model and apply them to verified and planning records.
+- [x] Render a factual hotel-media status note wherever no partner-authorized or licensed property imagery is available.
+- [x] Add an automated regression proving controlled draft and verified hotel records remain excluded from public catalogue routes until publication is approved.
+- [x] Expand media validation coverage for accepted and rejected content types, required alt text and rights metadata, and the authorized-upload persistence path.
+- [x] Show a public location section for reviewed-pin properties even when a named gate route remains unpublished, using the reviewed property point without implying a gate-specific walk.
+- [x] Render a clear customer-facing location-verification state for hotels without a published reviewed pin, distinct from named-gate route availability.
+- [x] Add regression coverage proving reviewed-pin properties expose location access while unreviewed properties remain withheld.
+- [x] Store and use a reviewed Google Maps place URL or exact coordinates for each public reviewed-pin hotel profile instead of relying only on geocoded address strings.
+- [x] Add a persistent external location action to reviewed-pin property location sections even when the embedded map loads successfully.
+- [x] Add regression coverage proving reviewed-pin hotel detail pages include both the embedded location view and a visible external location action.
+- [x] Configure the confirmed Meta Pixel ID 1037789939075260 through the consent-gated marketing settings and verify it does not load before visitor approval.
+- [ ] Add a reviewed Google Maps property location and live walking route to the nearest practical Al-Masjid an-Nabawi gate for every eligible Madinah hotel, publishing only routes verified from the actual hotel property point.
+- [x] Ensure the protected owner workspace supports safe no-code updates to hotel details, authorised images, locations, route evidence, and newly added hotel records after launch.
+- [x] Make the full public hotel directory card activate its hotel-detail page while preserving accessible keyboard navigation and valid interactive markup.
+- [x] Add Waqf Uthman Bin Affan Hotel as an operator-confirmed Madinah profile using the official Mukhtara Group property page, reviewed property point, and owner-authorized gallery without publishing an unreviewed Haram gate route.
+- [x] Replace the Al Aqeeq planning profile with an operator-identified Madinah identity using the current Al Aqeeq Hotels site, its published address, reviewed property point, and owner-authorized gallery without inferring facilities or a Haram gate route.
+- [x] Audit every public hotel gallery for sharpness, recency, visual identity, and device presentation; replace only low-quality images with current high-resolution, hotel-matched media that is authorized or licensed for website use.
+- [ ] Expand each approved hotel gallery with a balanced, current high-resolution mix of exterior, lobby or public spaces, room interiors, dining, and facilities images wherever exact-property media is available.
+- [x] Make the Madinah hotel-directory feature card on the homepage fully clickable to the hotel directory, with accessible keyboard navigation and no nested interactive controls.
+- [x] Verify and correct every public hotel directional area label (north, south, east, west) against the actual reviewed property position relative to Al-Masjid an-Nabawi; correct Pullman Zamzam from north to south and avoid directional wording where the central-area label is more accurate.
+- [x] Apply Al-Masjid an-Nabawi’s map pin as the sole origin for every directional label: hotels below the mosque are south, above are north, to the map right are east, and to the map left are west; do not use commercial-zone names as a substitute for geographic position.
+- [x] Display each hotel’s Arabic name followed by its official English name throughout the Arabic hotel-directory and hotel-detail interfaces, while retaining the official English name in non-Arabic locales.
+- [x] Add a prominent live hotel search experience that matches complete or partial hotel names in Arabic and English, displays accessible result links while visitors type, and routes the selected result to its hotel-detail page.
+- [x] Verify live hotel-search labels and partial-name matching in Arabic, English, Malay, Urdu, Indonesian, and Hindi, including Arabic and English hotel aliases under every interface language.
+- [ ] Verify every public hotel’s current operating name, rebrand status, operator identity, and gallery-media match against current first-party or operator-confirmed sources; correct or withhold anything that may be outdated.
+- [x] Convert public pages to server-rendered HTML with unique route-specific title, meta description, canonical URL, Open Graph, and Twitter metadata available before JavaScript loads.
+- [x] Provide a high-quality default social-share image and property-specific Open Graph images for hotel pages, using absolute production URLs.
+- [x] Generate a complete sitemap including all indexable hotel detail pages and public content pages, plus a robots.txt directive that points crawlers to it.
+- [x] Publish indexable locale-specific URLs for Arabic, English, Malay, Urdu, Indonesian, and Hindi with canonical and hreflang relationships.
+- [x] Add verified business trust messaging for 17 years of experience and licensing using the business statement supplied by the owner.
+- [ ] Prepare a company-domain email contact configuration and replace Gmail when the user supplies the official mailbox under alghanemtravel.com.
+- [x] Expose Reviews, About, and Contact as visible top-level navigation links on desktop and mobile.
+- [x] Shorten the first corporate inquiry form to name, WhatsApp, destination city, and stay dates, with optional details handled after first contact.
+- [x] Add a localized response-time expectation next to primary inquiry and WhatsApp calls to action, using the two-hour service commitment supplied by the business.
+- [x] Verify the consent-gated GA4 and Meta Pixel IDs are emitted correctly in the live page source and document the result.
+- [x] Research and catalogue the current Madinah properties surfaced by the شركة الطواف / أبراج طابة request: Tabah Towers Hotel and Silver Tabah Towers Hotel have independently reviewed property points; other names discovered in the public-page snippet were treated as separate Makkah or unverified leads.
+- [x] Add each verified شركة الطواف property to the public directory only after confirming its exact operating name, customer-safe location context, and correctly matched authorized or licensed gallery media; withhold unsupported facts and unverified routes.
+- [x] Publish a location-only customer-facing profile for each verified شركة الطواف property that has no suitable confirmed image, while clearly omitting the gallery and keeping Al Ghanem Travel as the sole contact path.
+- [x] Expand the Madinah directory using a streamlined evidence standard: publish a location-first profile when a practical public source clearly matches the hotel name and Google Maps property point; keep images, amenities, walking routes, ratings, and other unsupported claims absent until separately confirmed.
+- [x] Refresh every incomplete public hotel gallery with current high-quality exact-property imagery from practical public sources, prioritizing exterior, lobby or public space, room interior, and dining coverage; exclude watermarked, low-resolution, or wrong-property images.
+- [x] Ensure hotel detail pages visibly expose every reviewed gallery image rather than limiting the initial grid to three items.
+- [x] Replace generic or mismatched hotel-gallery alternative text with neutral, accurate per-image descriptions that remain valid when gallery ordering changes.
+- [x] Exclude serviced-apartment profiles from all public Madinah hotel-directory, search, homepage, sitemap, and hotel-detail routes while preserving their internal planning records for future owner review.
+- [x] Reconcile the public central-area Madinah hotel roster against practical current public sources, add clear missing hotels, and withhold ambiguous names rather than presenting them as complete coverage.
+- [x] Classify every property in the user-supplied Madinah roster as an existing public hotel, a clear missing hotel candidate, a serviced-apartment record to exclude, or an ambiguous or retired identity requiring separate review.
+- [x] Add clear missing hotels from the supplied roster with matched locations and high-quality exact-property galleries where available, retaining Al Ghanem Travel as the only customer contact path.
+- [x] Keep the user-supplied estimated distances, walking times, ratings, and unreviewed gate claims out of public copy unless separately verified against the directory’s route standard.
+- [x] Add InterContinental Dar Al Hijra Madinah as a location-first central-area hotel with its confirmed Google Maps point and reviewed exact-property exterior, room, and public-space gallery.
+- [x] Prevent long bilingual hotel names from overflowing the mobile hotel-detail heading while preserving clear Arabic-first presentation.
+- [x] Add Diyar Al Sater Hotel as a distinct location-only profile after matching its active Google Maps property point and withholding all unsupported facts.
+- [x] Add Diyar Al Salam Hotel as a distinct location-only profile after separating its current Google Hotels identity and reviewed pin from Diyar Al Salam Silver.
+- [x] Publish Diyar Al Salam Hotel’s reviewed Google Maps walking destination to Al Salam Gate after confirming the named pedestrian route from the reviewed property point.
+- [x] Add Diyar Al Salam Silver Hotel as a distinct location-only profile and publish its closer reviewed route to Haram Courtyard Gate No. 316 without mislabelling it as Al Salam Gate.
+- [x] Publish Anwar Al Madinah Mövenpick’s reviewed closer route to Haram Courtyard Gate No. 316 without mislabelling the numbered destination as Al Salam Gate.
+- [x] Publish InterContinental Dar Al Iman Madinah’s reviewed closer route to Haram Courtyard Gate No. 316 without mislabelling the numbered destination as Al Salam Gate.
+- [x] Publish Madinah Hilton’s reviewed closer route to Haram Courtyard Gate No. 316 without mislabelling the numbered destination as Al Salam Gate.
+- [x] Publish Crowne Plaza Madinah’s reviewed shorter route to Al Salam Gate after comparing it with Bab Al Baqi.
+- [x] Publish Dar Al Taqwa Hotel’s reviewed shorter route to Haram Courtyard Gate No. 316 without mislabelling the numbered destination as Al Salam Gate.
+- [x] Publish New Madinah Hotel’s reviewed shorter route to Bab Al Baqi after comparing it with Haram Courtyard Gate No. 316.
+- [x] Publish InterContinental Dar Al Hijra Madinah’s reviewed shorter route to King Fahad Gate after comparing it with Haram Courtyard Gate No. 316.
+- [x] Consolidate duplicate Millennium Al Aqeeq Hotel records into one public canonical profile, retaining the former planning slug only as a search alias.
+- [ ] Review the user-supplied hotel list, reconcile each current operating name and property identity against the public catalogue, and add only non-duplicate active hotels with a reviewed property point.
+- [x] Add The Venue Al Harithia Hotel with Maysan Al Harithia and Frontel Al Harithia retained only as searchable legacy names after operator and map review.
+- [x] Add Al Saha Hotel as a map-listed location-only profile after confirming its independent Google Maps property point.
+- [x] Add Safwat Almadinah Hotel as a map-listed location-only profile after confirming its independent Google Maps property point.
+- [x] Add Artal Al-Monawwarah Hotel as a map-listed location-only profile after confirming its independent Google Maps property point.
+- [x] Add Maysan Al Taqwa Hotel after matching its current Maysan operator identity and independent Google Maps property point.
+- [x] Add Ruve Hotel Medinah as a map-listed location-only profile after confirming its independent Google Maps property point.
+- [x] Add AncyrA Rose Hotel by Continent Madinah after matching its current official property identity and independent Google Maps property point.
+- [x] Add Worth Peninsula Hotel as a map-listed location-only profile after confirming its independent Google Maps property point.
+- [x] Add Tulip Inn Al Daar Rawafid after matching its current Golden Tulip identity and independent Google Maps property point.
+- [x] Add Maien Taiba Hotel after matching its Maien group identity and independent Google Maps property point.
+- [x] Add Diyar Al Taqwa Hotel as a map-listed location-only profile after confirming its independent Google Maps property point.
+- [x] Add Assaafa Hotel after correcting the supplied Arabic name to the current official «فندق السعفة» identity and matching its Google Maps property point.
+- [x] Add Nusk Al Hijrah Hotel as a map-listed location-only profile after confirming its independent Google Maps property point.
+- [x] Add Castle Hotel after correcting the supplied Arabic castle wording to the current «فندق كاسيل» Maps identity and confirming its independent property point.
+- [x] Add Plaza Inn Ohud as a map-listed location-only profile after confirming its independent Google Maps property point.
+- [x] Add Belvedere Hotel as a map-listed location-only profile after confirming its current Maps identity and independent property point.
+- [x] Add AURION Hotel Al-Aqeeq as a map-listed location-only profile after confirming its independent Google Maps property point.
+- [x] Add AVAL Hotel as a map-listed location-only profile after confirming its independent Google Maps property point.
+- [x] Add Al Sada Al Masi Hotel with the supplied Sama Al Masi wording retained only as a searchable name after Maps review.
+- [x] Add Maysan Rihab Al Misk as a map-listed location-only profile after confirming its independent Google Maps property point.
+- [x] Add Durrah Al Eiman Hotel with Kingsgate Durra retained only as a searchable legacy name after Maps review.
+- [x] Add Saraya Taba Hotel A as a map-listed location-only profile after confirming its independent Google Maps property point.
+- [x] Add Manazeli Al Madinah Hotel as a map-listed location-only profile after confirming its independent Google Maps property point.
+- [x] Add Hayah Plaza Hotel as a map-listed location-only profile after confirming its independent Google Maps property point.
+- [x] Add Qasr Al Andalus Golden Hotel as a map-listed location-only profile after confirming its independent Google Maps property point.
+- [x] Add Al Waha Rawdah Hotel as a map-listed location-only profile after confirming its independent Google Maps property point.
+- [x] Add Manazel Al Aswaf Hotel as a map-listed location-only profile after confirming its independent Google Maps property point.
+- [x] Add Rotana Al Misk Hotel as a map-listed location-only profile after confirming its independent Google Maps property point.
+- [x] Add Golden Madinah Hotel as a map-listed location-only profile after confirming its independent Google Maps property point.
+- [x] Add Dar Al Eiman Grand Hotel as a map-listed location-only profile after confirming its independent Google Maps property point.
+- [x] Add Nusk Al Madinah Hotel as a map-listed location-only profile after confirming its independent Google Maps property point.
+- [x] Add Rama Al Madinah Hotel as a map-listed location-only profile after confirming its independent Google Maps property point.
+- [x] Add Jiwar Taiba Hotel as a map-listed location-only profile after confirming its independent Google Maps property point.
+- [x] Add Luluat Al Diyafa Hotel as a map-listed location-only profile after confirming its independent Google Maps property point.
+- [x] Add Abraj Al Diyafah Hotel as a map-listed location-only profile after confirming its independent Google Maps property point.
+- [x] Add Hotel Lulu Al Arab as a map-listed location-only profile after confirming its independent Google Maps property point.
+- [x] Add Luluat Quba Hotel as a map-listed location-only profile after confirming its independent Google Maps property point.
+- [x] Add a matched exterior, guest-room, and public-space gallery to the location-first Valy Al Madinah Hotel profile.
+- [x] Add a matched exterior, guest-room, and public-space gallery to the location-first Makarem Burj Al Madinah Hotel and Suites profile.
+- [x] Add a matched exterior, guest-room, and public-space gallery to the location-first Jayden Hotel profile.
+- [x] Add a matched exterior, guest-room, and public-space gallery to the Durrat Al Madinah Hotel profile.
+- [x] Prevent the public site from crashing when mobile-browser privacy settings deny access to window.localStorage, with a safe in-memory fallback and regression coverage.
+- [x] Update the Al Rehab Madinah profile to the verified Rehab Taba / Rehab Harmony operating identity and add its reviewed exterior, guest-room, and lobby gallery.
+- [x] Verify that the Al Mukhtara International Hotel profile already has a matched exterior, room, and reception gallery; preserve it rather than adding a duplicate image.
+- [x] Deliver one clean downloadable ZIP archive containing the complete Al Ghanem Travel source project, documentation, database migrations, and safe setup instructions without secrets or generated dependencies.
+- [x] Analyze available Similarweb traffic, engagement, channel, ranking, and geographic data for the public Al Ghanem Travel domain and document actionable findings.
+- [x] Add a safe environment-variable template and runnable setup guide to the single-file Al Ghanem Travel export package.
+- [x] Validate the live GA4, GTM, and Meta Pixel emission after explicit marketing consent and record the result without exposing visitor data.
+- [x] Update the Al Nokhba Royal Inn planning profile to the verified Maden Hotel operating identity and add its reviewed exterior, guest-room, and lobby gallery.
+- [x] Align the Millennium Al Aqeeq hotel summary with its current official identity and remove the obsolete Aqeeq Hotels website reference.
+- [x] Correct the header logo treatment so “AL GHANEM TRAVEL” is fully visible and matches the approved brand reference on desktop and mobile.
+- [x] Re-verify the exact current operating name of the Al Ansar hotel against first-party and independent current sources before retaining or reversing the Golden Tulip Al Ansar update.
+- [x] Remove the primary Saudi-number WhatsApp row from public contact sections while retaining +966 56 375 6320 as a call-only action.
+- [x] Remove public references to licensing, formal approval, certification, or official company documents, including the “Licensed travel service” trust statement.
+- [x] Remove textual references to the Saudi number as WhatsApp from all public language variants, retaining it as a telephone-only contact detail.
+- [x] Complete the independent Golden Tulip Al Ansar review; the public profile remains withheld because a current exact property point plus matched exterior and room images were not confirmed, and the signed Al Shourfah New Hotel façade candidate was rejected.
+- [x] Re-verify DoubleTree by Hilton Madinah Gate against the current Hilton property page and update its documented operating status without adding unreviewed route claims.
+- [x] Replace the descriptive “Dar Al Taqwa Madinah” profile name with the current source-preferred operating name “Dar Al Taqwa Hotel” while retaining city context in routing and SEO.
+- [x] Update Pullman Zamzam Madinah to the current source-preferred “Pullman Zamzam Madina” name while preserving the existing Madinah spelling as a searchable alias and retaining the current route slug.
+- [x] Update Le Méridien Madinah to the current Marriott source-preferred “Le Méridien Medina” name while retaining the prior spelling as a searchable alias and keeping the current route slug.
+- [x] Review Hilton Garden Inn Madinah against current Hilton sources and withhold it from the public hotel directory because only future KEC and Rua Al Madinah developments were confirmed.
+- [x] Review Four Points by Sheraton Madinah against current Marriott sources and withhold the generic planning record because no active matching property was confirmed.
+- [x] Update the generic Al Haram Hotel planning record to the operator-confirmed Dar Al Eiman Al Haram Hotel identity while retaining the legacy name as a searchable alias.
+- [x] Review the generic Golden Tulip Madinah planning record against current Golden Tulip properties and withhold it because it does not identify one exact operating hotel.
+- [x] Replace the English “Additional WhatsApp” label with concise approved customer-facing wording across shared contact surfaces and all supported locales.
+- [x] Move the existing genuine, approved customer-review section to a prominent early position on the homepage without inventing review content or ratings.
+- [x] Complete the current closeout batch by resolving source-verifiable public hotel identities and recording owner-dependent external blockers separately.
+- [x] Update the Eman Royal planning record to the current Emaar Royal Hotel identity while retaining the legacy name as a searchable alias.
+- [x] Review Almasa Grand Madinah against current sources; a matching Makkah property was found, but the Madinah planning record was restored as verification-pending because no independent Madinah absence was established.
+- [x] Restore non-exact Madinah planning records to the public directory with a customer-facing verification-pending state and no unsupported media, maps, routes, distances, or facility claims.
+- [x] Apply the clarified verification rule: show only partially matched Madinah records after a documented unsuccessful location-or-media attempt; do not exclude a Madinah candidate without independently establishing that no matching Madinah property exists.
+- [x] Do not exclude a potential Madinah hotel merely because a same-named property is found in another city; retain it as verification-pending until Madinah absence is independently established.
+- [x] Update Ramada Madinah Al Qibla to the current Al Qibla Hotel identity and remove the mismatched Al Hamra map reference while retaining the legacy name as a search alias.
+- [x] Refine the Arabic bilingual hotel-title breakpoint so the current Al Qibla Hotel name remains visually balanced without splitting the English identifier awkwardly.
+- [x] Mark Al Jawhara Madinah as verification-pending until one exact current Madinah property point and matched identity can be confirmed among similarly named listings.
+- [x] Mark Al Taj Madinah as verification-pending until one exact current Madinah property point and matched identity can be confirmed among several Taj-named listings.
+- [x] Update Al Mokhtara Golden to the current operator-preferred Mokhtara Golden Hotel identity while retaining the prior spelling as a search alias.
+- [x] Mark Al Sultan Madinah as verification-pending until one exact current Madinah property point and matched identity can be confirmed.
+- [x] Promote the Madinah hotel directory CTA in the homepage hero and swap its visual and layout priority with the corporate-accommodation inquiry CTA across supported locales.
+- [x] Check Al Nakheel Madinah against current sources; no independent Al Nakheel planning record exists in the present public Madinah directory, so no data or route change is required.
+- [x] Mark Al Waleed Madinah as verification-pending until one exact current Madinah property point and matched identity can be confirmed.
+- [x] Update Durrat Al Madinah Hotel to the current Booking.com-listed Durra Al Madinah Hotel identity while retaining the legacy spelling as a searchable alias.
+- [x] Refine the Arabic bilingual title treatment for multiword English hotel names so the Durra Al Madinah Hotel identifier stays visually balanced.
+- [x] Mark the generic Al Andalus Madinah and Andalus Palace Madinah records as verification-pending until each is matched to one exact current Madinah property point and identity.
+- [x] Make the review participation card fully clickable to the review submission page and add a clear review icon and call-to-action across supported locales.
+- [x] Remove the Primary Contact and Service Received fields from the public review submission form, simplify validation accordingly, and verify the final visitor-facing layout.
+- [x] Mark Al Aqsa Madinah as verification-pending until one exact current Madinah property point and matched identity can be confirmed among Al Aqsa-named listings.
+- [x] Mark Al Eman (East Branch) as verification-pending until one exact current Madinah property point and matched identity can be confirmed among Al Eman-named listings.
+- [x] Mark Al Jazira Madinah as verification-pending until one exact current Madinah property point and matched identity can be confirmed among similarly named listings.
+- [x] Mark Al Aliyah Madinah as verification-pending until one exact current Madinah property point and matched identity can be confirmed among similarly transliterated listings.
+- [x] Mark Al Ferdous Madinah as verification-pending until one exact current Madinah property point and matched identity can be confirmed among similarly named listings.
+- [x] Prioritize the current operator-facing hotel name for every Madinah record; retain prior names only as searchable aliases and keep any unconfirmed identity under source review.
+- [x] Mark Al Aziziyah Hotel Madinah as verification-pending until one exact current Madinah property point and matched identity can be confirmed among Aziziyah-named listings.
+- [x] Update Madinah Harmony to the current Al Madinah Harmony Hotel display name while retaining the shortened prior wording as a searchable alias.
+- [x] Mark Quba Hotel Madinah as verification-pending until one exact current Madinah property point and matched identity can be confirmed among Quba-named listings.
+- [x] Mark Sheraton Madinah as verification-pending until one exact current Madinah property point and active operating identity can be confirmed.
+- [x] Mark Marriott Madinah as verification-pending until one exact current hotel identity and property point can be confirmed independently of Marriott Executive Apartments.
+- [x] Update Hilton Madinah to the current Madinah Hilton display name while retaining the prior wording as a searchable alias.
+- [x] Reconfirm the current Rua Al Hijrah Hotel (Coral Al Madinah) display identity from matching current travel listings; retain Coral Al Madinah as a searchable alias and preserve existing matched media only.
+- [x] Update Makarem Burj Al Madinah Hotel and Suites to the current Makarem Burj Al Madinah display name while retaining the former longer wording as a searchable alias.
+- [x] Change the Arabic reviews-section title to «آراء الشركات وعملائنا» and verify its appearance in the public layout.
+- [x] Replace the Madinah and Makkah destination cards with an attractive Prophet’s Mosque image and Kaaba image, maintaining readable branded overlays across devices.
+- [x] Remove the public review-section trust statement that implies ratings are selected or filtered by Al Ghanem Travel, and verify the neutral layout.
+- [x] Remove all public wording about company licensing, certifications, approvals, or official documentation; retain only evidence-safe experience and service wording.
+- [x] Add Zaha Taiba Hotel as a map-listed location-only profile after confirming its independent Google Maps property point.
+- [x] Add Afaq Al Masi Hotel and Afaq Al Salam Golden Hotel as map-listed location-only profiles after confirming their independent Google Maps property points.
+- [x] Add Cladium Hotel as a map-listed location-only profile after confirming its independent Google Maps property point.
+- [x] Add Shaza Al Baraka Hotel as a map-listed location-only profile after confirming its independent Google Maps property point.
+- [x] Add Zaha Al Munawara Hotel as a map-listed location-only profile after confirming its property point is distinct from Zaha Taiba.
+- [x] Add Shaza Regency Plaza Hotel as a map-listed location-only profile after confirming its independent Google Maps property point.
+- [x] Add Rabwat Al Safwa 7 Hotel as a map-listed location-only profile after confirming its property point is distinct from Rabwat Al Safwa Golden.
+- [x] Add Abraj Al Marzam Hotel as a map-listed location-only profile after confirming its independent Google Maps property point.
+- [x] Audit all hotel profiles against available supplied and approved image assets, prioritizing hotels with no gallery.
+- [x] Add a correctly matched, high-quality hotel image gallery to every eligible directory profile using supplied, owner-authorized, or official source imagery; retain Diyar Al Sater, Hotel Lulu Al Arab, and Luluat Quba as intentionally media-free pending an exact identity-and-branch match.
+- [x] Verify gallery identity, mobile rendering, and absence of mismatched hotel imagery before publishing each image batch.
+- [x] Complete remaining eligible no-gallery hotel profiles in priority image batches, documenting any profile intentionally left without media because its identity is unresolved.
+- [x] Add and verify exact-property galleries for Artal Al-Monawwarah, Safwat Al Madinah, and Nusk Al Hijrah without importing listing facts.
+- [x] Add and verify exact-property galleries for The Venue Al Harithia, Maysan Al Taqwa, and Ruve Hotel Medinah without importing listing facts.
+- [x] Add and verify exact-property galleries for Tulip Inn Al Daar Rawafid, Maien Taiba, and AncyrA Rose by Continent Madinah without importing listing facts.
+- [x] Add and verify exact-property galleries for Plaza Inn Ohud, Assaafa Hotel, and Diyar Al Taqwa without importing listing facts.
+- [x] Add and verify exact-property galleries for Plaza Inn Ohud, Diyar Al Taqwa, and AURION Hotel Al-Aqeeq without importing listing facts; keep Assaafa Hotel media-free until separated from Assaafa Golden.
+- [x] Add and verify exact-property galleries for Zaha Taiba, Afaq Al Masi, and Afaq Al Salam Golden without importing listing facts or merging similar hotel identities.
+- [x] Add and verify exact-property galleries for Diyar Al Salam, Diyar Al Salam Silver, and Diyar Al Sater without cross-using similarly named branch imagery; Diyar Al Sater remains intentionally media-free pending exact imagery.
+- [x] Add and verify exact-property galleries for Diyar Al Salam, Diyar Al Salam Silver, and Cladium Hotel; leave Diyar Al Sater media-free until exact imagery is confirmed.
+- [x] Add and verify exact-property galleries for Shaza Al Baraka, Shaza Regency Plaza, and Zaha Al Munawara without cross-using similar branch imagery.
+- [x] Add and verify exact-property galleries for Grand Zowar, Al Ansar Golden Tulip, and Rabwat Al Safwa 7 without mixing Rabwat Al Safwa Golden or similar branches.
+- [x] Add and verify exact-property galleries for Diyar Wahat Al Nazeel, Mohamadia Al Zahra, and Anwar Al Zahraa without cross-using similarly named hotel imagery.
+- [x] Add and verify exact-property galleries for Holiday Villa Madinah, Waqt Al Nazeel, and AVAL Hotel without importing listing facts or mixing similarly named properties.
+- [x] Add and verify exact-property galleries for Assaafa Hotel, Diyafa Al Mukhtara, and Castle Hotel without mixing Assaafa Golden or importing listing facts.
+- [x] Add and verify exact-property galleries for Worth Peninsula, Golden Madinah, and Abraj Al Marzam using exact Medina property sources only.
+- [x] Add and verify exact-property galleries for Jiwar Taiba and Belvedere Hotel; retain the other similarly named remaining profiles media-free unless their identities are separated.
+- [x] Add and verify an exact-property gallery for Luluat Al Diyafa only after matching its Al Hasan ibn Ali source address to the reviewed profile; retain Alif 2 solely as a research discriminator.
+- [x] Review current technical health, mobile responsiveness, browser-console errors, network failures, and critical navigation paths before the next publish.
+- [x] Add a localized, accessible back-navigation control for the hotel catalogue and hotel-detail flow, with a safe directory fallback when browser history is unavailable.
+- [x] Add regression tests and mobile visual review for the new back-navigation experience.
+- [x] Audit customer-facing copy, multilingual brand naming, labels, contact calls to action, and unsafe or stale wording across public routes.
+- [x] Re-run technical health checks for TypeScript, tests, SSR metadata, runtime logs, critical links, and mobile layouts; fix any project-owned defects found.
+- [x] Export one complete, sanitized ZIP of the final project source, documentation, migrations, and setup materials without secrets or generated dependencies after the reviewed checkpoint is published.
+- [x] Ensure hotel search returns the same matching property for Arabic, English, and configured legacy names regardless of the active Arabic, English, Malay, Urdu, Indonesian, or Hindi interface locale; add regression coverage and mobile review.
+- [x] Improve the hotel-search no-results guidance and query-reset affordance across all six languages so visitors can recover quickly without leaving the directory.
+- [x] Add and verify the exact Trip.com Medina facade image for Dar Al Eiman Grand Hotel only, without using the distinct Makkah property or Dar Al Iman InterContinental imagery.
+- [x] Avoid surfacing a browser-console error when the optional Google Maps provider is unavailable; retain the visible external-directions fallback and add regression coverage for the unavailable-provider path.
+- [x] Update the historical gallery-coverage checklist wording to reflect that Dar Al Eiman Grand now has a reviewed facade gallery.
+- [x] Prepare portable external-hosting configuration, environment-variable guidance, database migration instructions, and deployment verification for a Node.js/MySQL-compatible provider without exposing secrets.
+- [x] Build, test, and inspect one refreshed external-hosting ZIP package containing the complete source and setup materials, without secrets or generated dependencies.
+- [x] Show an accessible first-visit language chooser for all six locales, preserve direct locale links, and save the visitor’s selection so it does not recur unnecessarily.
+- [x] Clarify the homepage hotel-catalogue and corporate-inquiry calls to action so visitors immediately understand their distinct destinations across supported languages and mobile layouts.
+- [x] Add an accessible, localized floating back control on internal pages that becomes available while scrolling and preserves the existing safe fallback navigation.
+- [x] Audit all referenced hotel and site image URLs, deliver a clean manifest, and determine the verified count and downloadable availability of their physical managed-storage files without fabricating a total.
+- [x] Add an accessible, localized hotel-gallery lightbox with image enlargement, next/previous navigation, keyboard support, and a mobile-friendly close action.
+- [x] Audit central-Madinah hotel coverage and gallery completeness; add only hotels and exact-property media that meet the established identity and location safeguards.
+- [x] Remove the Saudi telephone number and every public tel: call action while retaining the official WhatsApp and inquiry channels across locales.
+- [ ] Continue investigating missing or short hotel galleries and potentially absent central-Madinah properties; publish only exact-property images and independently matched hotel identities.
+- [x] Audit and complete the native owner hotel-management workspace for protected hotel create, edit, removal, publication, and managed-storage image workflows without introducing an insecure password login or public-folder media storage.
+- [x] Inventory and identity-match the uploaded Hotel_Images.zip before publishing any of its images to a specific hotel gallery.
+- [x] Produce one consolidated offline delivery ZIP containing the current source, admin workspace, database schemas, external-hosting documentation, and the managed image files available locally.
+- [x] Verify the consolidated delivery ZIP contents, integrity, and self-hosting instructions before providing it for download.
+- [x] Surface the official WhatsApp, email, and Facebook contact links prominently at the top of the homepage across supported locales without restoring public telephone actions.
+- [x] Rebuild and verify the single downloadable project-and-media ZIP after the homepage contact update.
+- [x] Move the Madinah and Makkah destination cards directly below the group-and-religious-travel programme prompt in the homepage hero, then verify responsive multilingual rendering.
+- [x] Diagnose why the owner hotel-management workspace is not visible to the user and restore or clarify secure admin access.
+- [x] Simplify the admin image uploader to require only a hotel record and image file, using the corporate pre-authorization policy internally without a visible rights-evidence field or warning.
+- [x] Add a protected General Settings module for editable homepage, contact, and baseline SEO content without source-code edits.
+- [x] Extend the controlled image workflow with image-level removal while preserving database and managed-storage integrity.
+- [x] Add an external-provider-ready storage configuration that uses standard environment variables and retains managed storage only as the current-host fallback.
+- [x] Produce a fully documented external deployment handoff that explicitly explains the required replacement of the current hosted OAuth runtime with a standard external administrator authentication implementation.
+- [x] Rebuild and verify the consolidated source-and-media ZIP after the independent-handoff work.
+- [x] Audit every supplied hotel-image archive asset against the current gallery records before final export, organizing only exact hotel/branch matches and documenting duplicates or unresolved files separately.
+- [ ] Audit all 158 hotel profiles for published, staged, and unresolved images; repair only exact hotel-and-branch matches and document every remaining exception.
+- [x] Identify only owner-archive images that are not currently published in any hotel gallery, then publish solely the exact hotel-and-branch matches.
+- [x] Generate and deliver an organized hotel-by-hotel list of exact confirmed image URLs, excluding unresolved owner-upload files.
+- [x] Raise the floating back and WhatsApp controls above the external platform badge safe area on mobile and desktop without blocking content.
+- [x] Produce a clean external deployment ZIP for GitHub/Render/TiDB/Cloudflare R2 with no secrets, an environment template, deployment guide, password-hash script, and safely organized media manifest.
+- [x] Add a clearly disclosed, neutral professional placeholder visual for Diyar Al Sater, Hotel Lulu Al Arab, and Luluat Quba without presenting it as property-specific photography.
+- [x] Name the external delivery configuration al-ghanem-travel-production and export the verified GitHub-ready package as Al-Ghanem-Travel-Production-Build.zip.
+- [x] Verify and add Nusk Al Eiman Hotel as a distinct Madinah hotel record only after matching its current operating identity and reviewed property point.
+- [x] Reconcile Grand Plaza Al Madinah, Grand Plaza Al Maqam, Rehab Harmony, western Madinah Novotel, Nusk Al Eman, Nusk Al Madinah, and Manar Al Eiman against current records and add only independently matched missing properties.
+- [x] Verify and prioritize these 12 hotel records—Grand Plaza Al Madinah, Grand Plaza Badr Al Maqam, Rehab Harmony, western Novotel Madinah, Nusk Al Eman, Nusk Al Madinah, Manar Al Eiman, Sidra Al Madinah, Al Sidrah Al Aliyah, Jiwar Taiba, Manazil Al Taqwa, and Karam Al Saadah—with exact identity, branch, location, matched images, and accurate details before placing them first in the catalogue.
+- [x] Add or retain only exact-property images for the 12 priority hotels; keep unresolved or branch-ambiguous media out of publication.
+- [x] Collect and deliver a hotel-by-hotel file of newly sourced image links for the priority catalogue records, clearly separating images absent from the owner's ZIP, published images, and unresolved external candidates.
+- [x] Include source links for unconfirmed image candidates in a clearly labeled review-only section, separate from new public image links and never presented as published hotel photography.
+- [x] Audit every priority hotel sent by the user for published, newly sourced, and missing images; add a clearly labeled Madinah destination placeholder to records without an exact-property image so no card remains empty.
+- [x] Verify the priority hotel image audit and mobile catalogue cards after placeholders are applied.
+- [x] Continue searching for exact-property images for every priority hotel still using a destination placeholder, and update only when hotel identity and branch match clearly.
+- [x] Add every newly found exact-property image that passes identity, branch, and quality review to the corresponding hotel gallery; retain disclosed placeholders for records without a safe match.
+- [x] Extract every hotel record and available image reference from the user-provided Madinah_Hotels_Catalog.pdf, reconcile it with existing records, and add all non-duplicate hotels with safe imagery or disclosed placeholders.
+- [x] Audit hotels with limited or lower-confidence galleries for additional exact-property image alternatives, publishing only images that clearly match the hotel and branch and documenting unresolved candidates separately.
+- [x] Apply a source hierarchy for hotel research: official hotel or management sites first, OTAs for cross-checking, Google Travel/Maps for location and exterior verification, approved B2B inventories when authorised, and traveller-photo sources only as non-publishable review evidence.
+- [x] Re-audit the twelve priority hotels—Grand Plaza Al Madinah, Grand Plaza Badr Al Maqam, Rehab Harmony, Novotel Madinah, Nusk Al Eman, Nusk Al Madinah, Manar Al Eiman, Sidrat Al Madinah, Al Sidrah Al Aliyah, Jiwar Taiba, Taqwa Manazil, and Karam Al Sada—for identity, location, matched media, and safe catalogue-first ordering.
+- [ ] Research additional active Madinah hotels comparable to the priority list, prevent duplicates, and add only records with matched current identity, reviewed property point, and safe public information.
+- [x] Add The Seasons Hotel Madinah as a cautious location-first profile only after confirming the current identity and Bani Harithah location across public sources.
+- [x] Add Season Star Hotel Madinah only after confirming its distinct current identity and King Abdul Aziz Road property location across public sources.
+- [x] Add SureStay by Best Western Madinah only after confirming the current Best Western identity and Bani Harithah property location across first-party and map sources.
+- [x] Fix the unlocalized `/hotels` directory route being intercepted by the generic locale route and verify that the directory opens correctly.
+
+- [x] Prepare a user-facing inventory of every Madinah hotel with no hotel-specific gallery, separating destination placeholders from truly empty galleries and listing the needed photo types.
+
+- [ ] Collect and verify working public image or image-page links for every hotel in the missing-photo inventory, organize them by hotel, and keep them review-only rather than publishing automatically.
+
+- [x] Create a TXT file with multiple working image-search links per missing hotel for exterior, rooms, lobby, and facilities, without publishing any image automatically.
+
+- [x] Extract direct image-file URLs for the missing hotel galleries, verify image content types and availability, and deliver only working direct links in a TXT file. (99 of 101 have curated direct links; two are documented as unavailable rather than misassigned.)
+- [x] Build a comprehensive direct-image TXT covering all hotels in the missing-photo inventory, with multiple verified image links per hotel whenever available. (The two remaining records have no safe, professional, property-matched set and are documented separately.)
+- [x] Audit direct-image links for resolution, clarity, visible identity, watermarks, and professional suitability; remove weak or ambiguous images before delivery.
+
+- [x] Update the IDM image-download Batch file so each hotel's images download into a distinct Windows subfolder named for that hotel, while preserving descriptive unique filenames. (452 commands verified with 149 created subfolders and no root-folder image commands.)
+
+- [x] Generate a Windows Batch file that moves the extracted owner-image archive from the user-provided source folder into exact hotel subfolders with cleaned, descriptive filenames. (441 move commands validated; 419 mapped exactly to hotel folders and 22 retained safely in a review folder.)
+
+- [x] Generate a final IDM Batch file that downloads all static live-site images into per-hotel folders under D:\Kareem files\AL Ghanem brand\All_Website_Images, including automatic folder creation commands. (452 IDM commands and 149 mkdir commands verified; every command uses the specified destination root.)
+
+- [x] Compare the supplied Medina hotel image ZIP packages with the current live-site image set and document the exact coverage and gaps. (The supplied bundles cover 80–162 images across 38–45 hotel folders; the current static site set has 452 images across 148 hotel folders plus site assets.)
+
+- [x] Audit the current website for production readiness, including code, configuration, tests, build, and externally hosted image paths. (TypeScript and all 271 active Vitest tests passed; the independent build also passed.)
+- [x] Produce a complete organized external-hosting ZIP with source, deployment documentation, image manifest, and no secrets. (Archive verified by ZIP integrity test; it carries all 818 current live-site image files.)
+- [x] Verify all image references, distinguish managed file-backed images from remote-only URLs, and deliver a complete direct-image link list for offline retrieval and later organization. (818 of 818 direct image URLs were re-downloaded as non-empty image files.)
+
+- [x] Expand exact hotel galleries beyond the current minimum coverage with additional reviewed exterior, room, lobby, dining, and facility images where safely available; publish only exact hotel-and-branch matches. (Published the 366 reviewed direct property images across 100 title-matched groups without replacing the baseline images.)
+
+- [x] Produce clearly labeled IDM download files for all current website images and for curated images not selected for public publication, so the owner can download physical files and re-upload them for later organization. (All currently published images are in the 818-link IDM set; 22 unassigned owner files are physical archive files retained separately because they have no safe public hotel assignment.)
+
+- [x] After completing the reviewed gallery expansion, deliver one final IDM batch covering every image then used on the website so the owner can download physical files and return them for organized external media packaging. (Final Batch has 818 current image-download commands grouped by hotel folder.)
+
+- [x] Provide a safe plain-text direct-image URL list that the owner can import into IDM when Windows blocks the downloaded Batch file. (818 direct image URLs, one per line, verified.)
+
+- [x] Inspect allmedia.zip, match its physical images to the current hotel galleries, and rebuild the external project package to use the organized physical media rather than managed-storage-only URLs. (818 of 818 files matched by SHA-256 with no missing file; the independent build and 271 active tests passed.)
+
+- [x] Redesign hotel-detail hero and gallery presentation for clean marketing screenshots, ensuring every profile shows its name, a concise identity panel, and balanced property imagery consistently across desktop and mobile. (The hotel name now appears directly above every gallery as well as in the profile hero.)
+
+- [x] Separate the floating back and WhatsApp controls with safe spacing and place them on opposite screen sides across desktop and mobile so neither overlaps hotel imagery or content. (WhatsApp uses the logical start side; the scroll back control uses the logical end side and a safe vertical offset on small screens.)
+
+- [x] Replace Dallah Taibah Hotel's primary gallery image with the clearer owner-provided exterior photo, while retaining the remainder of its gallery.
+
+- [x] Make the floating back control context-aware and position it higher above lower-screen overlays while preserving a safe route-specific fallback. (It appears after the visitor begins scrolling, uses browser history for same-site navigation, and otherwise uses the localized route fallback.)
+
+- [x] Add the owner-provided InterContinental Dar Al Hijra Madinah interior image to that hotel’s gallery only.
+
+- [x] Add the second owner-provided InterContinental Dar Al Hijra Madinah guest-room image to that hotel’s gallery only.
+
+- [x] Add the seven owner-provided Karam Al Saadah Hotel room and bathroom images to that hotel’s gallery only.
+
+- [x] Restyle the hotel-detail top back control as a clear, prominent button and verify it navigates reliably back to the hotel directory or previous same-site page.
+
+- [x] Verify whether the property identified as "Roya Al Alami" exists in Madinah and confirm whether the eleven supplied Golden Tulip/Qasr Al Ansar exterior, reception, lobby, corridor, and room photos belong to that exact property or to the existing Qasr Al Ansar Golden Tulip Hotel record before publishing them.
+
+- [x] Regenerate the IDM Batch and plain image-link files after the Karam Al Saadah and Qasr Al Ansar Golden Tulip image updates, verifying the current URL count and hotel-folder grouping. (839 unique live-site image URLs, including 7 Karam Al Saadah owner images and 11 Qasr Al Ansar Golden Tulip owner images.)
+
+- [x] Rebuild the external physical-media delivery package after the Karam Al Saadah and Qasr Al Ansar Golden Tulip image updates so every current live-site image is included as a physical file. (839 of 839 live-site image files downloaded, verified, and included under media/live-site-files with an updated media-organizer manifest.)
+
+- [x] Run a current automated audit of hotel records, duplicate slugs, gallery assignments, image URL coverage, and project structure before preparing the requested comprehensive export. (167 public hotel profiles, 0 duplicate public slugs, 815 public gallery URLs, 839 live-site image files verified, 0 missing physical files.)
+
+- [x] Create a project file catalogue for the export package, documenting the important source, schema, media, generated, and deployment files included in the ZIP. (Created Markdown and JSON catalogues under docs/generated and copied them into the external package.)
+
+- [x] Produce a new comprehensive ZIP package containing the latest source, schemas, documentation, generated image-link files, project-file catalogue, and current physical media export after verification. (Prepared as Al-Ghanem-Travel-Production-Build-2026-08-27.zip with source, schemas, docs, catalogues, generated IDM files, and physical media.)
+
+- [x] أولوية: إعادة التحقق من هوية فندق قصر الأنصار جولدن توليب والفرع قبل اعتماد الصورة المرفقة أو أي صور مرتبطة به. (تم تمييزه عن Golden Tulip Al Ansar.)
+- [ ] أولوية: مراجعة كل صورة منشورة في معرض قصر الأنصار جولدن توليب، وفصل أو إزالة الصور التي لا يثبت تطابقها مع الفندق والفرع الصحيح.
+- [x] أولوية: إعادة اختبار صفحة قصر الأنصار بصرياً وتقنياً وتحديث ملفات الصور والحزمة الخارجية بعد اعتماد المعرض المصحح. (نجح TypeScript، واختبارا المعرض والدليل، والبناء، وأعيد بناء ZIP بصور 838.)
+
+- [ ] لاحقاً: تعميم تدقيق تطابق الصور والهوية على بقية الفنادق بعد إغلاق مراجعة قصر الأنصار.
+
+- [x] حذف سجل فندق قصر الأنصار جولدن توليب وصوره المرتبطة به من الكتالوج المنشور بناءً على تأكيد المستخدم، مع عدم حذف سجل Golden Tulip Al Ansar المنفصل. (تم superseded بعد توضيح المستخدم؛ لم يُحذف أي سجل.)
+- [x] اختبار سلامة الموقع بعد حذف قصر الأنصار، وتحديث إحصاءات الفنادق وملفات الوسائط والحزمة الخارجية عند اكتمال الإزالة. (تم superseded؛ التعديل الصحيح كان حذف صورة واحدة فقط، واختبارات السجلين نجحت.)
+
+- [x] تصحيح الطلب: حذف الصورة الخاطئة الظاهرة في لقطة معرض قصر الأنصار جولدن توليب فقط، مع إبقاء سجل الفندق وعدم حذف الفندق نفسه. (اتضح أن اللقطة تخص Golden Tulip Al Ansar؛ أزيلت صورة الواجهة من هذا السجل فقط.)
+- [ ] مراجعة بقية صور معرض قصر الأنصار جولدن توليب قبل اعتمادها نهائياً؛ الصورة المرفوضة أزيلت، لكن التحقق الشامل من كل صورة يحتاج مراجعة مستقلة.
+
+- [x] تدقيق وتوحيد أسماء سجلات الأنصار المتشابهة، بما يشمل قصر الأنصار جولدن توليب والأنصار جولدن توليب والأسماء التاريخية/البديلة، قبل تعديل الصور. (الاسمان الحاليان مميزان: Golden Tulip Al Ansar وAl Ansar Palace Golden Tulip Hotel.)
+- [x] توثيق السجل المقصود لكل اسم ومنع تكرار أو خلط المعارض بين السجلات المتشابهة. (تم اختبار أن معرض كل سجل منفصل عن الآخر.)
+
+- [x] اعتماد الواجهة الخارجية المطابقة كأول صورة في بطاقة الفندق والمعرض عند توفرها، ثم ترتيب اللوبي والاستقبال فالغرف والحمامات والمرافق. (تم تطبيق ترتيب عرض آمن واختباره.)
+- [x] تدقيق الفنادق التي تبدأ حالياً بصورة غرفة أو لوبي، وفصل الحالات التي لا تتوفر لها واجهة مؤكدة بدلاً من خلط صورة فندق آخر. (المعارض ذات تسمية واجهة واضحة تعرضها أولاً؛ الصور غير المسمّاة تُترك دون تخمين.)
+
+- [x] تجهيز آخر نسخة شاملة بكل التعديلات، الصور الفعلية، كتالوج الملفات، وملف ZIP خارجي صالح للاستخدام خارجياً. (ZIP سليم، 838 صورة فعلية، وكتالوج المشروع محدث.)
+- [x] تشغيل الفحوصات والبناء النهائيين وتوثيق أي تحذير بيئي منفصل عن أخطاء الكود. (276 اختباراً ناجحاً، اختبار واحد skipped، TypeScript والبناء ناجحان؛ تحذير chunk-size فقط.)
+- [x] إنشاء أو تحديث مستودع GitHub خاص باسم Al-Ghanem-Travel-Production دون رفع الأسرار أو node_modules أو ملفات البناء المؤقتة. (تم إنشاء المستودع الخاص ورفع main.)
+- [ ] تسليم رابط الموقع الحي ورابط GitHub وملف ZIP وSHA-256 للمستخدم.
+
+- [ ] إنشاء أرشيف كامل يضم كل ملفات المصدر والمكونات والوثائق والوسائط الفعلية وملفات الإعداد، دون حذف أي جزء من كود الموقع.
+- [ ] إنشاء كتالوج دقيق لمحتويات الأرشيف الكامل مع توضيح أن node_modules وdist وملفات الأسرار مستبعدة فقط لأسباب النقل والأمان وقابلية إعادة التثبيت.
+- [ ] تحديث مستودع GitHub والملف النهائي بعد تجهيز الأرشيف الكامل وتسليم الرابطين للمستخدم.

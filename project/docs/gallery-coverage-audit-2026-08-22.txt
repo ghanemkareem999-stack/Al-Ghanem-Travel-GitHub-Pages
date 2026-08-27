@@ -1,0 +1,1925 @@
+{
+  "summary": {
+    "verifiedProfileCount": 120,
+    "profilesWithGallery": 117,
+    "profilesWithoutGallery": 3,
+    "profilesWithReviewedMap": 120,
+    "evidenceLevels": {
+      "official_property": 52,
+      "map_listing": 68
+    }
+  },
+  "rows": [
+    {
+      "slug": "dar-al-taqwa-madinah",
+      "name": "Dar Al Taqwa Hotel",
+      "arabicName": "فندق دار التقوى",
+      "category": "premium",
+      "galleryCount": 3,
+      "gallery": [
+        "/manus-storage/dar-al-taqwa-madinah-room-2026_a6636fc2.jpg",
+        "/manus-storage/dar-al-taqwa-madinah-lobby-2026_88c6b228.jpg",
+        "/manus-storage/dar-al-taqwa-madinah-dining-2026_29d983e4.jpg"
+      ],
+      "evidenceLevel": "official_property",
+      "hasMap": true,
+      "nearestGate": "Haram Courtyard Gate No. 316",
+      "sourceUrl": "https://www.taqwamadinah.com/"
+    },
+    {
+      "slug": "biltmore-al-madinah",
+      "name": "The Biltmore Al Madinah Hotel",
+      "arabicName": "فندق بيلتمور المدينة المنورة",
+      "category": "premium",
+      "galleryCount": 3,
+      "gallery": [
+        "/manus-storage/biltmore-al-madinah-suite-2026_d7a31330.jpg",
+        "/manus-storage/biltmore-al-madinah-dining-2026_02ff6ba3.jpg",
+        "/manus-storage/biltmore-al-madinah-lobby-2026_7ff24bc8.jpg"
+      ],
+      "evidenceLevel": "official_property",
+      "hasMap": true,
+      "nearestGate": null,
+      "sourceUrl": "https://www.thebiltmorehotels.com/en/the-biltmore-al-madinah-hotel/"
+    },
+    {
+      "slug": "new-madinah-hotel",
+      "name": "New Madinah Hotel",
+      "arabicName": null,
+      "category": "executive",
+      "galleryCount": 3,
+      "gallery": [
+        "/manus-storage/new-madinah-hotel-exterior-2026_29c83619.jpg",
+        "/manus-storage/new-madinah-hotel-room-2026_360a7f4f.jpg",
+        "/manus-storage/new-madinah-hotel-lobby-2026_47c1e336.jpg"
+      ],
+      "evidenceLevel": "official_property",
+      "hasMap": true,
+      "nearestGate": "Bab Al Baqi",
+      "sourceUrl": "https://www.ihg.com/spnd/hotels/us/en/madinah/medvm/hoteldetail"
+    },
+    {
+      "slug": "saja-by-warwick-madinah",
+      "name": "Saja by Warwick Madinah",
+      "arabicName": null,
+      "category": "executive",
+      "galleryCount": 3,
+      "gallery": [
+        "/manus-storage/saja-by-warwick-madinah-exterior-2026_e4e1947b.jpg",
+        "/manus-storage/saja-by-warwick-madinah-room-2026_515df4e9.jpg",
+        "/manus-storage/saja-by-warwick-madinah-lobby-2026_2944db32.jpg"
+      ],
+      "evidenceLevel": "official_property",
+      "hasMap": true,
+      "nearestGate": null,
+      "sourceUrl": "https://www.warwickhotels.com/saja-by-warwick-madinah"
+    },
+    {
+      "slug": "golden-tulip-al-zahabi",
+      "name": "Golden Tulip Al Zahabi",
+      "arabicName": null,
+      "category": "executive",
+      "galleryCount": 3,
+      "gallery": [
+        "/manus-storage/golden-tulip-al-zahabi-exterior-2026_d05c6586.jpg",
+        "/manus-storage/golden-tulip-al-zahabi-room-2026_4c05ab99.jpg",
+        "/manus-storage/golden-tulip-al-zahabi-lobby-2026_b18b2647.jpg"
+      ],
+      "evidenceLevel": "official_property",
+      "hasMap": true,
+      "nearestGate": null,
+      "sourceUrl": "https://al-zahabi.goldentulip.com/en-us/"
+    },
+    {
+      "slug": "dar-al-iman-intercontinental",
+      "name": "InterContinental Dar Al Iman Madinah",
+      "arabicName": null,
+      "category": "premium",
+      "galleryCount": 6,
+      "gallery": [
+        "/manus-storage/01_dar_al_iman_intercontinental__exterior__02_7503a7d3.webp",
+        "/manus-storage/dar-al-iman-madinah-room-2026_6462e1c6.jpg",
+        "/manus-storage/dar-al-iman-madinah-lounge-2026_0038b5bd.jpg",
+        "/manus-storage/01_dar_al_iman_intercontinental__exterior__01_a773e3cf.webp",
+        "/manus-storage/01_dar_al_iman_intercontinental__exterior__02_b46049ce.webp",
+        "/manus-storage/01_dar_al_iman_intercontinental__room__01_1993f8d5.webp"
+      ],
+      "evidenceLevel": "official_property",
+      "hasMap": true,
+      "nearestGate": "Haram Courtyard Gate No. 316",
+      "sourceUrl": "https://www.ihg.com/intercontinental/hotels/us/en/madinah/medha/hoteldetail"
+    },
+    {
+      "slug": "anwar-al-madinah-movenpick",
+      "name": "Anwar Al Madinah Mövenpick",
+      "arabicName": null,
+      "category": "premium",
+      "galleryCount": 5,
+      "gallery": [
+        "/manus-storage/05_anwar_al_madinah_movenpick__exterior__01_67815a5e.webp",
+        "/manus-storage/anwar-al-madinah-movenpick-room-2026_c2da374e.jpg",
+        "/manus-storage/anwar-al-madinah-movenpick-dining-2026_5929c04d.jpg",
+        "/manus-storage/05_anwar_al_madinah_movenpick__exterior__01_15400a7b.webp",
+        "/manus-storage/05_anwar_al_madinah_movenpick__room__01_572fb92b.webp"
+      ],
+      "evidenceLevel": "official_property",
+      "hasMap": true,
+      "nearestGate": "Haram Courtyard Gate No. 316",
+      "sourceUrl": "https://movenpick.accor.com/en/middle-east/saudi-arabia/madinah/hotel-madinah-anwar.html"
+    },
+    {
+      "slug": "hilton-madinah",
+      "name": "Madinah Hilton",
+      "arabicName": "فندق هيلتون المدينة",
+      "category": "premium",
+      "galleryCount": 5,
+      "gallery": [
+        "/manus-storage/06_hilton_madinah__exterior__01_1980d1b9.webp",
+        "/manus-storage/hilton-madinah-room-2026_ea7e1d25.jpg",
+        "/manus-storage/hilton-madinah-lounge-2026_44577b3d.jpg",
+        "/manus-storage/06_hilton_madinah__exterior__01_c2270329.webp",
+        "/manus-storage/06_hilton_madinah__room__01_1ebf8f7b.webp"
+      ],
+      "evidenceLevel": "official_property",
+      "hasMap": true,
+      "nearestGate": "Haram Courtyard Gate No. 316",
+      "sourceUrl": "https://www.hilton.com/en/hotels/medhihi-madinah-hilton/"
+    },
+    {
+      "slug": "millennium-madinah",
+      "name": "Millennium Al Aqeeq Hotel",
+      "arabicName": null,
+      "category": "executive",
+      "galleryCount": 3,
+      "gallery": [
+        "/manus-storage/millennium-al-aqeeq-exterior-2026_239eb0d4.webp",
+        "/manus-storage/millennium-al-aqeeq-room-2026_e0b7640d.jpg",
+        "/manus-storage/millennium-al-aqeeq-lobby-2026_19f63fbb.jpg"
+      ],
+      "evidenceLevel": "official_property",
+      "hasMap": true,
+      "nearestGate": "King Fahad Gate",
+      "sourceUrl": "https://www.millenniumhotels.com/en/madinah/millennium-al-aqeeq-hotel/"
+    },
+    {
+      "slug": "radisson-hotel-madinah",
+      "name": "Radisson Hotel Madinah",
+      "arabicName": null,
+      "category": "executive",
+      "galleryCount": 4,
+      "gallery": [
+        "/manus-storage/radisson-hotel-madinah-exterior-2026_b832254a.jpg",
+        "/manus-storage/radisson-hotel-madinah-room-2026_a26a9e92.jpg",
+        "/manus-storage/radisson-hotel-madinah-lobby-2026_d0770aeb.jpg",
+        "/manus-storage/30_radisson_blu_madinah__exterior__01_dfed9fee.webp"
+      ],
+      "evidenceLevel": "official_property",
+      "hasMap": true,
+      "nearestGate": null,
+      "sourceUrl": "https://www.radissonhotels.com/en-us/destination/saudi-arabia/madinah"
+    },
+    {
+      "slug": "crowne-plaza-madinah",
+      "name": "Crowne Plaza Madinah",
+      "arabicName": null,
+      "category": "premium",
+      "galleryCount": 6,
+      "gallery": [
+        "/manus-storage/27_crowne_plaza_madinah__exterior__01_8c5800be.webp",
+        "/manus-storage/crowne-plaza-madinah-room-2026_3f671de9.jpg",
+        "/manus-storage/crowne-plaza-madinah-dining-2026_e5165fff.jpg",
+        "/manus-storage/crowne-plaza-madinah-lobby-2026_63fd0d11.jpg",
+        "/manus-storage/27_crowne_plaza_madinah__exterior__01_2438f63d.webp",
+        "/manus-storage/27_crowne_plaza_madinah__room__01_158bda6d.webp"
+      ],
+      "evidenceLevel": "official_property",
+      "hasMap": true,
+      "nearestGate": "Al Salam Gate",
+      "sourceUrl": "https://www.ihg.com/crowneplaza/hotels/us/en/madinah/medin/hoteldetail"
+    },
+    {
+      "slug": "doubletree-by-hilton-madinah-gate",
+      "name": "DoubleTree by Hilton Madinah Gate",
+      "arabicName": null,
+      "category": "executive",
+      "galleryCount": 4,
+      "gallery": [
+        "/manus-storage/doubletree-madinah-gate-room-2026_d74126a5.jpg",
+        "/manus-storage/doubletree-madinah-gate-dining-2026_59045298.jpg",
+        "/manus-storage/doubletree-madinah-gate-lobby-2026_922440b3.jpg",
+        "/manus-storage/29_doubletree_madinah_gate__room__01_8751ec5f.webp"
+      ],
+      "evidenceLevel": "official_property",
+      "hasMap": true,
+      "nearestGate": null,
+      "sourceUrl": "https://www.hilton.com/en/hotels/medmgdi-doubletree-madinah-gate/"
+    },
+    {
+      "slug": "al-mokhtara-international",
+      "name": "Mokhtara International Hotel",
+      "arabicName": "فندق المختارة العالمي",
+      "category": "value",
+      "galleryCount": 4,
+      "gallery": [
+        "/manus-storage/15_mokhtara_international__exterior__01_3cee8d58.webp",
+        "/manus-storage/15_mokhtara_international__exterior__02_01a4cd8c.webp",
+        "/manus-storage/al-mukhtara-international-room-2026_cc0ede0b.jpg",
+        "/manus-storage/al-mukhtara-international-lobby-2026_73129fbc.jpg"
+      ],
+      "evidenceLevel": "official_property",
+      "hasMap": true,
+      "nearestGate": null,
+      "sourceUrl": "https://mukhtarahotels.com/"
+    },
+    {
+      "slug": "al-ritz-al-madinah",
+      "name": "Al Ritz Al Madinah Hotel",
+      "arabicName": null,
+      "category": "value",
+      "galleryCount": 3,
+      "gallery": [
+        "/manus-storage/al-ritz-al-madinah-exterior-2026_758f5568.jpg",
+        "/manus-storage/al-ritz-al-madinah-room-2026_377c0346.jpg",
+        "/manus-storage/al-ritz-al-madinah-lobby-2026_f3c36798.jpg"
+      ],
+      "evidenceLevel": "official_property",
+      "hasMap": true,
+      "nearestGate": null,
+      "sourceUrl": "https://mukhtarahotels.com/hotel?Hotel=6767d5416eb54fffbf59a7e5&checkIn=2026-08-07&checkOut=2026-08-08&rooms=1&adults=1"
+    },
+    {
+      "slug": "al-waqf-serviced-apartments",
+      "name": "Waqf Uthman Bin Affan Hotel",
+      "arabicName": null,
+      "category": "value",
+      "galleryCount": 3,
+      "gallery": [
+        "/manus-storage/waqf-uthman-bin-affan-exterior-2026_d8b0f683.jpg",
+        "/manus-storage/24_waqf_othman_bin_affan__room__01_2de361b4.webp",
+        "/manus-storage/waqf-uthman-bin-affan-lobby-2026_2382ecd1.jpg"
+      ],
+      "evidenceLevel": "official_property",
+      "hasMap": true,
+      "nearestGate": null,
+      "sourceUrl": "https://mokhtaragroup.com/hotels/waqf-uthman-bin-affan"
+    },
+    {
+      "slug": "intercontinental-dar-al-hijra-madinah",
+      "name": "InterContinental Dar Al Hijra Madinah",
+      "arabicName": "فندق دار الهجرة إنتركونتيننتال المدينة",
+      "category": "premium",
+      "galleryCount": 3,
+      "gallery": [
+        "/manus-storage/intercontinental-dar-al-hijra-madinah-exterior-2026_bb5bbdf7.jpg",
+        "/manus-storage/intercontinental-dar-al-hijra-madinah-room-2026_6abede9f.jpg",
+        "/manus-storage/intercontinental-dar-al-hijra-madinah-lounge-2026_da77c02b.jpg"
+      ],
+      "evidenceLevel": "official_property",
+      "hasMap": true,
+      "nearestGate": "King Fahad Gate",
+      "sourceUrl": "https://www.ihg.com/intercontinental/hotels/us/en/madinah/medhb/hoteldetail"
+    },
+    {
+      "slug": "sofitel-shahd-al-madinah",
+      "name": "Sofitel Shahd Al Madinah",
+      "arabicName": "فندق سوفيتل شهد المدينة",
+      "category": "premium",
+      "galleryCount": 3,
+      "gallery": [
+        "/manus-storage/sofitel-shahd-exterior_e36b9568.jpg",
+        "/manus-storage/sofitel-shahd-room_ead5cfae.jpg",
+        "/manus-storage/sofitel-shahd-skyline_a1cf3910.jpg"
+      ],
+      "evidenceLevel": "official_property",
+      "hasMap": true,
+      "nearestGate": null,
+      "sourceUrl": "https://all.accor.com/hotel/B9X5/index.en.shtml"
+    },
+    {
+      "slug": "dallah-taibah",
+      "name": "Dallah Taibah Hotel",
+      "arabicName": "فندق دلة طيبة",
+      "category": "executive",
+      "galleryCount": 1,
+      "gallery": [
+        "/manus-storage/08_dallah_taibah__exterior__01_80cb409d.webp"
+      ],
+      "evidenceLevel": "official_property",
+      "hasMap": true,
+      "nearestGate": null,
+      "sourceUrl": "https://www.google.com/travel/hotels/dallah-taibah-hotel-hotels"
+    },
+    {
+      "slug": "novotel-madinah",
+      "name": "Novotel Madinah",
+      "arabicName": "فندق نوفوتيل المدينة المنورة",
+      "category": "executive",
+      "galleryCount": 3,
+      "gallery": [
+        "/manus-storage/novotel-madinah-room_5c83530d.jpg",
+        "/manus-storage/novotel-madinah-exterior_557edb7c.jpg",
+        "/manus-storage/novotel-madinah-lobby_f621b6cb.jpg"
+      ],
+      "evidenceLevel": "official_property",
+      "hasMap": true,
+      "nearestGate": null,
+      "sourceUrl": "https://all.accor.com/hotel/B9H5/index.en.shtml"
+    },
+    {
+      "slug": "kayan-international-hotel",
+      "name": "Kayan International Hotel",
+      "arabicName": "فندق كيان العالمي",
+      "category": "value",
+      "galleryCount": 3,
+      "gallery": [
+        "/manus-storage/kayan-international-lobby_793e81fa.png",
+        "/manus-storage/kayan-international-room_9dcd4d06.jpg",
+        "/manus-storage/kayan-international-exterior_b735c7b0.jpg"
+      ],
+      "evidenceLevel": "official_property",
+      "hasMap": true,
+      "nearestGate": null,
+      "sourceUrl": "https://www.google.com/travel/hotels/entity/CgsI5uSS_6C446PFARAB"
+    },
+    {
+      "slug": "al-manakha-rotana-madinah",
+      "name": "Al Manakha Rotana Madinah",
+      "arabicName": "فندق المناخة روتانا المدينة",
+      "category": "executive",
+      "galleryCount": 3,
+      "gallery": [
+        "/manus-storage/al-manakha-rotana-exterior_f54f77cc.jpg",
+        "/manus-storage/al-manakha-rotana-lobby_2d5a3042.jpg",
+        "/manus-storage/al-manakha-rotana-room_3c0e81b2.jpg"
+      ],
+      "evidenceLevel": "official_property",
+      "hasMap": true,
+      "nearestGate": null,
+      "sourceUrl": "https://www.rotana.com/rotanahotelandresorts/kingdomofsaudiarabia/madinah/almanakharotana"
+    },
+    {
+      "slug": "mysk-al-balad-madinah",
+      "name": "Mysk Al Balad Hotel Madinah",
+      "arabicName": "فندق مسك البلد المدينة",
+      "category": "value",
+      "galleryCount": 3,
+      "gallery": [
+        "/manus-storage/mysk-al-balad-exterior_863ce27f.jpg",
+        "/manus-storage/mysk-al-balad-room_2289e1e4.jpg",
+        "/manus-storage/mysk-al-balad-lobby_a5d8d726.jpg"
+      ],
+      "evidenceLevel": "official_property",
+      "hasMap": true,
+      "nearestGate": null,
+      "sourceUrl": "https://myskhotels.com/en/our-hotels/mysk-al-balad/"
+    },
+    {
+      "slug": "maden-hotel-madinah",
+      "name": "Maden Hotel",
+      "arabicName": "فندق مادن",
+      "category": "premium",
+      "galleryCount": 3,
+      "gallery": [
+        "/manus-storage/maden-hotel-exterior_24163449.jpg",
+        "/manus-storage/maden-hotel-lobby_6a050a38.jpg",
+        "/manus-storage/maden-hotel-room_3ff43321.jpg"
+      ],
+      "evidenceLevel": "official_property",
+      "hasMap": true,
+      "nearestGate": null,
+      "sourceUrl": "https://madenhotels.com/en/hotels-maden-2/"
+    },
+    {
+      "slug": "elaf-al-taqwa-madinah",
+      "name": "Elaf Al Taqwa Hotel",
+      "arabicName": "فندق إيلاف التقوى",
+      "category": "executive",
+      "galleryCount": 3,
+      "gallery": [
+        "/manus-storage/elaf-al-taqwa-exterior_4c92e46b.jpg",
+        "/manus-storage/elaf-al-taqwa-room_f75acbe8.jpg",
+        "/manus-storage/elaf-al-taqwa-facade_c97b6e12.webp"
+      ],
+      "evidenceLevel": "official_property",
+      "hasMap": true,
+      "nearestGate": null,
+      "sourceUrl": "https://www.elafhotels.com/en/elaf-al-taqwa"
+    },
+    {
+      "slug": "elaf-taiba-madinah",
+      "name": "Elaf Taiba Hotel",
+      "arabicName": "فندق إيلاف طيبة",
+      "category": "executive",
+      "galleryCount": 3,
+      "gallery": [
+        "/manus-storage/elaf-taiba-lobby_c986b5f3.jpg",
+        "/manus-storage/elaf-taiba-reception_cc5dce9c.jpg",
+        "/manus-storage/elaf-taiba-room_873488b0.jpg"
+      ],
+      "evidenceLevel": "official_property",
+      "hasMap": true,
+      "nearestGate": null,
+      "sourceUrl": "https://www.elafhotels.com/en/elaf-taiba"
+    },
+    {
+      "slug": "taiba-front-madinah",
+      "name": "Taiba Front Hotel",
+      "arabicName": "فندق واجهة طيبة",
+      "category": "executive",
+      "galleryCount": 3,
+      "gallery": [
+        "/manus-storage/taiba-front-exterior_6c74a068.jpg",
+        "/manus-storage/taiba-front-lobby_090a4373.jpg",
+        "/manus-storage/taiba-front-room_afe547c2.jpg"
+      ],
+      "evidenceLevel": "official_property",
+      "hasMap": true,
+      "nearestGate": null,
+      "sourceUrl": "https://aqeeqhotels.com/taibafronthotel/"
+    },
+    {
+      "slug": "emaar-taibah-madinah",
+      "name": "Emaar Taibah Hotel",
+      "arabicName": "فندق إعمار طيبة",
+      "category": "value",
+      "galleryCount": 3,
+      "gallery": [
+        "/manus-storage/emaar-taibah-exterior_78f231be.jpg",
+        "/manus-storage/emaar-taibah-room_ba21390c.jpg",
+        "/manus-storage/emaar-taibah-lobby_ec02733b.jpg"
+      ],
+      "evidenceLevel": "map_listing",
+      "hasMap": true,
+      "nearestGate": "Al Salam Gate B",
+      "sourceUrl": "https://www.google.com/travel/hotels/entity/ChoI9o728rWIkqaiARoNL2cvMTF0YzB2OGx5YxAB"
+    },
+    {
+      "slug": "swiss-international-taba-al-salam",
+      "name": "Swiss International Taba Al Salam",
+      "arabicName": "فندق سويس إنترناشيونال طيبة السلام",
+      "category": "value",
+      "galleryCount": 3,
+      "gallery": [
+        "/manus-storage/swiss-taba-al-salam-exterior_01a3803f.jpg",
+        "/manus-storage/swiss-taba-al-salam-reception_2c2b7136.jpg",
+        "/manus-storage/swiss-taba-al-salam-room_5756efbb.jpg"
+      ],
+      "evidenceLevel": "map_listing",
+      "hasMap": true,
+      "nearestGate": "Al Salam Gate B",
+      "sourceUrl": "https://www.alkhomri.com.sa/en/sector-details/3"
+    },
+    {
+      "slug": "emaar-maktan-madinah",
+      "name": "Emaar Maktan Hotel",
+      "arabicName": "فندق إعمار مكتان",
+      "category": "value",
+      "galleryCount": 3,
+      "gallery": [
+        "/manus-storage/emaar-maktan-exterior_d35561f3.jpg",
+        "/manus-storage/emaar-maktan-room_8ca68d7f.jpg",
+        "/manus-storage/emaar-maktan-lobby_bc65f6b5.jpg"
+      ],
+      "evidenceLevel": "official_property",
+      "hasMap": true,
+      "nearestGate": null,
+      "sourceUrl": "https://www.google.com.gh/travel/hotels/entity/ChkItfb-wrjdjt8FGg0vZy8xMWszd3d0bTlmEAE"
+    },
+    {
+      "slug": "jiwar-al-madina",
+      "name": "Jiwar Al Madina Hotel",
+      "arabicName": "فندق جوار المدينة",
+      "category": "value",
+      "galleryCount": 3,
+      "gallery": [
+        "/manus-storage/jiwar-al-madina-exterior_7523dcfc.jpg",
+        "/manus-storage/jiwar-al-madina-room_33da0c94.jpg",
+        "/manus-storage/jiwar-al-madina-lobby_72bdeb66.jpg"
+      ],
+      "evidenceLevel": "official_property",
+      "hasMap": true,
+      "nearestGate": null,
+      "sourceUrl": "https://www.jiwaralmadina.com/"
+    },
+    {
+      "slug": "maden-al-rawda-madinah",
+      "name": "Maden Al Rawda Hotel",
+      "arabicName": "فندق مادن الروضة",
+      "category": "premium",
+      "galleryCount": 3,
+      "gallery": [
+        "/manus-storage/maden-al-rawda-exterior_c586f683.jpg",
+        "/manus-storage/maden-al-rawda-room_208f94ca.jpg",
+        "/manus-storage/maden-al-rawda-lobby_c760748b.jpg"
+      ],
+      "evidenceLevel": "official_property",
+      "hasMap": true,
+      "nearestGate": null,
+      "sourceUrl": "https://madenhotels.com/en/hotels-maden-alrawda/"
+    },
+    {
+      "slug": "faraj-almadina-hotel",
+      "name": "Faraj Almadina Hotel",
+      "arabicName": "فندق فرج المدينة",
+      "category": "value",
+      "galleryCount": 3,
+      "gallery": [
+        "/manus-storage/faraj-almadina-room_7a0c1cfd.jpg",
+        "/manus-storage/faraj-almadina-reception_7d99bd75.jpg",
+        "/manus-storage/faraj-almadina-public-space_1345d74f.jpg"
+      ],
+      "evidenceLevel": "official_property",
+      "hasMap": true,
+      "nearestGate": null,
+      "sourceUrl": "https://www.faraj-almadina-hotel.com/index.ar.html"
+    },
+    {
+      "slug": "jawharat-al-rasheed-madinah",
+      "name": "Jawharat Al Rasheed Hotel",
+      "arabicName": "فندق جوهرة الرشيد",
+      "category": "value",
+      "galleryCount": 3,
+      "gallery": [
+        "/manus-storage/jawharat-al-rasheed-room_34f22827.jpg",
+        "/manus-storage/jawharat-al-rasheed-reception_9bf622aa.webp",
+        "/manus-storage/jawharat-al-rasheed-lobby_07b04114.webp"
+      ],
+      "evidenceLevel": "official_property",
+      "hasMap": true,
+      "nearestGate": null,
+      "sourceUrl": "https://jawharatalrasheedhotel.com/"
+    },
+    {
+      "slug": "manarat-al-taj-madinah",
+      "name": "Manarat Al Taj Hotel",
+      "arabicName": "فندق منارة التاج",
+      "category": "value",
+      "galleryCount": 2,
+      "gallery": [
+        "/manus-storage/manarat-al-taj-lobby_2c6f6b02.jpg",
+        "/manus-storage/manarat-al-taj-room_5539362d.jpg"
+      ],
+      "evidenceLevel": "official_property",
+      "hasMap": true,
+      "nearestGate": null,
+      "sourceUrl": "https://www.traveloka.com/en-en/hotel/saudi-arabia/manarat-al-taj-hotel-9000000546994"
+    },
+    {
+      "slug": "manar-al-eiman-madinah",
+      "name": "Manar Al Eiman Hotel",
+      "arabicName": "فندق منار الإيمان",
+      "category": "value",
+      "galleryCount": 3,
+      "gallery": [
+        "/manus-storage/manar-al-eiman-exterior_2abe022a.jpg",
+        "/manus-storage/manar-al-eiman-room_762f0201.jpg",
+        "/manus-storage/manar-al-eiman-reception_3c8fcd4d.jpg"
+      ],
+      "evidenceLevel": "map_listing",
+      "hasMap": true,
+      "nearestGate": null,
+      "sourceUrl": "https://www.google.com/maps/search/?api=1&query=Manar%20Al%20Eiman%20Hotel%2C%20Madinah%2C%20Saudi%20Arabia"
+    },
+    {
+      "slug": "bosphorus-hotel-medina",
+      "name": "Bosphorus Hotel Medina",
+      "arabicName": "فندق البوسفور المدينة",
+      "category": "value",
+      "galleryCount": 3,
+      "gallery": [
+        "/manus-storage/bosphorus-hotel-medina-exterior_e26196b8.jpg",
+        "/manus-storage/bosphorus-hotel-medina-room_567b84cf.jpg",
+        "/manus-storage/bosphorus-hotel-medina-lobby_81ea5be4.jpg"
+      ],
+      "evidenceLevel": "official_property",
+      "hasMap": true,
+      "nearestGate": null,
+      "sourceUrl": "https://bosphorus-group.com/"
+    },
+    {
+      "slug": "mirage-al-salam-madinah",
+      "name": "Mirage Al Salam Hotel",
+      "arabicName": "فندق ميراج السلام",
+      "category": "value",
+      "galleryCount": 3,
+      "gallery": [
+        "/manus-storage/mirage-al-salam-exterior_d7907a3e.jpg",
+        "/manus-storage/mirage-al-salam-room_b8176cc3.jpg",
+        "/manus-storage/mirage-al-salam-lobby_03895a4a.jpg"
+      ],
+      "evidenceLevel": "map_listing",
+      "hasMap": true,
+      "nearestGate": null,
+      "sourceUrl": "https://www.google.com/maps/search/?api=1&query=Mirage%20Al%20Salam%20Hotel%2C%20Madinah%2C%20Saudi%20Arabia"
+    },
+    {
+      "slug": "al-mukhtara-diamond-madinah",
+      "name": "Al Mokhtara Diamond Hotel",
+      "arabicName": "فندق المختارة الماسي",
+      "category": "value",
+      "galleryCount": 3,
+      "gallery": [
+        "/manus-storage/al-mokhtara-diamond-exterior_755c5352.jpg",
+        "/manus-storage/al-mokhtara-diamond-room_ad7cbe7d.jpg",
+        "/manus-storage/al-mokhtara-diamond-lobby_eae74b23.jpg"
+      ],
+      "evidenceLevel": "map_listing",
+      "hasMap": true,
+      "nearestGate": null,
+      "sourceUrl": "https://www.google.com/maps/search/?api=1&query=Al%20Mukhtara%20Diamond%20Hotel%2C%20Madinah%2C%20Saudi%20Arabia"
+    },
+    {
+      "slug": "hayah-salam-silver-madinah",
+      "name": "Hayah Salam Silver Hotel",
+      "arabicName": "فندق حياة السلام الفضي",
+      "category": "value",
+      "galleryCount": 3,
+      "gallery": [
+        "/manus-storage/hayah-salam-silver-exterior_dd9a41a4.jpg",
+        "/manus-storage/hayah-salam-silver-room_bb94460c.jpg",
+        "/manus-storage/hayah-salam-silver-reception_6727546c.jpg"
+      ],
+      "evidenceLevel": "map_listing",
+      "hasMap": true,
+      "nearestGate": null,
+      "sourceUrl": "https://www.google.com/maps/search/?api=1&query=Hayah%20Salam%20Silver%20Hotel%2C%20Madinah%2C%20Saudi%20Arabia"
+    },
+    {
+      "slug": "wardat-al-rayyan-madinah",
+      "name": "Wardat Al Rayyan Hotel",
+      "arabicName": "فندق وردة الريان",
+      "category": "value",
+      "galleryCount": 3,
+      "gallery": [
+        "/manus-storage/wardat-al-rayyan-exterior_73aa13d1.jpg",
+        "/manus-storage/wardat-al-rayyan-room_bf920395.jpg",
+        "/manus-storage/wardat-al-rayyan-family-room_56dcf20c.jpg"
+      ],
+      "evidenceLevel": "map_listing",
+      "hasMap": true,
+      "nearestGate": null,
+      "sourceUrl": "https://www.google.com/maps/search/?api=1&query=Wardat%20Al%20Rayyan%20Hotel%2C%20Madinah%2C%20Saudi%20Arabia"
+    },
+    {
+      "slug": "al-jaad-madinah",
+      "name": "Al Jaad Madinah Hotel",
+      "arabicName": "فندق الجاد المدينة",
+      "category": "value",
+      "galleryCount": 3,
+      "gallery": [
+        "/manus-storage/al-jaad-madinah-exterior_e639324a.jpg",
+        "/manus-storage/al-jaad-madinah-room_3a202d8e.jpg",
+        "/manus-storage/al-jaad-madinah-lobby_e42a923d.jpg"
+      ],
+      "evidenceLevel": "map_listing",
+      "hasMap": true,
+      "nearestGate": null,
+      "sourceUrl": "https://www.google.com/maps/search/?api=1&query=Al%20Jaad%20Madinah%20Hotel%2C%20Madinah%2C%20Saudi%20Arabia"
+    },
+    {
+      "slug": "diyar-al-huda-madinah",
+      "name": "Diyar Al Huda Hotel",
+      "arabicName": "فندق ديار الهدى",
+      "category": "value",
+      "galleryCount": 3,
+      "gallery": [
+        "/manus-storage/diyar-al-huda-exterior_1219522b.jpg",
+        "/manus-storage/diyar-al-huda-room_d863e883.jpg",
+        "/manus-storage/diyar-al-huda-lobby_129b280e.jpg"
+      ],
+      "evidenceLevel": "map_listing",
+      "hasMap": true,
+      "nearestGate": null,
+      "sourceUrl": "https://www.google.com/maps/search/?api=1&query=Diyar%20Al%20Huda%20Hotel%2C%20Madinah%2C%20Saudi%20Arabia"
+    },
+    {
+      "slug": "rawabi-al-zahra-madinah",
+      "name": "Rawabi Al Zahra Hotel",
+      "arabicName": "فندق روابي الزهراء",
+      "category": "value",
+      "galleryCount": 3,
+      "gallery": [
+        "/manus-storage/rawabi-al-zahra-lobby_fdc12dd5.jpg",
+        "/manus-storage/rawabi-al-zahra-room_883d2751.jpg",
+        "/manus-storage/rawabi-al-zahra-reception_d2a810b8.jpg"
+      ],
+      "evidenceLevel": "map_listing",
+      "hasMap": true,
+      "nearestGate": null,
+      "sourceUrl": "https://www.google.com/maps/search/?api=1&query=Rawabi%20Al%20Zahra%20Hotel%2C%20Madinah%2C%20Saudi%20Arabia"
+    },
+    {
+      "slug": "bosphorus-hotel-al-salam",
+      "name": "Bosphorus Hotel Al Salam",
+      "arabicName": "فندق البوسفور السلام",
+      "category": "value",
+      "galleryCount": 3,
+      "gallery": [
+        "/manus-storage/bosphorus-al-salam-room_ece8d1fa.jpg",
+        "/manus-storage/bosphorus-al-salam-lobby_835fb25f.jpg",
+        "/manus-storage/bosphorus-al-salam-guest-room_d2b752a8.jpg"
+      ],
+      "evidenceLevel": "official_property",
+      "hasMap": true,
+      "nearestGate": null,
+      "sourceUrl": "https://bosphorus-group.com/"
+    },
+    {
+      "slug": "arjwan-rose-madinah",
+      "name": "Arjwan Rose Hotel",
+      "arabicName": "فندق أرجوان روز",
+      "category": "value",
+      "galleryCount": 3,
+      "gallery": [
+        "/manus-storage/arjwan-rose-exterior_1780db6d.jpg",
+        "/manus-storage/arjwan-rose-room_63ec7629.jpg",
+        "/manus-storage/arjwan-rose-lobby_a5dcc208.jpg"
+      ],
+      "evidenceLevel": "map_listing",
+      "hasMap": true,
+      "nearestGate": null,
+      "sourceUrl": "https://www.google.com/maps/search/?api=1&query=Arjwan%20Rose%20Hotel%2C%20Madinah%2C%20Saudi%20Arabia"
+    },
+    {
+      "slug": "bosphorus-waqf-safi-madinah",
+      "name": "Bosphorus Hotel Waqf Safi",
+      "arabicName": "فندق البوسفور وقف الصافي",
+      "category": "value",
+      "galleryCount": 3,
+      "gallery": [
+        "/manus-storage/bosphorus-waqf-safi-room_68fb17b3.jpg",
+        "/manus-storage/bosphorus-waqf-safi-lobby_118aef4f.jpg",
+        "/manus-storage/bosphorus-waqf-safi-guest-room_1c801637.jpg"
+      ],
+      "evidenceLevel": "official_property",
+      "hasMap": true,
+      "nearestGate": null,
+      "sourceUrl": "https://bosphorus-group.com/"
+    },
+    {
+      "slug": "karam-taibah-almasi-madinah",
+      "name": "Karam Taibah Almasi",
+      "arabicName": "فندق كرم طيبة الماسي",
+      "category": "value",
+      "galleryCount": 3,
+      "gallery": [
+        "/manus-storage/karam-taibah-almasi-exterior_7923ee17.jpg",
+        "/manus-storage/karam-taibah-almasi-room_97562dec.jpg",
+        "/manus-storage/karam-taibah-almasi-lobby_cf986a55.jpg"
+      ],
+      "evidenceLevel": "map_listing",
+      "hasMap": true,
+      "nearestGate": null,
+      "sourceUrl": "https://www.google.com/maps/search/?api=1&query=Karam%20Taibah%20Almasi%20Hotel%2C%20Madinah%2C%20Saudi%20Arabia"
+    },
+    {
+      "slug": "holiday-villa-madinah",
+      "name": "Holiday Villa Madinah",
+      "arabicName": "فندق هوليداي فيلا المدينة",
+      "category": "value",
+      "galleryCount": 3,
+      "gallery": [
+        "/manus-storage/holiday-villa-madinah-exterior_5167df79.jpg",
+        "/manus-storage/holiday-villa-madinah-lobby_b2a3a553.jpg",
+        "/manus-storage/holiday-villa-madinah-room_2a0a6241.jpg"
+      ],
+      "evidenceLevel": "official_property",
+      "hasMap": true,
+      "nearestGate": null,
+      "sourceUrl": "https://www.holidayvillahotels.com/holiday-villa-madinah/"
+    },
+    {
+      "slug": "al-muna-kareem-madinah",
+      "name": "Al Muna Kareem Hotel",
+      "arabicName": "فندق المنى كريم",
+      "category": "value",
+      "galleryCount": 3,
+      "gallery": [
+        "/manus-storage/al-muna-kareem-exterior_51c249c5.jpg",
+        "/manus-storage/al-muna-kareem-room_7c81c76f.jpg",
+        "/manus-storage/al-muna-kareem-facade_8aabbab0.jpg"
+      ],
+      "evidenceLevel": "official_property",
+      "hasMap": true,
+      "nearestGate": null,
+      "sourceUrl": "https://www.almunakareem.com/"
+    },
+    {
+      "slug": "dar-al-naeem-madinah",
+      "name": "Dar Al Naeem Hotel",
+      "arabicName": "فندق دار النعيم",
+      "category": "value",
+      "galleryCount": 3,
+      "gallery": [
+        "/manus-storage/dar-al-naeem-exterior_b9f8751f.jpg",
+        "/manus-storage/dar-al-naeem-room_885a96b0.jpg",
+        "/manus-storage/dar-al-naeem-lobby_7f648d79.jpg"
+      ],
+      "evidenceLevel": "map_listing",
+      "hasMap": true,
+      "nearestGate": null,
+      "sourceUrl": "https://www.google.com/maps/search/?api=1&query=Dar%20Al%20Naeem%20Hotel%2C%20Madinah%2C%20Saudi%20Arabia"
+    },
+    {
+      "slug": "zowar-international-madinah",
+      "name": "Zowar International Hotel",
+      "arabicName": "فندق زوار إنترناشيونال",
+      "category": "value",
+      "galleryCount": 3,
+      "gallery": [
+        "/manus-storage/zowar-international-exterior_79416168.jpg",
+        "/manus-storage/zowar-international-room_948c2da7.jpg",
+        "/manus-storage/zowar-international-lobby_bf154821.jpg"
+      ],
+      "evidenceLevel": "map_listing",
+      "hasMap": true,
+      "nearestGate": null,
+      "sourceUrl": "https://www.google.com/maps/search/?api=1&query=Zowar%20International%20Hotel%2C%20Madinah%2C%20Saudi%20Arabia"
+    },
+    {
+      "slug": "odst-al-madinah",
+      "name": "Odst Al Madinah Hotel",
+      "arabicName": "فندق أودست المدينة",
+      "category": "value",
+      "galleryCount": 3,
+      "gallery": [
+        "/manus-storage/odst-al-madinah-lobby_01eb9d86.jpg",
+        "/manus-storage/odst-al-madinah-room_0518fcf4.jpg",
+        "/manus-storage/odst-al-madinah-reception_e5707ab6.jpg"
+      ],
+      "evidenceLevel": "map_listing",
+      "hasMap": true,
+      "nearestGate": null,
+      "sourceUrl": "https://www.google.com/maps/search/?api=1&query=Odst%20Al%20Madinah%20Hotel%2C%20Madinah%2C%20Saudi%20Arabia"
+    },
+    {
+      "slug": "golden-tulip-al-ansar-madinah",
+      "name": "Golden Tulip Al Ansar",
+      "arabicName": "فندق الأنصار جولدن توليب",
+      "category": "value",
+      "galleryCount": 3,
+      "gallery": [
+        "/manus-storage/al-ansar-golden-tulip-exterior_0566de35.jpg",
+        "/manus-storage/al-ansar-golden-tulip-lobby_41130aab.jpg",
+        "/manus-storage/al-ansar-golden-tulip-interior_ca7ce72a.jpg"
+      ],
+      "evidenceLevel": "official_property",
+      "hasMap": true,
+      "nearestGate": null,
+      "sourceUrl": "https://al-ansar.goldentulip.com/en-us/"
+    },
+    {
+      "slug": "emaar-elite-madinah",
+      "name": "Emaar Elite Hotel",
+      "arabicName": "فندق إعمار إيليت",
+      "category": "value",
+      "galleryCount": 3,
+      "gallery": [
+        "/manus-storage/emaar-elite-exterior_9c6c7fd5.jpg",
+        "/manus-storage/emaar-elite-room_11ff2236.jpg",
+        "/manus-storage/emaar-elite-lobby_3dc9f58e.jpg"
+      ],
+      "evidenceLevel": "map_listing",
+      "hasMap": true,
+      "nearestGate": null,
+      "sourceUrl": "https://www.google.com/maps/search/?api=1&query=Emaar%20Elite%20Hotel%2C%20Madinah%2C%20Saudi%20Arabia"
+    },
+    {
+      "slug": "hayah-golden-madinah",
+      "name": "Hayah Golden Hotel",
+      "arabicName": "فندق الحياة الذهبي",
+      "category": "value",
+      "galleryCount": 3,
+      "gallery": [
+        "/manus-storage/hayah-golden-exterior_30d3097a.jpg",
+        "/manus-storage/hayah-golden-room_6d9d51e4.webp",
+        "/manus-storage/hayah-golden-lobby_791a5d22.jpg"
+      ],
+      "evidenceLevel": "map_listing",
+      "hasMap": true,
+      "nearestGate": null,
+      "sourceUrl": "https://www.google.com/maps/search/?api=1&query=Hayah%20Golden%20Hotel%2C%20Madinah%2C%20Saudi%20Arabia"
+    },
+    {
+      "slug": "grand-zowar-madinah",
+      "name": "Grand Zowar Hotel",
+      "arabicName": "فندق جراند الزوار",
+      "category": "value",
+      "galleryCount": 3,
+      "gallery": [
+        "/manus-storage/grand-zowar-lobby_f2dc01a1.jpg",
+        "/manus-storage/grand-zowar-room_d304ff93.jpg",
+        "/manus-storage/grand-zowar-exterior_9aceaa73.jpg"
+      ],
+      "evidenceLevel": "official_property",
+      "hasMap": true,
+      "nearestGate": null,
+      "sourceUrl": "https://almokhtaragroup.com/ar/grand-zowar"
+    },
+    {
+      "slug": "hayah-al-huda-madinah",
+      "name": "Hayah Al Huda Hotel",
+      "arabicName": "فندق حياة الهدى",
+      "category": "value",
+      "galleryCount": 3,
+      "gallery": [
+        "/manus-storage/hayah-al-huda-exterior_ebaddbd1.jpg",
+        "/manus-storage/hayah-al-huda-lobby_6868152b.jpg",
+        "/manus-storage/hayah-al-huda-room_70ce791b.jpg"
+      ],
+      "evidenceLevel": "map_listing",
+      "hasMap": true,
+      "nearestGate": null,
+      "sourceUrl": "https://www.google.com/maps/search/?api=1&query=Hayah%20Al%20Huda%20Hotel%2C%20Madinah%2C%20Saudi%20Arabia"
+    },
+    {
+      "slug": "riyadh-al-zahra-madinah",
+      "name": "Riyadh Al Zahra Hotel",
+      "arabicName": "فندق رياض الزهراء",
+      "category": "value",
+      "galleryCount": 3,
+      "gallery": [
+        "/manus-storage/riyadh-al-zahra-exterior_a867aed1.jpg",
+        "/manus-storage/riyadh-al-zahra-room_9d4c6433.jpg",
+        "/manus-storage/riyadh-al-zahra-lobby_7169a975.jpg"
+      ],
+      "evidenceLevel": "map_listing",
+      "hasMap": true,
+      "nearestGate": null,
+      "sourceUrl": "https://www.google.com/maps/search/?api=1&query=Riyadh%20Al%20Zahra%20Hotel%2C%20Madinah%2C%20Saudi%20Arabia"
+    },
+    {
+      "slug": "waqt-al-nazeel-madinah",
+      "name": "Waqt Al Nazeel Hotel",
+      "arabicName": "فندق وقت النزيل",
+      "category": "value",
+      "galleryCount": 3,
+      "gallery": [
+        "/manus-storage/waqt-al-nazeel-madinah-lobby_86c96a14.jpg",
+        "/manus-storage/waqt-al-nazeel-madinah-room_9931d75d.jpg",
+        "/manus-storage/waqt-al-nazeel-madinah-room-alt_fe275acd.jpg"
+      ],
+      "evidenceLevel": "official_property",
+      "hasMap": true,
+      "nearestGate": null,
+      "sourceUrl": "https://www.alzuhdigrouphotels.com/ar/hotels/8"
+    },
+    {
+      "slug": "araek-taiba-madinah",
+      "name": "Araek Taiba Hotel",
+      "arabicName": "فندق أرائك طيبة",
+      "category": "value",
+      "galleryCount": 3,
+      "gallery": [
+        "/manus-storage/araek-taiba-exterior_a6df6c5d.jpg",
+        "/manus-storage/araek-taiba-room_95e2f420.jpg",
+        "/manus-storage/araek-taiba-lobby_7ccd6852.jpg"
+      ],
+      "evidenceLevel": "map_listing",
+      "hasMap": true,
+      "nearestGate": null,
+      "sourceUrl": "https://www.google.com/maps/search/?api=1&query=Araek%20Taiba%20Hotel%2C%20Madinah%2C%20Saudi%20Arabia"
+    },
+    {
+      "slug": "rabwat-al-safwa-golden-madinah",
+      "name": "Rabwat Al Safwa Golden Hotel",
+      "arabicName": "فندق ربوة الصفوة الذهبي",
+      "category": "value",
+      "galleryCount": 3,
+      "gallery": [
+        "/manus-storage/rabwat-al-safwa-golden-exterior_9196b612.jpg",
+        "/manus-storage/rabwat-al-safwa-golden-room_f9ccd1f6.jpg",
+        "/manus-storage/rabwat-al-safwa-golden-lobby_781fe428.jpg"
+      ],
+      "evidenceLevel": "map_listing",
+      "hasMap": true,
+      "nearestGate": null,
+      "sourceUrl": "https://www.google.com/maps/search/?api=1&query=Rabwat%20Al%20Safwa%20Golden%20Hotel%2C%20Madinah%2C%20Saudi%20Arabia"
+    },
+    {
+      "slug": "diyar-wahat-al-nazeel-madinah",
+      "name": "Diyar Wahat Al Nazeel Hotel",
+      "arabicName": "فندق ديار واحة النزيل",
+      "category": "value",
+      "galleryCount": 2,
+      "gallery": [
+        "/manus-storage/diyar-wahat-al-nazeel-exterior_98196255.jpg",
+        "/manus-storage/diyar-wahat-al-nazeel-room_989fc269.jpg"
+      ],
+      "evidenceLevel": "map_listing",
+      "hasMap": true,
+      "nearestGate": null,
+      "sourceUrl": "https://www.google.com/maps/search/?api=1&query=Diyar%20Wahat%20Al%20Nazeel%20Hotel%2C%20Madinah%2C%20Saudi%20Arabia"
+    },
+    {
+      "slug": "mias-al-madinah",
+      "name": "Mias Hotel",
+      "arabicName": "فندق مياس",
+      "category": "executive",
+      "galleryCount": 3,
+      "gallery": [
+        "/manus-storage/mias-al-madinah-room-view_f37b4e5f.webp",
+        "/manus-storage/mias-al-madinah-lobby_8fac0110.jpg",
+        "/manus-storage/mias-al-madinah-reception_08ae7c13.jpg"
+      ],
+      "evidenceLevel": "map_listing",
+      "hasMap": true,
+      "nearestGate": null,
+      "sourceUrl": "http://www.miasmedina.com/"
+    },
+    {
+      "slug": "al-mokhtara-al-gharbi-madinah",
+      "name": "Al Mokhtara Al Gharbi Hotel",
+      "arabicName": "فندق المختارة الغربي",
+      "category": "value",
+      "galleryCount": 3,
+      "gallery": [
+        "/manus-storage/al-mokhtara-al-gharbi-exterior_548cbc0c.jpg",
+        "/manus-storage/al-mokhtara-al-gharbi-room_15cdc474.jpg",
+        "/manus-storage/al-mokhtara-al-gharbi-lobby_bbb534d1.jpg"
+      ],
+      "evidenceLevel": "official_property",
+      "hasMap": true,
+      "nearestGate": null,
+      "sourceUrl": "https://mukhtarahotels.com/hotel?Hotel=677292a9727cb1f6f7400f99"
+    },
+    {
+      "slug": "diyar-al-madinah-madinah",
+      "name": "Diyar Al Madinah Hotel",
+      "arabicName": "فندق ديار المدينة",
+      "category": "value",
+      "galleryCount": 3,
+      "gallery": [
+        "/manus-storage/diyar-al-madinah-exterior_9a935f2e.jpg",
+        "/manus-storage/diyar-al-madinah-room_a9653c1c.jpg",
+        "/manus-storage/diyar-al-madinah-lobby_263d6033.jpg"
+      ],
+      "evidenceLevel": "map_listing",
+      "hasMap": true,
+      "nearestGate": null,
+      "sourceUrl": "https://www.google.com/maps/search/?api=1&query=Diyar%20Al%20Madinah%20Hotel%2C%20Madinah%2C%20Saudi%20Arabia"
+    },
+    {
+      "slug": "mohamadia-al-zahra-madinah",
+      "name": "Mohamadia Al Zahra Hotel",
+      "arabicName": "فندق محمدية الزهراء",
+      "category": "value",
+      "galleryCount": 3,
+      "gallery": [
+        "/manus-storage/mohamadia-al-zahra-exterior_970c819f.jpg",
+        "/manus-storage/mohamadia-al-zahra-lobby_2e4510f5.jpg",
+        "/manus-storage/mohamadia-al-zahra-room_0e2669c4.jpg"
+      ],
+      "evidenceLevel": "map_listing",
+      "hasMap": true,
+      "nearestGate": null,
+      "sourceUrl": "https://www.google.com/maps/search/?api=1&query=Mohamadia%20Al%20Zahra%20Hotel%2C%20Madinah%2C%20Saudi%20Arabia"
+    },
+    {
+      "slug": "anwar-al-zahraa-madinah",
+      "name": "Anwar Al Zahraa Hotel",
+      "arabicName": "فندق أنوار الزهراء",
+      "category": "value",
+      "galleryCount": 3,
+      "gallery": [
+        "/manus-storage/anwar-al-zahraa-lobby_6e37bb77.jpg",
+        "/manus-storage/anwar-al-zahraa-exterior_68123fb1.jpg",
+        "/manus-storage/anwar-al-zahraa-room_3d6bbab6.jpg"
+      ],
+      "evidenceLevel": "official_property",
+      "hasMap": true,
+      "nearestGate": null,
+      "sourceUrl": "https://www.anwaralzahrahotel.com/"
+    },
+    {
+      "slug": "diyafa-al-mukhtara-madinah",
+      "name": "Diyafa Al Mukhtara Hotel",
+      "arabicName": "فندق ضيافة المختارة",
+      "category": "value",
+      "galleryCount": 3,
+      "gallery": [
+        "/manus-storage/diyafa-al-mukhtara-madinah-exterior_9d718612.webp",
+        "/manus-storage/diyafa-al-mukhtara-madinah-room_dd553dda.jpg",
+        "/manus-storage/diyafa-al-mukhtara-madinah-lobby_133f1471.jpg"
+      ],
+      "evidenceLevel": "official_property",
+      "hasMap": true,
+      "nearestGate": null,
+      "sourceUrl": "https://mukhtarahotels.com/hotel?Hotel=6772a802727cb1f6f740106a"
+    },
+    {
+      "slug": "diyar-al-sater-madinah",
+      "name": "Diyar Al Sater Hotel",
+      "arabicName": "فندق ديار الساتر",
+      "category": "value",
+      "galleryCount": 0,
+      "gallery": [],
+      "evidenceLevel": "map_listing",
+      "hasMap": true,
+      "nearestGate": null,
+      "sourceUrl": "https://www.google.com/maps/place/DIYAR+AL+SATER/@24.481597,39.6363828,15z/data=!4m13!1m2!2m1!1sDiyar+Al+Sater+Hotel,+Madinah,+Saudi+Arabia!3m9!1s0x15bdbf001f3cbe69:0xa8cb3f9ea11cb45e!5m2!4m1!1i2!8m2!3d24.481597!4d39.6173284!15sCitEaXlhciBBbCBTYXRlciBIb3RlbCwgTWFkaW5haCwgU2F1ZGkgQXJhYmlhkgEFaG90ZWzgAQA!16s%2Fg%2F11vkb72hfy"
+    },
+    {
+      "slug": "diyar-al-salam-madinah",
+      "name": "Diyar Al Salam Hotel",
+      "arabicName": "فندق ديار السلام",
+      "category": "value",
+      "galleryCount": 3,
+      "gallery": [
+        "/manus-storage/diyar-al-salam-room_0cbeb420.jpg",
+        "/manus-storage/diyar-al-salam-exterior_676dcfd8.jpg",
+        "/manus-storage/diyar-al-salam-lobby_115e9dc1.jpg"
+      ],
+      "evidenceLevel": "map_listing",
+      "hasMap": true,
+      "nearestGate": "Al Salam Gate",
+      "sourceUrl": "https://www.google.com.sa/travel/hotels/%D8%A8%D8%A6%D8%B1-%D8%B9%D8%AB%D9%85%D8%A7%D9%86-hotels/entity/ChkIyvqKio2E18kYGg0vZy8xMWI2YzRfbWM4EAE?utm_campaign=sharing&utm_medium=link&utm_source=htls"
+    },
+    {
+      "slug": "diyar-al-salam-silver-madinah",
+      "name": "Diyar Al Salam Silver Hotel",
+      "arabicName": "فندق ديار السلام الفضي",
+      "category": "value",
+      "galleryCount": 3,
+      "gallery": [
+        "/manus-storage/diyar-al-salam-silver-lobby_de339a55.jpg",
+        "/manus-storage/diyar-al-salam-silver-exterior_bc6c01f9.jpg",
+        "/manus-storage/diyar-al-salam-silver-room_898699ff.jpg"
+      ],
+      "evidenceLevel": "map_listing",
+      "hasMap": true,
+      "nearestGate": "Haram Courtyard Gate No. 316",
+      "sourceUrl": "https://www.google.com/maps/search/?api=1&query=Diyar%20Al%20Salam%20Silver%20Hotel%2C%20Madinah%2C%20Saudi%20Arabia"
+    },
+    {
+      "slug": "grand-plaza-al-madinah",
+      "name": "Grand Plaza Al Madinah",
+      "arabicName": "فندق جراند بلازا المدينة المنورة",
+      "category": "executive",
+      "galleryCount": 3,
+      "gallery": [
+        "/manus-storage/grand-plaza-exterior_7c73b3b2.jpg",
+        "/manus-storage/grand-plaza-room_12204036.jpg",
+        "/manus-storage/grand-plaza-lobby_2e1878cb.jpg"
+      ],
+      "evidenceLevel": "official_property",
+      "hasMap": true,
+      "nearestGate": null,
+      "sourceUrl": "https://maysangroup.com/hotels/grand-plaza-al-madina/"
+    },
+    {
+      "slug": "grand-plaza-badr-al-maqam",
+      "name": "Grand Plaza Badr Al Maqam",
+      "arabicName": "فندق جراند بلازا بدر المقام",
+      "category": "executive",
+      "galleryCount": 3,
+      "gallery": [
+        "/manus-storage/grand-plaza-badr-exterior_90ae9db2.jpg",
+        "/manus-storage/grand-plaza-badr-room_e8a07366.jpg",
+        "/manus-storage/grand-plaza-badr-lounge_19add0f5.jpg"
+      ],
+      "evidenceLevel": "official_property",
+      "hasMap": true,
+      "nearestGate": null,
+      "sourceUrl": "https://maysangroup.com/hotels/grand-plaza-badr-al-maqam/"
+    },
+    {
+      "slug": "diyar-ajwa-tapestry-hilton",
+      "name": "Diyar Ajwa, Tapestry Collection by Hilton",
+      "arabicName": "فندق ديار عجوة، مجموعة تابستري من هيلتون",
+      "category": "premium",
+      "galleryCount": 3,
+      "gallery": [
+        "/manus-storage/diyar-ajwa-lobby_1ffce765.jpg",
+        "/manus-storage/diyar-ajwa-facade_73040270.jpg",
+        "/manus-storage/diyar-ajwa-room_74dba180.jpg"
+      ],
+      "evidenceLevel": "official_property",
+      "hasMap": true,
+      "nearestGate": null,
+      "sourceUrl": "https://www.hilton.com/en/hotels/medinup-diyar-ajwa-tapestry-collection-by-hilton/"
+    },
+    {
+      "slug": "the-venue-al-harithia",
+      "name": "The Venue Al Harithia Hotel",
+      "arabicName": "فندق ذا فينيو الحارثية",
+      "category": "premium",
+      "galleryCount": 3,
+      "gallery": [
+        "/manus-storage/the-venue-al-harithia-lobby_f5ec87b0.jpeg",
+        "/manus-storage/the-venue-al-harithia-hallway_3f737e05.jpeg",
+        "/manus-storage/the-venue-al-harithia-lounge_419ca182.jpeg"
+      ],
+      "evidenceLevel": "official_property",
+      "hasMap": true,
+      "nearestGate": null,
+      "sourceUrl": "https://maysangroup.com/hotels/maysan-al-harithia/"
+    },
+    {
+      "slug": "al-saha-hotel-madinah",
+      "name": "Al Saha Hotel",
+      "arabicName": "فندق الساحة",
+      "category": "value",
+      "galleryCount": 3,
+      "gallery": [
+        "/manus-storage/al-saha-hotel-exterior_b05f0eac.jpg",
+        "/manus-storage/al-saha-hotel-room_8c873841.jpg",
+        "/manus-storage/al-saha-hotel-lobby_a1385626.jpg"
+      ],
+      "evidenceLevel": "map_listing",
+      "hasMap": true,
+      "nearestGate": null,
+      "sourceUrl": "https://www.google.com/maps/search/?api=1&query=Al%20Saha%20Hotel%2C%20Madinah%2C%20Saudi%20Arabia"
+    },
+    {
+      "slug": "safwat-al-madinah",
+      "name": "Safwat Almadinah Hotel",
+      "arabicName": "فندق صفوة المدينة",
+      "category": "value",
+      "galleryCount": 3,
+      "gallery": [
+        "/manus-storage/safwat-al-madinah-exterior_795c7ebc.jpg",
+        "/manus-storage/safwat-al-madinah-room_2c877aa0.jpg",
+        "/manus-storage/safwat-al-madinah-lobby_c1bfd1d4.jpg"
+      ],
+      "evidenceLevel": "map_listing",
+      "hasMap": true,
+      "nearestGate": null,
+      "sourceUrl": "https://www.google.com/maps/search/?api=1&query=Safwat%20Almadinah%20Hotel%2C%20Madinah%2C%20Saudi%20Arabia"
+    },
+    {
+      "slug": "artal-al-monawwarah",
+      "name": "Artal Al-Monawwarah Hotel",
+      "arabicName": "فندق أرتال المنورة",
+      "category": "value",
+      "galleryCount": 2,
+      "gallery": [
+        "/manus-storage/artal-al-monawwarah-lobby_f554974b.jpg",
+        "/manus-storage/artal-al-monawwarah-exterior_0d52259c.jpg"
+      ],
+      "evidenceLevel": "map_listing",
+      "hasMap": true,
+      "nearestGate": null,
+      "sourceUrl": "https://www.google.com/maps/search/?api=1&query=Artal%20Al-Monawwarah%20Hotel%2C%20Madinah%2C%20Saudi%20Arabia"
+    },
+    {
+      "slug": "maysan-al-taqwa",
+      "name": "Maysan Al Taqwa Hotel",
+      "arabicName": "فندق ميسان التقوى",
+      "category": "executive",
+      "galleryCount": 2,
+      "gallery": [
+        "/manus-storage/maysan-al-taqwa-exterior_19e967ed.jpg",
+        "/manus-storage/maysan-al-taqwa-room_2b429b08.jpg"
+      ],
+      "evidenceLevel": "official_property",
+      "hasMap": true,
+      "nearestGate": null,
+      "sourceUrl": "https://maysangroup.com/hotels/maysan-al-taqwa-hotel/"
+    },
+    {
+      "slug": "ruve-al-madinah",
+      "name": "Ruve Hotel Medinah",
+      "arabicName": "فندق روف المدينة",
+      "category": "executive",
+      "galleryCount": 3,
+      "gallery": [
+        "/manus-storage/ruve-al-madinah-official-1_b30d8745.jpg",
+        "/manus-storage/ruve-al-madinah-official-2_0a80d468.jpg",
+        "/manus-storage/ruve-al-madinah-official-3_921f4c92.jpg"
+      ],
+      "evidenceLevel": "map_listing",
+      "hasMap": true,
+      "nearestGate": null,
+      "sourceUrl": "https://www.google.com/maps/search/?api=1&query=Ruve%20Al%20Madinah%20Hotel%2C%20Madinah%2C%20Saudi%20Arabia"
+    },
+    {
+      "slug": "ancyra-rose-madinah",
+      "name": "AncyrA Rose Hotel by Continent Madinah",
+      "arabicName": "فندق أنكيرا روز المدينة بإدارة كونتيننت",
+      "category": "executive",
+      "galleryCount": 2,
+      "gallery": [
+        "/manus-storage/ancyra-rose-official-exterior_98eaac35.jpg",
+        "/manus-storage/ancyra-rose-official-family-room_649947a8.jpg"
+      ],
+      "evidenceLevel": "official_property",
+      "hasMap": true,
+      "nearestGate": null,
+      "sourceUrl": "https://www.ancyramadinahotel.com/"
+    },
+    {
+      "slug": "worth-peninsula-madinah",
+      "name": "Worth Peninsula Hotel",
+      "arabicName": "فندق وورث بيننسولا",
+      "category": "premium",
+      "galleryCount": 3,
+      "gallery": [
+        "/manus-storage/worth-peninsula-madinah-exterior_82c6f72e.jpg",
+        "/manus-storage/worth-peninsula-madinah-room_3a557abc.jpg",
+        "/manus-storage/worth-peninsula-madinah-lobby_f5c4d204.jpg"
+      ],
+      "evidenceLevel": "map_listing",
+      "hasMap": true,
+      "nearestGate": null,
+      "sourceUrl": "https://www.google.com/maps/search/?api=1&query=Peninsula%20Worth%20Hotel%20Madinah%2C%20Saudi%20Arabia"
+    },
+    {
+      "slug": "tulip-inn-al-daar-rawafid",
+      "name": "Tulip Inn Al Daar Rawafid",
+      "arabicName": "فندق توليب إن الدار روافد",
+      "category": "value",
+      "galleryCount": 3,
+      "gallery": [
+        "/manus-storage/tulip-inn-al-daar-rawafid-room_9fca4742.jpg",
+        "/manus-storage/tulip-inn-al-daar-rawafid-lobby_41fe7e17.jpg",
+        "/manus-storage/tulip-inn-al-daar-rawafid-guest-room_9e3545a2.jpg"
+      ],
+      "evidenceLevel": "official_property",
+      "hasMap": true,
+      "nearestGate": null,
+      "sourceUrl": "https://tulip-inn-al-dar-madinah.goldentulip.com/en-us/"
+    },
+    {
+      "slug": "maien-taiba",
+      "name": "Maien Taiba Hotel",
+      "arabicName": "فندق معين طيبة",
+      "category": "value",
+      "galleryCount": 3,
+      "gallery": [
+        "/manus-storage/maien-taiba-reception_eed933d9.jpg",
+        "/manus-storage/maien-taiba-twin-room_c66df46c.jpg",
+        "/manus-storage/maien-taiba-quint-room_3c03df4e.jpg"
+      ],
+      "evidenceLevel": "official_property",
+      "hasMap": true,
+      "nearestGate": null,
+      "sourceUrl": "https://www.maienalmadina.com/"
+    },
+    {
+      "slug": "diyar-al-taqwa-madinah",
+      "name": "Diyar Al Taqwa Hotel",
+      "arabicName": "فندق ديار التقوى",
+      "category": "executive",
+      "galleryCount": 3,
+      "gallery": [
+        "/manus-storage/diyar-al-taqwa-lobby_48740534.jpg",
+        "/manus-storage/diyar-al-taqwa-exterior_6f207a66.jpg",
+        "/manus-storage/diyar-al-taqwa-room_f9ee8974.jpg"
+      ],
+      "evidenceLevel": "map_listing",
+      "hasMap": true,
+      "nearestGate": null,
+      "sourceUrl": "https://www.google.com/maps/search/?api=1&query=Diyar%20Al%20Taqwa%20Hotel%20Madinah%2C%20Saudi%20Arabia"
+    },
+    {
+      "slug": "assaafa-hotel-madinah",
+      "name": "Assaafa Hotel",
+      "arabicName": "فندق السعفة",
+      "category": "executive",
+      "galleryCount": 3,
+      "gallery": [
+        "/manus-storage/assaafa-hotel-madinah-exterior_abeae964.jpeg",
+        "/manus-storage/assaafa-hotel-madinah-room_5c06d01c.jpg",
+        "/manus-storage/assaafa-hotel-madinah-lobby_8bc45b80.jpg"
+      ],
+      "evidenceLevel": "official_property",
+      "hasMap": true,
+      "nearestGate": null,
+      "sourceUrl": "https://assaafahotels.com/"
+    },
+    {
+      "slug": "nusk-al-hijrah-madinah",
+      "name": "Nusk Al Hijrah Hotel",
+      "arabicName": "فندق نسك الهجرة",
+      "category": "value",
+      "galleryCount": 3,
+      "gallery": [
+        "/manus-storage/nusk-al-hijrah-lobby_bb7ebc30.jpg",
+        "/manus-storage/nusk-al-hijrah-room_a740dbd6.jpg",
+        "/manus-storage/nusk-al-hijrah-entrance_fc96e013.jpg"
+      ],
+      "evidenceLevel": "map_listing",
+      "hasMap": true,
+      "nearestGate": null,
+      "sourceUrl": "https://www.google.com/maps/search/?api=1&query=Nusk%20Al%20Hijrah%20Hotel%20Madinah%2C%20Saudi%20Arabia"
+    },
+    {
+      "slug": "castle-hotel-madinah",
+      "name": "Castle Hotel",
+      "arabicName": "فندق كاسيل",
+      "category": "value",
+      "galleryCount": 3,
+      "gallery": [
+        "/manus-storage/castle-hotel-madinah-exterior_c8553e20.jpg",
+        "/manus-storage/castle-hotel-madinah-room_dde8502e.jpg",
+        "/manus-storage/castle-hotel-madinah-lobby_7225e888.jpg"
+      ],
+      "evidenceLevel": "map_listing",
+      "hasMap": true,
+      "nearestGate": null,
+      "sourceUrl": "https://www.google.com/maps/search/?api=1&query=Castle%20Hotel%20Madinah%2C%20Saudi%20Arabia"
+    },
+    {
+      "slug": "plaza-inn-ohud-madinah",
+      "name": "Plaza Inn Ohud",
+      "arabicName": "فندق بلازا إن أحد",
+      "category": "value",
+      "galleryCount": 3,
+      "gallery": [
+        "/manus-storage/plaza-inn-ohud-dining_e08fde1e.jpg",
+        "/manus-storage/plaza-inn-ohud-room_ce131503.jpg",
+        "/manus-storage/plaza-inn-ohud-lobby_9ad4db66.jpg"
+      ],
+      "evidenceLevel": "map_listing",
+      "hasMap": true,
+      "nearestGate": null,
+      "sourceUrl": "https://www.google.com/maps/search/?api=1&query=Plaza%20Inn%20Ohud%20Hotel%20Madinah%2C%20Saudi%20Arabia"
+    },
+    {
+      "slug": "belvedere-hotel-madinah",
+      "name": "Belvedere Hotel",
+      "arabicName": "فندق بيلفيديري",
+      "category": "value",
+      "galleryCount": 3,
+      "gallery": [
+        "/manus-storage/belvedere-hotel-madinah-lobby_a664a0c2.jpg",
+        "/manus-storage/belvedere-hotel-madinah-room_88df16de.jpg",
+        "/manus-storage/belvedere-hotel-madinah-suite_130e06fb.jpg"
+      ],
+      "evidenceLevel": "map_listing",
+      "hasMap": true,
+      "nearestGate": null,
+      "sourceUrl": "https://www.google.com/maps/search/?api=1&query=Belvedere%20Hotel%20Madinah%2C%20Saudi%20Arabia"
+    },
+    {
+      "slug": "aurion-al-aqeeq-madinah",
+      "name": "AURION Hotel Al-Aqeeq",
+      "arabicName": "فندق أوريون العقيق",
+      "category": "value",
+      "galleryCount": 3,
+      "gallery": [
+        "/manus-storage/aurion-al-aqeeq-room_97c2a1da.jpg",
+        "/manus-storage/aurion-al-aqeeq-suite_f3ffc623.jpg",
+        "/manus-storage/aurion-al-aqeeq-bedroom_0f73b8f7.jpg"
+      ],
+      "evidenceLevel": "map_listing",
+      "hasMap": true,
+      "nearestGate": null,
+      "sourceUrl": "https://www.google.com/maps/search/?api=1&query=Aurion%20Al%20Aqeeq%20Hotel%20Madinah%2C%20Saudi%20Arabia"
+    },
+    {
+      "slug": "aval-hotel-madinah",
+      "name": "AVAL Hotel",
+      "arabicName": "فندق أفال",
+      "category": "value",
+      "galleryCount": 3,
+      "gallery": [
+        "/manus-storage/aval-hotel-madinah-exterior_275c7880.jpg",
+        "/manus-storage/aval-hotel-madinah-lobby_5b89a276.jpg",
+        "/manus-storage/aval-hotel-madinah-room_0160ed2b.jpg"
+      ],
+      "evidenceLevel": "map_listing",
+      "hasMap": true,
+      "nearestGate": null,
+      "sourceUrl": "https://www.google.com/maps/search/?api=1&query=AVAL%20Hotel%20Madinah%2C%20Saudi%20Arabia"
+    },
+    {
+      "slug": "al-sada-al-masi-madinah",
+      "name": "Al Sada Al Masi Hotel",
+      "arabicName": "فندق السادة الماسي",
+      "category": "value",
+      "galleryCount": 3,
+      "gallery": [
+        "/manus-storage/al-sada-al-masi-exterior_64764373.jpg",
+        "/manus-storage/al-sada-al-masi-room_0a886411.jpg",
+        "/manus-storage/al-sada-al-masi-lobby_bf1d13f3.jpg"
+      ],
+      "evidenceLevel": "map_listing",
+      "hasMap": true,
+      "nearestGate": null,
+      "sourceUrl": "https://www.google.com/maps/search/?api=1&query=Sama%20Al%20Masi%20Hotel%20Madinah%2C%20Saudi%20Arabia"
+    },
+    {
+      "slug": "maysan-rihab-al-misk-madinah",
+      "name": "Maysan Rihab Al Misk",
+      "arabicName": "فندق ميسان رحاب المسك",
+      "category": "value",
+      "galleryCount": 3,
+      "gallery": [
+        "/manus-storage/maysan-rihab-al-misk-room_e30b875c.jpg",
+        "/manus-storage/maysan-rihab-al-misk-exterior_f110b3b6.jpg",
+        "/manus-storage/maysan-rihab-al-misk-lobby_dd315d03.jpg"
+      ],
+      "evidenceLevel": "map_listing",
+      "hasMap": true,
+      "nearestGate": null,
+      "sourceUrl": "https://www.google.com/maps/search/?api=1&query=Maysan%20Rihab%20Al%20Misk%20Hotel%20Madinah%2C%20Saudi%20Arabia"
+    },
+    {
+      "slug": "durrah-al-eiman-madinah",
+      "name": "Durrah Al Eiman Hotel",
+      "arabicName": "فندق درة الإيمان",
+      "category": "executive",
+      "galleryCount": 3,
+      "gallery": [
+        "/manus-storage/durrah-al-eiman-exterior_95196c97.jpg",
+        "/manus-storage/durrah-al-eiman-lobby_372f2b5c.jpg",
+        "/manus-storage/durrah-al-eiman-room_6a93e299.jpg"
+      ],
+      "evidenceLevel": "map_listing",
+      "hasMap": true,
+      "nearestGate": null,
+      "sourceUrl": "https://www.google.com/maps/search/?api=1&query=Kingsgate%20Durra%20Hotel%20Madinah%2C%20Saudi%20Arabia"
+    },
+    {
+      "slug": "saraya-taba-hotel-a-madinah",
+      "name": "Saraya Taba Hotel A",
+      "arabicName": "فندق سرايا طابة A",
+      "category": "value",
+      "galleryCount": 3,
+      "gallery": [
+        "/manus-storage/saraya-taba-room_a679b92b.jpg",
+        "/manus-storage/saraya-taba-lobby_c6206689.jpg",
+        "/manus-storage/saraya-taba-guest-room_e41880bf.jpg"
+      ],
+      "evidenceLevel": "map_listing",
+      "hasMap": true,
+      "nearestGate": null,
+      "sourceUrl": "https://www.google.com/maps/search/?api=1&query=Saraya%20Taba%20Hotel%20Madinah%2C%20Saudi%20Arabia"
+    },
+    {
+      "slug": "manazeli-al-madinah",
+      "name": "Manazeli Al Madinah Hotel",
+      "arabicName": "فندق منازلي المدينة",
+      "category": "value",
+      "galleryCount": 3,
+      "gallery": [
+        "/manus-storage/manazeli-al-madinah-room_9022665b.jpg",
+        "/manus-storage/manazeli-al-madinah-reception_1fd9afc7.jpg",
+        "/manus-storage/manazeli-al-madinah-suite_71987019.jpg"
+      ],
+      "evidenceLevel": "map_listing",
+      "hasMap": true,
+      "nearestGate": null,
+      "sourceUrl": "https://www.google.com/maps/search/?api=1&query=Manazeli%20Al%20Madinah%20Hotel%20Madinah%2C%20Saudi%20Arabia"
+    },
+    {
+      "slug": "hayah-plaza-madinah",
+      "name": "Hayah Plaza Hotel",
+      "arabicName": "فندق الحياة بلازا",
+      "category": "value",
+      "galleryCount": 3,
+      "gallery": [
+        "/manus-storage/hayah-plaza-room_c528be45.jpg",
+        "/manus-storage/hayah-plaza-lobby_1e18b400.jpg",
+        "/manus-storage/hayah-plaza-reception_2f0b284a.jpg"
+      ],
+      "evidenceLevel": "map_listing",
+      "hasMap": true,
+      "nearestGate": null,
+      "sourceUrl": "https://www.google.com/maps/search/?api=1&query=Hayah%20Plaza%20Hotel%20Madinah%2C%20Saudi%20Arabia"
+    },
+    {
+      "slug": "qasr-al-andalus-golden-madinah",
+      "name": "Qasr Al Andalus Golden Hotel",
+      "arabicName": "فندق قصر الأندلس الذهبي",
+      "category": "value",
+      "galleryCount": 3,
+      "gallery": [
+        "/manus-storage/qasr-al-andalus-golden-room_4ac41372.jpg",
+        "/manus-storage/qasr-al-andalus-golden-lobby_d9c1e9e3.jpg",
+        "/manus-storage/qasr-al-andalus-golden-exterior_ecaeca4c.jpg"
+      ],
+      "evidenceLevel": "map_listing",
+      "hasMap": true,
+      "nearestGate": null,
+      "sourceUrl": "https://www.google.com/maps/search/?api=1&query=Qasr%20Al%20Andalus%20Golden%20Hotel%20Madinah%2C%20Saudi%20Arabia"
+    },
+    {
+      "slug": "al-waha-rawdah-madinah",
+      "name": "Al Waha Rawdah Hotel",
+      "arabicName": "فندق الواحة الروضة",
+      "category": "value",
+      "galleryCount": 3,
+      "gallery": [
+        "/manus-storage/al-waha-rawdah-lobby_a793a776.jpg",
+        "/manus-storage/al-waha-rawdah-room_4b2a5070.jpg",
+        "/manus-storage/al-waha-rawdah-reception_b5821b96.jpg"
+      ],
+      "evidenceLevel": "map_listing",
+      "hasMap": true,
+      "nearestGate": null,
+      "sourceUrl": "https://www.google.com/maps/search/?api=1&query=Al%20Waha%20Rawdah%20Hotel%20Madinah%2C%20Saudi%20Arabia"
+    },
+    {
+      "slug": "manazel-al-aswaf-madinah",
+      "name": "Manazel Al Aswaf Hotel",
+      "arabicName": "فندق منازل الأسواف",
+      "category": "value",
+      "galleryCount": 3,
+      "gallery": [
+        "/manus-storage/manazel-al-aswaf-exterior_6d002802.jpg",
+        "/manus-storage/manazel-al-aswaf-room_c5aaefa5.jpg",
+        "/manus-storage/manazel-al-aswaf-lobby_f62c7798.jpg"
+      ],
+      "evidenceLevel": "map_listing",
+      "hasMap": true,
+      "nearestGate": null,
+      "sourceUrl": "https://www.google.com/maps/search/?api=1&query=Manazel%20Al%20Aswaf%20Hotel%20Madinah%2C%20Saudi%20Arabia"
+    },
+    {
+      "slug": "rotana-al-misk-madinah",
+      "name": "Rotana Al Misk Hotel",
+      "arabicName": "فندق روتانا المسك",
+      "category": "value",
+      "galleryCount": 3,
+      "gallery": [
+        "/manus-storage/rotana-al-misk-exterior_42958503.jpg",
+        "/manus-storage/rotana-al-misk-room_612d2ebf.jpg",
+        "/manus-storage/rotana-al-misk-lobby_6e5147f5.jpg"
+      ],
+      "evidenceLevel": "map_listing",
+      "hasMap": true,
+      "nearestGate": null,
+      "sourceUrl": "https://www.google.com/maps/search/?api=1&query=Rotana%20Al%20Misk%20Hotel%20Madinah%2C%20Saudi%20Arabia"
+    },
+    {
+      "slug": "golden-madinah-hotel",
+      "name": "Golden Madinah Hotel",
+      "arabicName": "فندق المدينة الذهبي",
+      "category": "value",
+      "galleryCount": 3,
+      "gallery": [
+        "/manus-storage/golden-madinah-hotel-exterior_02f50b8b.jpg",
+        "/manus-storage/golden-madinah-hotel-room_fea1fe0c.jpg",
+        "/manus-storage/golden-madinah-hotel-lobby_fa1b088d.jpg"
+      ],
+      "evidenceLevel": "map_listing",
+      "hasMap": true,
+      "nearestGate": null,
+      "sourceUrl": "https://www.google.com/maps/search/?api=1&query=Golden%20Madinah%20Hotel%20Madinah%2C%20Saudi%20Arabia"
+    },
+    {
+      "slug": "dar-al-eiman-grand-madinah",
+      "name": "Dar Al Eiman Grand Hotel",
+      "arabicName": "فندق دار الإيمان جراند",
+      "category": "executive",
+      "galleryCount": 1,
+      "gallery": [
+        "/manus-storage/exterior-trip-medina_03d41764.jpg"
+      ],
+      "evidenceLevel": "map_listing",
+      "hasMap": true,
+      "nearestGate": null,
+      "sourceUrl": "https://www.google.com/maps/search/?api=1&query=Dar%20Al%20Eiman%20Grand%20Hotel%20Madinah%2C%20Saudi%20Arabia"
+    },
+    {
+      "slug": "nusk-al-madinah-hotel",
+      "name": "Nusk Al Madinah Hotel",
+      "arabicName": "فندق نسك المدينة",
+      "category": "value",
+      "galleryCount": 3,
+      "gallery": [
+        "/manus-storage/nusk-al-madinah-room_863b9541.jpg",
+        "/manus-storage/nusk-al-madinah-lobby_5adb1aef.jpg",
+        "/manus-storage/nusk-al-madinah-guest-room_76652261.webp"
+      ],
+      "evidenceLevel": "map_listing",
+      "hasMap": true,
+      "nearestGate": null,
+      "sourceUrl": "https://www.google.com/maps/search/?api=1&query=Nusk%20Al%20Madinah%20Hotel%20Madinah%2C%20Saudi%20Arabia"
+    },
+    {
+      "slug": "rama-al-madinah-hotel",
+      "name": "Rama Al Madinah Hotel",
+      "arabicName": "فندق راما المدينة",
+      "category": "value",
+      "galleryCount": 3,
+      "gallery": [
+        "/manus-storage/rama-al-madinah-exterior_92924b1b.jpg",
+        "/manus-storage/rama-al-madinah-room_21b59319.jpg",
+        "/manus-storage/rama-al-madinah-lobby_5f74f7ea.jpg"
+      ],
+      "evidenceLevel": "map_listing",
+      "hasMap": true,
+      "nearestGate": null,
+      "sourceUrl": "https://www.google.com/maps/search/?api=1&query=Rama%20Al%20Madinah%20Hotel%20Madinah%2C%20Saudi%20Arabia"
+    },
+    {
+      "slug": "jiwar-taiba-madinah",
+      "name": "Jiwar Taiba Hotel",
+      "arabicName": "فندق جوار طيبة",
+      "category": "value",
+      "galleryCount": 3,
+      "gallery": [
+        "/manus-storage/jiwar-taiba-madinah-exterior_9e2bbc5d.jpg",
+        "/manus-storage/jiwar-taiba-madinah-room_ce340cf6.jpg",
+        "/manus-storage/jiwar-taiba-madinah-lobby_310d83cd.jpg"
+      ],
+      "evidenceLevel": "map_listing",
+      "hasMap": true,
+      "nearestGate": null,
+      "sourceUrl": "https://www.google.com/maps/search/?api=1&query=Jowar%20Taiba%20Hotel%20Madinah%2C%20Saudi%20Arabia"
+    },
+    {
+      "slug": "luluat-al-diyafa-madinah",
+      "name": "Luluat Al Diyafa Hotel",
+      "arabicName": "فندق لؤلؤة الضيافة",
+      "category": "value",
+      "galleryCount": 3,
+      "gallery": [
+        "/manus-storage/luluat-al-diyafa-madinah-exterior_f5768722.jpg",
+        "/manus-storage/luluat-al-diyafa-madinah-room_a146bf76.jpg",
+        "/manus-storage/luluat-al-diyafa-madinah-room-alt_5b84b4e8.jpg"
+      ],
+      "evidenceLevel": "map_listing",
+      "hasMap": true,
+      "nearestGate": null,
+      "sourceUrl": "https://www.google.com/maps/search/?api=1&query=%D9%81%D9%86%D8%AF%D9%82%20%D9%84%D8%A4%D9%84%D8%A4%D8%A9%20%D8%A7%D9%84%D8%B6%D9%8A%D8%A7%D9%81%D8%A9%20%D8%A7%D9%84%D9%85%D8%AF%D9%8A%D9%86%D8%A9%20%D8%A7%D9%84%D9%85%D9%86%D9%88%D8%B1%D8%A9"
+    },
+    {
+      "slug": "abraj-al-diyafah-madinah",
+      "name": "Abraj Al Diyafah Hotel",
+      "arabicName": "فندق أبراج الضيافة",
+      "category": "value",
+      "galleryCount": 3,
+      "gallery": [
+        "/manus-storage/abraj-al-diyafah-lobby_fdebf33e.jpg",
+        "/manus-storage/abraj-al-diyafah-room_ab9d4634.jpg",
+        "/manus-storage/abraj-al-diyafah-reception_1be81ab2.jpg"
+      ],
+      "evidenceLevel": "map_listing",
+      "hasMap": true,
+      "nearestGate": null,
+      "sourceUrl": "https://www.google.com/maps/search/?api=1&query=Abraj%20Al%20Diyafah%20Hotel%20Madinah%2C%20Saudi%20Arabia"
+    },
+    {
+      "slug": "lulu-al-arab-madinah",
+      "name": "Hotel Lulu Al Arab",
+      "arabicName": "فندق لولو العرب",
+      "category": "value",
+      "galleryCount": 0,
+      "gallery": [],
+      "evidenceLevel": "map_listing",
+      "hasMap": true,
+      "nearestGate": null,
+      "sourceUrl": "https://www.google.com/maps/search/?api=1&query=Hotel%20Lulu%20Al%20Arab%20Madinah%2C%20Saudi%20Arabia"
+    },
+    {
+      "slug": "luluat-quba-madinah",
+      "name": "Luluat Quba Hotel",
+      "arabicName": "فندق لؤلؤة قباء",
+      "category": "value",
+      "galleryCount": 0,
+      "gallery": [],
+      "evidenceLevel": "map_listing",
+      "hasMap": true,
+      "nearestGate": null,
+      "sourceUrl": "https://www.google.com/maps/search/?api=1&query=Luluat%20Quba%20Hotel%20Madinah%2C%20Saudi%20Arabia"
+    },
+    {
+      "slug": "zaha-taiba-madinah",
+      "name": "Zaha Taiba Hotel",
+      "arabicName": "فندق زها طيبة",
+      "category": "value",
+      "galleryCount": 2,
+      "gallery": [
+        "/manus-storage/zaha-taiba-official-exterior_8d3e449a.jpg",
+        "/manus-storage/zaha-taiba-official-lobby_296d28b3.jpg"
+      ],
+      "evidenceLevel": "map_listing",
+      "hasMap": true,
+      "nearestGate": null,
+      "sourceUrl": "https://www.google.com/maps/search/?api=1&query=Zaha%20Taiba%20Hotel%20Madinah%2C%20Saudi%20Arabia"
+    },
+    {
+      "slug": "afaq-al-masi-madinah",
+      "name": "Afaq Al Masi Hotel",
+      "arabicName": "فندق آفاق الماسي",
+      "category": "value",
+      "galleryCount": 3,
+      "gallery": [
+        "/manus-storage/afaq-al-masi-lobby_c43ead7c.jpg",
+        "/manus-storage/afaq-al-masi-exterior_a80e6afb.jpg",
+        "/manus-storage/afaq-al-masi-reception_f9833a04.jpg"
+      ],
+      "evidenceLevel": "map_listing",
+      "hasMap": true,
+      "nearestGate": null,
+      "sourceUrl": "https://www.google.com/maps/search/?api=1&query=Afaq%20Al%20Masi%20Hotel%20Madinah%2C%20Saudi%20Arabia"
+    },
+    {
+      "slug": "afaq-al-salam-golden-madinah",
+      "name": "Afaq Al Salam Golden Hotel",
+      "arabicName": "فندق آفاق السلام الذهبي",
+      "category": "value",
+      "galleryCount": 3,
+      "gallery": [
+        "/manus-storage/afaq-al-salam-golden-exterior-day_04830d57.jpg",
+        "/manus-storage/afaq-al-salam-golden-exterior-night_7d3b1b1d.jpg",
+        "/manus-storage/afaq-al-salam-golden-lobby_df8684f2.jpg"
+      ],
+      "evidenceLevel": "map_listing",
+      "hasMap": true,
+      "nearestGate": null,
+      "sourceUrl": "https://www.google.com/maps/search/?api=1&query=Afaq%20Al%20Salam%20Golden%20Hotel%20Madinah%2C%20Saudi%20Arabia"
+    },
+    {
+      "slug": "cladium-hotel-madinah",
+      "name": "Cladium Hotel",
+      "arabicName": "فندق كلاديوم",
+      "category": "value",
+      "galleryCount": 3,
+      "gallery": [
+        "/manus-storage/cladium-room_6bfa7b5e.jpg",
+        "/manus-storage/cladium-lobby_44603903.webp",
+        "/manus-storage/cladium-exterior_d7128667.jpg"
+      ],
+      "evidenceLevel": "map_listing",
+      "hasMap": true,
+      "nearestGate": null,
+      "sourceUrl": "https://www.google.com/maps/search/?api=1&query=Cladium%20Hotel%20Madinah%2C%20Saudi%20Arabia"
+    },
+    {
+      "slug": "shaza-al-baraka-madinah",
+      "name": "Shaza Al Baraka Hotel",
+      "arabicName": "فندق شذا البركة",
+      "category": "value",
+      "galleryCount": 3,
+      "gallery": [
+        "/manus-storage/shaza-al-baraka-room_aefb2321.jpg",
+        "/manus-storage/shaza-al-baraka-exterior_76a99251.jpg",
+        "/manus-storage/shaza-al-baraka-lobby_e269f363.jpg"
+      ],
+      "evidenceLevel": "map_listing",
+      "hasMap": true,
+      "nearestGate": null,
+      "sourceUrl": "https://www.google.com/maps/search/?api=1&query=Shaza%20Baraka%20Hotel%20Madinah%2C%20Saudi%20Arabia"
+    },
+    {
+      "slug": "zaha-al-munawara-madinah",
+      "name": "Zaha Al Munawara Hotel",
+      "arabicName": "فندق زها المنورة",
+      "category": "value",
+      "galleryCount": 3,
+      "gallery": [
+        "/manus-storage/zaha-al-munawara-lobby_89d655d0.jpg",
+        "/manus-storage/zaha-al-munawara-exterior_0cbf8d76.jpg",
+        "/manus-storage/zaha-al-munawara-corridor_8445d402.jpg"
+      ],
+      "evidenceLevel": "map_listing",
+      "hasMap": true,
+      "nearestGate": null,
+      "sourceUrl": "https://www.google.com/maps/search/?api=1&query=Zaha%20Al%20Munawara%20Hotel%20Madinah%2C%20Saudi%20Arabia"
+    },
+    {
+      "slug": "shaza-regency-plaza-madinah",
+      "name": "Shaza Regency Plaza Hotel",
+      "arabicName": "فندق شذا ريجنسي بلازا",
+      "category": "value",
+      "galleryCount": 3,
+      "gallery": [
+        "/manus-storage/shaza-regency-plaza-lobby_ff5b7f4e.jpg",
+        "/manus-storage/shaza-regency-plaza-exterior_0d4b4931.jpg",
+        "/manus-storage/shaza-regency-plaza-room_c7068f18.jpg"
+      ],
+      "evidenceLevel": "map_listing",
+      "hasMap": true,
+      "nearestGate": null,
+      "sourceUrl": "https://www.google.com/maps/search/?api=1&query=Shaza%20Regency%20Plaza%20Hotel%20Madinah%2C%20Saudi%20Arabia"
+    },
+    {
+      "slug": "rabwat-al-safwa-7-madinah",
+      "name": "Rabwat Al Safwa 7 Hotel",
+      "arabicName": "فندق ربوة الصفوة 7",
+      "category": "value",
+      "galleryCount": 3,
+      "gallery": [
+        "/manus-storage/rabwat-al-safwa-7-exterior-day_07bf3ebc.webp",
+        "/manus-storage/rabwat-al-safwa-7-sign_6329e40b.jpg",
+        "/manus-storage/rabwat-al-safwa-7-exterior-night_0adf9120.jpg"
+      ],
+      "evidenceLevel": "map_listing",
+      "hasMap": true,
+      "nearestGate": null,
+      "sourceUrl": "https://www.google.com/maps/search/?api=1&query=Rabwat%20Al%20Safwa%207%20Hotel%20Madinah%2C%20Saudi%20Arabia"
+    },
+    {
+      "slug": "abraj-al-marzam-madinah",
+      "name": "Abraj Al Marzam Hotel",
+      "arabicName": "فندق أبراج المرزم",
+      "category": "value",
+      "galleryCount": 3,
+      "gallery": [
+        "/manus-storage/abraj-al-marzam-madinah-exterior_05a1f451.jpg",
+        "/manus-storage/abraj-al-marzam-madinah-room_8950e35d.jpg",
+        "/manus-storage/abraj-al-marzam-madinah-lobby_360389ea.jpg"
+      ],
+      "evidenceLevel": "map_listing",
+      "hasMap": true,
+      "nearestGate": null,
+      "sourceUrl": "https://www.google.com/maps/search/?api=1&query=Abraj%20Al%20Marzam%20Hotel%20Madinah%2C%20Saudi%20Arabia"
+    }
+  ]
+}

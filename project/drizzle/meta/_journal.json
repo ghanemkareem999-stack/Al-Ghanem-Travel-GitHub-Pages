@@ -1,0 +1,62 @@
+{
+  "version": "7",
+  "dialect": "mysql",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "5",
+      "when": 1786993959596,
+      "tag": "0000_magenta_typhoid_mary",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "5",
+      "when": 1786995349576,
+      "tag": "0001_adorable_fenris",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "5",
+      "when": 1786999582162,
+      "tag": "0002_chunky_butterfly",
+      "breakpoints": true
+    },
+    {
+      "idx": 3,
+      "version": "5",
+      "when": 1787000306313,
+      "tag": "0003_spicy_purple_man",
+      "breakpoints": true
+    },
+    {
+      "idx": 4,
+      "version": "5",
+      "when": 1787000926034,
+      "tag": "0004_woozy_microbe",
+      "breakpoints": true
+    },
+    {
+      "idx": 5,
+      "version": "5",
+      "when": 1787006394813,
+      "tag": "0005_faulty_boomer",
+      "breakpoints": true
+    },
+    {
+      "idx": 6,
+      "version": "5",
+      "when": 1787213055094,
+      "tag": "0006_exotic_wonder_man",
+      "breakpoints": true
+    },
+    {
+      "idx": 7,
+      "version": "5",
+      "when": 1787650385748,
+      "tag": "0007_chilly_freak",
+      "breakpoints": true
+    }
+  ]
+}

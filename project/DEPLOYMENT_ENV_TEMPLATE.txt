@@ -1,0 +1,28 @@
+# Copy these names into your external host's secret manager. Do not commit real values.
+NODE_ENV=production
+PORT=3000
+DATABASE_URL=mysql://USER:PASSWORD@HOST:3306/DATABASE?ssl={"rejectUnauthorized":true}
+JWT_SECRET=replace-with-a-random-secret-of-at-least-32-characters
+CANONICAL_ORIGIN=https://example.com
+
+# Independent administrator login
+AUTH_PROVIDER=local
+VITE_AUTH_PROVIDER=local
+AUTH_ADMIN_EMAIL=owner@example.com
+AUTH_ADMIN_PASSWORD_HASH=scrypt$BASE64_SALT$BASE64_HASH
+
+# Static migrated media
+ASSET_STORAGE_ORIGIN=https://cdn.example.com/
+EXTERNAL_MEDIA_MANIFEST_PATH=/app/media/media-organizer-manifest.json
+
+# New dashboard image uploads to external S3-compatible storage
+STORAGE_PROVIDER=s3
+S3_BUCKET=al-ghanem-travel-media
+S3_REGION=eu-central-1
+S3_PUBLIC_ORIGIN=https://cdn.example.com/
+# S3_ENDPOINT=https://<account>.r2.cloudflarestorage.com
+AWS_ACCESS_KEY_ID=replace-me
+AWS_SECRET_ACCESS_KEY=replace-me
+
+# Optional external inquiry email delivery
+RESEND_API_KEY=

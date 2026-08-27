@@ -1,0 +1,3474 @@
+{
+  "auditVersion": "2026-08-25-external-media",
+  "uploadedPhysicalImageCount": 439,
+  "confirmedCurrentGalleryMappings": 417,
+  "ambiguousMappings": 0,
+  "unreferencedUploadFiles": 22,
+  "currentGalleryFilesNotPresentInOwnerUpload": 2,
+  "confirmedHotels": 136,
+  "confirmed": [
+    {
+      "fileName": "01_dar_al_iman_intercontinental__exterior__01_a773e3cf.webp",
+      "sourcePath": "/home/ubuntu/webdev-static-assets/al-ghanem-travel/owner-upload-2026-08-25/Hotel_Images/01_dar_al_iman_intercontinental__exterior__01_a773e3cf.webp",
+      "hotelSlug": "dar-al-iman-intercontinental",
+      "hotelName": "InterContinental Dar Al Iman Madinah",
+      "city": "madinah",
+      "destinationPath": "media/by-hotel/dar-al-iman-intercontinental/01_dar_al_iman_intercontinental__exterior__01_a773e3cf.webp"
+    },
+    {
+      "fileName": "01_dar_al_iman_intercontinental__exterior__02_7503a7d3.webp",
+      "sourcePath": "/home/ubuntu/webdev-static-assets/al-ghanem-travel/owner-upload-2026-08-25/Hotel_Images/01_dar_al_iman_intercontinental__exterior__02_7503a7d3.webp",
+      "hotelSlug": "dar-al-iman-intercontinental",
+      "hotelName": "InterContinental Dar Al Iman Madinah",
+      "city": "madinah",
+      "destinationPath": "media/by-hotel/dar-al-iman-intercontinental/01_dar_al_iman_intercontinental__exterior__02_7503a7d3.webp"
+    },
+    {
+      "fileName": "01_dar_al_iman_intercontinental__exterior__02_b46049ce.webp",
+      "sourcePath": "/home/ubuntu/webdev-static-assets/al-ghanem-travel/owner-upload-2026-08-25/Hotel_Images/01_dar_al_iman_intercontinental__exterior__02_b46049ce.webp",
+      "hotelSlug": "dar-al-iman-intercontinental",
+      "hotelName": "InterContinental Dar Al Iman Madinah",
+      "city": "madinah",
+      "destinationPath": "media/by-hotel/dar-al-iman-intercontinental/01_dar_al_iman_intercontinental__exterior__02_b46049ce.webp"
+    },
+    {
+      "fileName": "01_dar_al_iman_intercontinental__room__01_1993f8d5.webp",
+      "sourcePath": "/home/ubuntu/webdev-static-assets/al-ghanem-travel/owner-upload-2026-08-25/Hotel_Images/01_dar_al_iman_intercontinental__room__01_1993f8d5.webp",
+      "hotelSlug": "dar-al-iman-intercontinental",
+      "hotelName": "InterContinental Dar Al Iman Madinah",
+      "city": "madinah",
+      "destinationPath": "media/by-hotel/dar-al-iman-intercontinental/01_dar_al_iman_intercontinental__room__01_1993f8d5.webp"
+    },
+    {
+      "fileName": "03_pullman_zamzam_madina__room__01_5dfda350.webp",
+      "sourcePath": "/home/ubuntu/webdev-static-assets/al-ghanem-travel/owner-upload-2026-08-25/Hotel_Images/03_pullman_zamzam_madina__room__01_5dfda350.webp",
+      "hotelSlug": "pullman-zamzam-madinah",
+      "hotelName": "Pullman Zamzam Madina",
+      "city": "madinah",
+      "destinationPath": "media/by-hotel/pullman-zamzam-madinah/03_pullman_zamzam_madina__room__01_5dfda350.webp"
+    },
+    {
+      "fileName": "03_pullman_zamzam_madina__view__01_37e4f69c.webp",
+      "sourcePath": "/home/ubuntu/webdev-static-assets/al-ghanem-travel/owner-upload-2026-08-25/Hotel_Images/03_pullman_zamzam_madina__view__01_37e4f69c.webp",
+      "hotelSlug": "pullman-zamzam-madinah",
+      "hotelName": "Pullman Zamzam Madina",
+      "city": "madinah",
+      "destinationPath": "media/by-hotel/pullman-zamzam-madinah/03_pullman_zamzam_madina__view__01_37e4f69c.webp"
+    },
+    {
+      "fileName": "03_pullman_zamzam_madina__view__01_bd38e8a2.webp",
+      "sourcePath": "/home/ubuntu/webdev-static-assets/al-ghanem-travel/owner-upload-2026-08-25/Hotel_Images/03_pullman_zamzam_madina__view__01_bd38e8a2.webp",
+      "hotelSlug": "pullman-zamzam-madinah",
+      "hotelName": "Pullman Zamzam Madina",
+      "city": "madinah",
+      "destinationPath": "media/by-hotel/pullman-zamzam-madinah/03_pullman_zamzam_madina__view__01_bd38e8a2.webp"
+    },
+    {
+      "fileName": "05_anwar_al_madinah_movenpick__exterior__01_15400a7b.webp",
+      "sourcePath": "/home/ubuntu/webdev-static-assets/al-ghanem-travel/owner-upload-2026-08-25/Hotel_Images/05_anwar_al_madinah_movenpick__exterior__01_15400a7b.webp",
+      "hotelSlug": "anwar-al-madinah-movenpick",
+      "hotelName": "Anwar Al Madinah Mövenpick",
+      "city": "madinah",
+      "destinationPath": "media/by-hotel/anwar-al-madinah-movenpick/05_anwar_al_madinah_movenpick__exterior__01_15400a7b.webp"
+    },
+    {
+      "fileName": "05_anwar_al_madinah_movenpick__exterior__01_67815a5e.webp",
+      "sourcePath": "/home/ubuntu/webdev-static-assets/al-ghanem-travel/owner-upload-2026-08-25/Hotel_Images/05_anwar_al_madinah_movenpick__exterior__01_67815a5e.webp",
+      "hotelSlug": "anwar-al-madinah-movenpick",
+      "hotelName": "Anwar Al Madinah Mövenpick",
+      "city": "madinah",
+      "destinationPath": "media/by-hotel/anwar-al-madinah-movenpick/05_anwar_al_madinah_movenpick__exterior__01_67815a5e.webp"
+    },
+    {
+      "fileName": "05_anwar_al_madinah_movenpick__room__01_572fb92b.webp",
+      "sourcePath": "/home/ubuntu/webdev-static-assets/al-ghanem-travel/owner-upload-2026-08-25/Hotel_Images/05_anwar_al_madinah_movenpick__room__01_572fb92b.webp",
+      "hotelSlug": "anwar-al-madinah-movenpick",
+      "hotelName": "Anwar Al Madinah Mövenpick",
+      "city": "madinah",
+      "destinationPath": "media/by-hotel/anwar-al-madinah-movenpick/05_anwar_al_madinah_movenpick__room__01_572fb92b.webp"
+    },
+    {
+      "fileName": "06_hilton_madinah__exterior__01_1980d1b9.webp",
+      "sourcePath": "/home/ubuntu/webdev-static-assets/al-ghanem-travel/owner-upload-2026-08-25/Hotel_Images/06_hilton_madinah__exterior__01_1980d1b9.webp",
+      "hotelSlug": "hilton-madinah",
+      "hotelName": "Madinah Hilton",
+      "city": "madinah",
+      "destinationPath": "media/by-hotel/hilton-madinah/06_hilton_madinah__exterior__01_1980d1b9.webp"
+    },
+    {
+      "fileName": "06_hilton_madinah__exterior__01_c2270329.webp",
+      "sourcePath": "/home/ubuntu/webdev-static-assets/al-ghanem-travel/owner-upload-2026-08-25/Hotel_Images/06_hilton_madinah__exterior__01_c2270329.webp",
+      "hotelSlug": "hilton-madinah",
+      "hotelName": "Madinah Hilton",
+      "city": "madinah",
+      "destinationPath": "media/by-hotel/hilton-madinah/06_hilton_madinah__exterior__01_c2270329.webp"
+    },
+    {
+      "fileName": "06_hilton_madinah__room__01_1ebf8f7b.webp",
+      "sourcePath": "/home/ubuntu/webdev-static-assets/al-ghanem-travel/owner-upload-2026-08-25/Hotel_Images/06_hilton_madinah__room__01_1ebf8f7b.webp",
+      "hotelSlug": "hilton-madinah",
+      "hotelName": "Madinah Hilton",
+      "city": "madinah",
+      "destinationPath": "media/by-hotel/hilton-madinah/06_hilton_madinah__room__01_1ebf8f7b.webp"
+    },
+    {
+      "fileName": "07_le_meridien_madinah__exterior__01_1aea5fd9.webp",
+      "sourcePath": "/home/ubuntu/webdev-static-assets/al-ghanem-travel/owner-upload-2026-08-25/Hotel_Images/07_le_meridien_madinah__exterior__01_1aea5fd9.webp",
+      "hotelSlug": "le-meridien-madinah",
+      "hotelName": "Le Méridien Medina",
+      "city": "madinah",
+      "destinationPath": "media/by-hotel/le-meridien-madinah/07_le_meridien_madinah__exterior__01_1aea5fd9.webp"
+    },
+    {
+      "fileName": "07_le_meridien_madinah__exterior__02_386f6b68.webp",
+      "sourcePath": "/home/ubuntu/webdev-static-assets/al-ghanem-travel/owner-upload-2026-08-25/Hotel_Images/07_le_meridien_madinah__exterior__02_386f6b68.webp",
+      "hotelSlug": "le-meridien-madinah",
+      "hotelName": "Le Méridien Medina",
+      "city": "madinah",
+      "destinationPath": "media/by-hotel/le-meridien-madinah/07_le_meridien_madinah__exterior__02_386f6b68.webp"
+    },
+    {
+      "fileName": "08_dallah_taibah__exterior__01_80cb409d.webp",
+      "sourcePath": "/home/ubuntu/webdev-static-assets/al-ghanem-travel/owner-upload-2026-08-25/Hotel_Images/08_dallah_taibah__exterior__01_80cb409d.webp",
+      "hotelSlug": "dallah-taibah",
+      "hotelName": "Dallah Taibah",
+      "city": "madinah",
+      "destinationPath": "media/by-hotel/dallah-taibah/08_dallah_taibah__exterior__01_80cb409d.webp"
+    },
+    {
+      "fileName": "09_dar_al_eiman_al_haram__exterior__01_e8c8d659.webp",
+      "sourcePath": "/home/ubuntu/webdev-static-assets/al-ghanem-travel/owner-upload-2026-08-25/Hotel_Images/09_dar_al_eiman_al_haram__exterior__01_e8c8d659.webp",
+      "hotelSlug": "al-haram-hotel",
+      "hotelName": "Dar Al Eiman Al Haram Hotel",
+      "city": "madinah",
+      "destinationPath": "media/by-hotel/al-haram-hotel/09_dar_al_eiman_al_haram__exterior__01_e8c8d659.webp"
+    },
+    {
+      "fileName": "10_eiman_royal_madinah__exterior__01_53ee85e5.webp",
+      "sourcePath": "/home/ubuntu/webdev-static-assets/al-ghanem-travel/owner-upload-2026-08-25/Hotel_Images/10_eiman_royal_madinah__exterior__01_53ee85e5.webp",
+      "hotelSlug": "eman-royal",
+      "hotelName": "Emaar Royal Hotel",
+      "city": "madinah",
+      "destinationPath": "media/by-hotel/eman-royal/10_eiman_royal_madinah__exterior__01_53ee85e5.webp"
+    },
+    {
+      "fileName": "10_eiman_royal_madinah__exterior__02_acbccd01.webp",
+      "sourcePath": "/home/ubuntu/webdev-static-assets/al-ghanem-travel/owner-upload-2026-08-25/Hotel_Images/10_eiman_royal_madinah__exterior__02_acbccd01.webp",
+      "hotelSlug": "eman-royal",
+      "hotelName": "Emaar Royal Hotel",
+      "city": "madinah",
+      "destinationPath": "media/by-hotel/eman-royal/10_eiman_royal_madinah__exterior__02_acbccd01.webp"
+    },
+    {
+      "fileName": "15_mokhtara_international__exterior__01_3cee8d58.webp",
+      "sourcePath": "/home/ubuntu/webdev-static-assets/al-ghanem-travel/owner-upload-2026-08-25/Hotel_Images/15_mokhtara_international__exterior__01_3cee8d58.webp",
+      "hotelSlug": "al-mokhtara-international",
+      "hotelName": "Mokhtara International Hotel",
+      "city": "madinah",
+      "destinationPath": "media/by-hotel/al-mokhtara-international/15_mokhtara_international__exterior__01_3cee8d58.webp"
+    },
+    {
+      "fileName": "15_mokhtara_international__exterior__02_01a4cd8c.webp",
+      "sourcePath": "/home/ubuntu/webdev-static-assets/al-ghanem-travel/owner-upload-2026-08-25/Hotel_Images/15_mokhtara_international__exterior__02_01a4cd8c.webp",
+      "hotelSlug": "al-mokhtara-international",
+      "hotelName": "Mokhtara International Hotel",
+      "city": "madinah",
+      "destinationPath": "media/by-hotel/al-mokhtara-international/15_mokhtara_international__exterior__02_01a4cd8c.webp"
+    },
+    {
+      "fileName": "20_rawda_al_aqeeq__exterior__01_73f8def9.webp",
+      "sourcePath": "/home/ubuntu/webdev-static-assets/al-ghanem-travel/owner-upload-2026-08-25/Hotel_Images/20_rawda_al_aqeeq__exterior__01_73f8def9.webp",
+      "hotelSlug": "rawdah-al-aqiq",
+      "hotelName": "Rawdah Al Aqiq",
+      "city": "madinah",
+      "destinationPath": "media/by-hotel/rawdah-al-aqiq/20_rawda_al_aqeeq__exterior__01_73f8def9.webp"
+    },
+    {
+      "fileName": "20_rawda_al_aqeeq__exterior__02_a4d99731.webp",
+      "sourcePath": "/home/ubuntu/webdev-static-assets/al-ghanem-travel/owner-upload-2026-08-25/Hotel_Images/20_rawda_al_aqeeq__exterior__02_a4d99731.webp",
+      "hotelSlug": "rawdah-al-aqiq",
+      "hotelName": "Rawdah Al Aqiq",
+      "city": "madinah",
+      "destinationPath": "media/by-hotel/rawdah-al-aqiq/20_rawda_al_aqeeq__exterior__02_a4d99731.webp"
+    },
+    {
+      "fileName": "23_madinah_harmony__exterior__01_e40dd3fe.webp",
+      "sourcePath": "/home/ubuntu/webdev-static-assets/al-ghanem-travel/owner-upload-2026-08-25/Hotel_Images/23_madinah_harmony__exterior__01_e40dd3fe.webp",
+      "hotelSlug": "madinah-harmony",
+      "hotelName": "Al Madinah Harmony Hotel",
+      "city": "madinah",
+      "destinationPath": "media/by-hotel/madinah-harmony/23_madinah_harmony__exterior__01_e40dd3fe.webp"
+    },
+    {
+      "fileName": "23_madinah_harmony__room__01_2d2025c0.webp",
+      "sourcePath": "/home/ubuntu/webdev-static-assets/al-ghanem-travel/owner-upload-2026-08-25/Hotel_Images/23_madinah_harmony__room__01_2d2025c0.webp",
+      "hotelSlug": "madinah-harmony",
+      "hotelName": "Al Madinah Harmony Hotel",
+      "city": "madinah",
+      "destinationPath": "media/by-hotel/madinah-harmony/23_madinah_harmony__room__01_2d2025c0.webp"
+    },
+    {
+      "fileName": "24_waqf_othman_bin_affan__room__01_2de361b4.webp",
+      "sourcePath": "/home/ubuntu/webdev-static-assets/al-ghanem-travel/owner-upload-2026-08-25/Hotel_Images/24_waqf_othman_bin_affan__room__01_2de361b4.webp",
+      "hotelSlug": "al-waqf-serviced-apartments",
+      "hotelName": "Waqf Uthman Bin Affan Hotel",
+      "city": "madinah",
+      "destinationPath": "media/by-hotel/al-waqf-serviced-apartments/24_waqf_othman_bin_affan__room__01_2de361b4.webp"
+    },
+    {
+      "fileName": "27_crowne_plaza_madinah__exterior__01_2438f63d.webp",
+      "sourcePath": "/home/ubuntu/webdev-static-assets/al-ghanem-travel/owner-upload-2026-08-25/Hotel_Images/27_crowne_plaza_madinah__exterior__01_2438f63d.webp",
+      "hotelSlug": "crowne-plaza-madinah",
+      "hotelName": "Crowne Plaza Madinah",
+      "city": "madinah",
+      "destinationPath": "media/by-hotel/crowne-plaza-madinah/27_crowne_plaza_madinah__exterior__01_2438f63d.webp"
+    },
+    {
+      "fileName": "27_crowne_plaza_madinah__exterior__01_8c5800be.webp",
+      "sourcePath": "/home/ubuntu/webdev-static-assets/al-ghanem-travel/owner-upload-2026-08-25/Hotel_Images/27_crowne_plaza_madinah__exterior__01_8c5800be.webp",
+      "hotelSlug": "crowne-plaza-madinah",
+      "hotelName": "Crowne Plaza Madinah",
+      "city": "madinah",
+      "destinationPath": "media/by-hotel/crowne-plaza-madinah/27_crowne_plaza_madinah__exterior__01_8c5800be.webp"
+    },
+    {
+      "fileName": "27_crowne_plaza_madinah__room__01_158bda6d.webp",
+      "sourcePath": "/home/ubuntu/webdev-static-assets/al-ghanem-travel/owner-upload-2026-08-25/Hotel_Images/27_crowne_plaza_madinah__room__01_158bda6d.webp",
+      "hotelSlug": "crowne-plaza-madinah",
+      "hotelName": "Crowne Plaza Madinah",
+      "city": "madinah",
+      "destinationPath": "media/by-hotel/crowne-plaza-madinah/27_crowne_plaza_madinah__room__01_158bda6d.webp"
+    },
+    {
+      "fileName": "29_doubletree_madinah_gate__room__01_8751ec5f.webp",
+      "sourcePath": "/home/ubuntu/webdev-static-assets/al-ghanem-travel/owner-upload-2026-08-25/Hotel_Images/29_doubletree_madinah_gate__room__01_8751ec5f.webp",
+      "hotelSlug": "doubletree-by-hilton-madinah-gate",
+      "hotelName": "DoubleTree by Hilton Madinah Gate",
+      "city": "madinah",
+      "destinationPath": "media/by-hotel/doubletree-by-hilton-madinah-gate/29_doubletree_madinah_gate__room__01_8751ec5f.webp"
+    },
+    {
+      "fileName": "30_radisson_blu_madinah__exterior__01_dfed9fee.webp",
+      "sourcePath": "/home/ubuntu/webdev-static-assets/al-ghanem-travel/owner-upload-2026-08-25/Hotel_Images/30_radisson_blu_madinah__exterior__01_dfed9fee.webp",
+      "hotelSlug": "radisson-hotel-madinah",
+      "hotelName": "Radisson Hotel Madinah",
+      "city": "madinah",
+      "destinationPath": "media/by-hotel/radisson-hotel-madinah/30_radisson_blu_madinah__exterior__01_dfed9fee.webp"
+    },
+    {
+      "fileName": "abraj-al-diyafah-lobby_fdebf33e.jpg",
+      "sourcePath": "/home/ubuntu/webdev-static-assets/al-ghanem-travel/owner-upload-2026-08-25/Hotel_Images/abraj-al-diyafah-lobby_fdebf33e.jpg",
+      "hotelSlug": "abraj-al-diyafah-madinah",
+      "hotelName": "Abraj Al Diyafah Hotel",
+      "city": "madinah",
+      "destinationPath": "media/by-hotel/abraj-al-diyafah-madinah/abraj-al-diyafah-lobby_fdebf33e.jpg"
+    },
+    {
+      "fileName": "abraj-al-diyafah-reception_1be81ab2.jpg",
+      "sourcePath": "/home/ubuntu/webdev-static-assets/al-ghanem-travel/owner-upload-2026-08-25/Hotel_Images/abraj-al-diyafah-reception_1be81ab2.jpg",
+      "hotelSlug": "abraj-al-diyafah-madinah",
+      "hotelName": "Abraj Al Diyafah Hotel",
+      "city": "madinah",
+      "destinationPath": "media/by-hotel/abraj-al-diyafah-madinah/abraj-al-diyafah-reception_1be81ab2.jpg"
+    },
+    {
+      "fileName": "abraj-al-diyafah-room_ab9d4634.jpg",
+      "sourcePath": "/home/ubuntu/webdev-static-assets/al-ghanem-travel/owner-upload-2026-08-25/Hotel_Images/abraj-al-diyafah-room_ab9d4634.jpg",
+      "hotelSlug": "abraj-al-diyafah-madinah",
+      "hotelName": "Abraj Al Diyafah Hotel",
+      "city": "madinah",
+      "destinationPath": "media/by-hotel/abraj-al-diyafah-madinah/abraj-al-diyafah-room_ab9d4634.jpg"
+    },
+    {
+      "fileName": "abraj-al-marzam-madinah-exterior_05a1f451.jpg",
+      "sourcePath": "/home/ubuntu/webdev-static-assets/al-ghanem-travel/owner-upload-2026-08-25/Hotel_Images/abraj-al-marzam-madinah-exterior_05a1f451.jpg",
+      "hotelSlug": "abraj-al-marzam-madinah",
+      "hotelName": "Abraj Al Marzam Hotel",
+      "city": "madinah",
+      "destinationPath": "media/by-hotel/abraj-al-marzam-madinah/abraj-al-marzam-madinah-exterior_05a1f451.jpg"
+    },
+    {
+      "fileName": "abraj-al-marzam-madinah-lobby_360389ea.jpg",
+      "sourcePath": "/home/ubuntu/webdev-static-assets/al-ghanem-travel/owner-upload-2026-08-25/Hotel_Images/abraj-al-marzam-madinah-lobby_360389ea.jpg",
+      "hotelSlug": "abraj-al-marzam-madinah",
+      "hotelName": "Abraj Al Marzam Hotel",
+      "city": "madinah",
+      "destinationPath": "media/by-hotel/abraj-al-marzam-madinah/abraj-al-marzam-madinah-lobby_360389ea.jpg"
+    },
+    {
+      "fileName": "abraj-al-marzam-madinah-room_8950e35d.jpg",
+      "sourcePath": "/home/ubuntu/webdev-static-assets/al-ghanem-travel/owner-upload-2026-08-25/Hotel_Images/abraj-al-marzam-madinah-room_8950e35d.jpg",
+      "hotelSlug": "abraj-al-marzam-madinah",
+      "hotelName": "Abraj Al Marzam Hotel",
+      "city": "madinah",
+      "destinationPath": "media/by-hotel/abraj-al-marzam-madinah/abraj-al-marzam-madinah-room_8950e35d.jpg"
+    },
+    {
+      "fileName": "afaq-al-masi-exterior_a80e6afb.jpg",
+      "sourcePath": "/home/ubuntu/webdev-static-assets/al-ghanem-travel/owner-upload-2026-08-25/Hotel_Images/afaq-al-masi-exterior_a80e6afb.jpg",
+      "hotelSlug": "afaq-al-masi-madinah",
+      "hotelName": "Afaq Al Masi Hotel",
+      "city": "madinah",
+      "destinationPath": "media/by-hotel/afaq-al-masi-madinah/afaq-al-masi-exterior_a80e6afb.jpg"
+    },
+    {
+      "fileName": "afaq-al-masi-lobby_c43ead7c.jpg",
+      "sourcePath": "/home/ubuntu/webdev-static-assets/al-ghanem-travel/owner-upload-2026-08-25/Hotel_Images/afaq-al-masi-lobby_c43ead7c.jpg",
+      "hotelSlug": "afaq-al-masi-madinah",
+      "hotelName": "Afaq Al Masi Hotel",
+      "city": "madinah",
+      "destinationPath": "media/by-hotel/afaq-al-masi-madinah/afaq-al-masi-lobby_c43ead7c.jpg"
+    },
+    {
+      "fileName": "afaq-al-masi-reception_f9833a04.jpg",
+      "sourcePath": "/home/ubuntu/webdev-static-assets/al-ghanem-travel/owner-upload-2026-08-25/Hotel_Images/afaq-al-masi-reception_f9833a04.jpg",
+      "hotelSlug": "afaq-al-masi-madinah",
+      "hotelName": "Afaq Al Masi Hotel",
+      "city": "madinah",
+      "destinationPath": "media/by-hotel/afaq-al-masi-madinah/afaq-al-masi-reception_f9833a04.jpg"
+    },
+    {
+      "fileName": "afaq-al-salam-golden-exterior-day_04830d57.jpg",
+      "sourcePath": "/home/ubuntu/webdev-static-assets/al-ghanem-travel/owner-upload-2026-08-25/Hotel_Images/afaq-al-salam-golden-exterior-day_04830d57.jpg",
+      "hotelSlug": "afaq-al-salam-golden-madinah",
+      "hotelName": "Afaq Al Salam Golden Hotel",
+      "city": "madinah",
+      "destinationPath": "media/by-hotel/afaq-al-salam-golden-madinah/afaq-al-salam-golden-exterior-day_04830d57.jpg"
+    },
+    {
+      "fileName": "afaq-al-salam-golden-exterior-night_7d3b1b1d.jpg",
+      "sourcePath": "/home/ubuntu/webdev-static-assets/al-ghanem-travel/owner-upload-2026-08-25/Hotel_Images/afaq-al-salam-golden-exterior-night_7d3b1b1d.jpg",
+      "hotelSlug": "afaq-al-salam-golden-madinah",
+      "hotelName": "Afaq Al Salam Golden Hotel",
+      "city": "madinah",
+      "destinationPath": "media/by-hotel/afaq-al-salam-golden-madinah/afaq-al-salam-golden-exterior-night_7d3b1b1d.jpg"
+    },
+    {
+      "fileName": "afaq-al-salam-golden-lobby_df8684f2.jpg",
+      "sourcePath": "/home/ubuntu/webdev-static-assets/al-ghanem-travel/owner-upload-2026-08-25/Hotel_Images/afaq-al-salam-golden-lobby_df8684f2.jpg",
+      "hotelSlug": "afaq-al-salam-golden-madinah",
+      "hotelName": "Afaq Al Salam Golden Hotel",
+      "city": "madinah",
+      "destinationPath": "media/by-hotel/afaq-al-salam-golden-madinah/afaq-al-salam-golden-lobby_df8684f2.jpg"
+    },
+    {
+      "fileName": "al-ansar-golden-tulip-exterior_0566de35.jpg",
+      "sourcePath": "/home/ubuntu/webdev-static-assets/al-ghanem-travel/owner-upload-2026-08-25/Hotel_Images/al-ansar-golden-tulip-exterior_0566de35.jpg",
+      "hotelSlug": "golden-tulip-al-ansar-madinah",
+      "hotelName": "Golden Tulip Al Ansar",
+      "city": "madinah",
+      "destinationPath": "media/by-hotel/golden-tulip-al-ansar-madinah/al-ansar-golden-tulip-exterior_0566de35.jpg"
+    },
+    {
+      "fileName": "al-ansar-golden-tulip-interior_ca7ce72a.jpg",
+      "sourcePath": "/home/ubuntu/webdev-static-assets/al-ghanem-travel/owner-upload-2026-08-25/Hotel_Images/al-ansar-golden-tulip-interior_ca7ce72a.jpg",
+      "hotelSlug": "golden-tulip-al-ansar-madinah",
+      "hotelName": "Golden Tulip Al Ansar",
+      "city": "madinah",
+      "destinationPath": "media/by-hotel/golden-tulip-al-ansar-madinah/al-ansar-golden-tulip-interior_ca7ce72a.jpg"
+    },
+    {
+      "fileName": "al-ansar-golden-tulip-lobby_41130aab.jpg",
+      "sourcePath": "/home/ubuntu/webdev-static-assets/al-ghanem-travel/owner-upload-2026-08-25/Hotel_Images/al-ansar-golden-tulip-lobby_41130aab.jpg",
+      "hotelSlug": "golden-tulip-al-ansar-madinah",
+      "hotelName": "Golden Tulip Al Ansar",
+      "city": "madinah",
+      "destinationPath": "media/by-hotel/golden-tulip-al-ansar-madinah/al-ansar-golden-tulip-lobby_41130aab.jpg"
+    },
+    {
+      "fileName": "al-ansar-palace-golden-tulip-exterior-2026_323a3f6c.jpg",
+      "sourcePath": "/home/ubuntu/webdev-static-assets/al-ghanem-travel/owner-upload-2026-08-25/Hotel_Images/al-ansar-palace-golden-tulip-exterior-2026_323a3f6c.jpg",
+      "hotelSlug": "al-ansar-madinah",
+      "hotelName": "Al Ansar Palace Golden Tulip Hotel",
+      "city": "madinah",
+      "destinationPath": "media/by-hotel/al-ansar-madinah/al-ansar-palace-golden-tulip-exterior-2026_323a3f6c.jpg"
+    },
+    {
+      "fileName": "al-ansar-palace-golden-tulip-lobby-2026_5b8abc0e.jpg",
+      "sourcePath": "/home/ubuntu/webdev-static-assets/al-ghanem-travel/owner-upload-2026-08-25/Hotel_Images/al-ansar-palace-golden-tulip-lobby-2026_5b8abc0e.jpg",
+      "hotelSlug": "al-ansar-madinah",
+      "hotelName": "Al Ansar Palace Golden Tulip Hotel",
+      "city": "madinah",
+      "destinationPath": "media/by-hotel/al-ansar-madinah/al-ansar-palace-golden-tulip-lobby-2026_5b8abc0e.jpg"
+    },
+    {
+      "fileName": "al-ansar-palace-golden-tulip-room-2026_183cb509.jpg",
+      "sourcePath": "/home/ubuntu/webdev-static-assets/al-ghanem-travel/owner-upload-2026-08-25/Hotel_Images/al-ansar-palace-golden-tulip-room-2026_183cb509.jpg",
+      "hotelSlug": "al-ansar-madinah",
+      "hotelName": "Al Ansar Palace Golden Tulip Hotel",
+      "city": "madinah",
+      "destinationPath": "media/by-hotel/al-ansar-madinah/al-ansar-palace-golden-tulip-room-2026_183cb509.jpg"
+    },
+    {
+      "fileName": "al-jaad-madinah-exterior_e639324a.jpg",
+      "sourcePath": "/home/ubuntu/webdev-static-assets/al-ghanem-travel/owner-upload-2026-08-25/Hotel_Images/al-jaad-madinah-exterior_e639324a.jpg",
+      "hotelSlug": "al-jaad-madinah",
+      "hotelName": "Al Jaad Madinah Hotel",
+      "city": "madinah",
+      "destinationPath": "media/by-hotel/al-jaad-madinah/al-jaad-madinah-exterior_e639324a.jpg"
+    },
+    {
+      "fileName": "al-jaad-madinah-lobby_e42a923d.jpg",
+      "sourcePath": "/home/ubuntu/webdev-static-assets/al-ghanem-travel/owner-upload-2026-08-25/Hotel_Images/al-jaad-madinah-lobby_e42a923d.jpg",
+      "hotelSlug": "al-jaad-madinah",
+      "hotelName": "Al Jaad Madinah Hotel",
+      "city": "madinah",
+      "destinationPath": "media/by-hotel/al-jaad-madinah/al-jaad-madinah-lobby_e42a923d.jpg"
+    },
+    {
+      "fileName": "al-jaad-madinah-room_3a202d8e.jpg",
+      "sourcePath": "/home/ubuntu/webdev-static-assets/al-ghanem-travel/owner-upload-2026-08-25/Hotel_Images/al-jaad-madinah-room_3a202d8e.jpg",
+      "hotelSlug": "al-jaad-madinah",
+      "hotelName": "Al Jaad Madinah Hotel",
+      "city": "madinah",
+      "destinationPath": "media/by-hotel/al-jaad-madinah/al-jaad-madinah-room_3a202d8e.jpg"
+    },
+    {
+      "fileName": "al-manakha-rotana-exterior_f54f77cc.jpg",
+      "sourcePath": "/home/ubuntu/webdev-static-assets/al-ghanem-travel/owner-upload-2026-08-25/Hotel_Images/al-manakha-rotana-exterior_f54f77cc.jpg",
+      "hotelSlug": "al-manakha-rotana-madinah",
+      "hotelName": "Al Manakha Rotana Madinah",
+      "city": "madinah",
+      "destinationPath": "media/by-hotel/al-manakha-rotana-madinah/al-manakha-rotana-exterior_f54f77cc.jpg"
+    },
+    {
+      "fileName": "al-manakha-rotana-lobby_2d5a3042.jpg",
+      "sourcePath": "/home/ubuntu/webdev-static-assets/al-ghanem-travel/owner-upload-2026-08-25/Hotel_Images/al-manakha-rotana-lobby_2d5a3042.jpg",
+      "hotelSlug": "al-manakha-rotana-madinah",
+      "hotelName": "Al Manakha Rotana Madinah",
+      "city": "madinah",
+      "destinationPath": "media/by-hotel/al-manakha-rotana-madinah/al-manakha-rotana-lobby_2d5a3042.jpg"
+    },
+    {
+      "fileName": "al-manakha-rotana-room_3c0e81b2.jpg",
+      "sourcePath": "/home/ubuntu/webdev-static-assets/al-ghanem-travel/owner-upload-2026-08-25/Hotel_Images/al-manakha-rotana-room_3c0e81b2.jpg",
+      "hotelSlug": "al-manakha-rotana-madinah",
+      "hotelName": "Al Manakha Rotana Madinah",
+      "city": "madinah",
+      "destinationPath": "media/by-hotel/al-manakha-rotana-madinah/al-manakha-rotana-room_3c0e81b2.jpg"
+    },
+    {
+      "fileName": "al-mokhtara-al-gharbi-exterior_548cbc0c.jpg",
+      "sourcePath": "/home/ubuntu/webdev-static-assets/al-ghanem-travel/owner-upload-2026-08-25/Hotel_Images/al-mokhtara-al-gharbi-exterior_548cbc0c.jpg",
+      "hotelSlug": "al-mokhtara-al-gharbi-madinah",
+      "hotelName": "Al Mokhtara Al Gharbi Hotel",
+      "city": "madinah",
+      "destinationPath": "media/by-hotel/al-mokhtara-al-gharbi-madinah/al-mokhtara-al-gharbi-exterior_548cbc0c.jpg"
+    },
+    {
+      "fileName": "al-mokhtara-al-gharbi-lobby_bbb534d1.jpg",
+      "sourcePath": "/home/ubuntu/webdev-static-assets/al-ghanem-travel/owner-upload-2026-08-25/Hotel_Images/al-mokhtara-al-gharbi-lobby_bbb534d1.jpg",
+      "hotelSlug": "al-mokhtara-al-gharbi-madinah",
+      "hotelName": "Al Mokhtara Al Gharbi Hotel",
+      "city": "madinah",
+      "destinationPath": "media/by-hotel/al-mokhtara-al-gharbi-madinah/al-mokhtara-al-gharbi-lobby_bbb534d1.jpg"
+    },
+    {
+      "fileName": "al-mokhtara-al-gharbi-room_15cdc474.jpg",
+      "sourcePath": "/home/ubuntu/webdev-static-assets/al-ghanem-travel/owner-upload-2026-08-25/Hotel_Images/al-mokhtara-al-gharbi-room_15cdc474.jpg",
+      "hotelSlug": "al-mokhtara-al-gharbi-madinah",
+      "hotelName": "Al Mokhtara Al Gharbi Hotel",
+      "city": "madinah",
+      "destinationPath": "media/by-hotel/al-mokhtara-al-gharbi-madinah/al-mokhtara-al-gharbi-room_15cdc474.jpg"
+    },
+    {
+      "fileName": "al-mokhtara-diamond-exterior_755c5352.jpg",
+      "sourcePath": "/home/ubuntu/webdev-static-assets/al-ghanem-travel/owner-upload-2026-08-25/Hotel_Images/al-mokhtara-diamond-exterior_755c5352.jpg",
+      "hotelSlug": "al-mukhtara-diamond-madinah",
+      "hotelName": "Al Mokhtara Diamond Hotel",
+      "city": "madinah",
+      "destinationPath": "media/by-hotel/al-mukhtara-diamond-madinah/al-mokhtara-diamond-exterior_755c5352.jpg"
+    },
+    {
+      "fileName": "al-mokhtara-diamond-lobby_eae74b23.jpg",
+      "sourcePath": "/home/ubuntu/webdev-static-assets/al-ghanem-travel/owner-upload-2026-08-25/Hotel_Images/al-mokhtara-diamond-lobby_eae74b23.jpg",
+      "hotelSlug": "al-mukhtara-diamond-madinah",
+      "hotelName": "Al Mokhtara Diamond Hotel",
+      "city": "madinah",
+      "destinationPath": "media/by-hotel/al-mukhtara-diamond-madinah/al-mokhtara-diamond-lobby_eae74b23.jpg"
+    },
+    {
+      "fileName": "al-mokhtara-diamond-room_ad7cbe7d.jpg",
+      "sourcePath": "/home/ubuntu/webdev-static-assets/al-ghanem-travel/owner-upload-2026-08-25/Hotel_Images/al-mokhtara-diamond-room_ad7cbe7d.jpg",
+      "hotelSlug": "al-mukhtara-diamond-madinah",
+      "hotelName": "Al Mokhtara Diamond Hotel",
+      "city": "madinah",
+      "destinationPath": "media/by-hotel/al-mukhtara-diamond-madinah/al-mokhtara-diamond-room_ad7cbe7d.jpg"
+    },
+    {
+      "fileName": "al-mokhtara-golden-exterior-2026_790739f0.jpg",
+      "sourcePath": "/home/ubuntu/webdev-static-assets/al-ghanem-travel/owner-upload-2026-08-25/Hotel_Images/al-mokhtara-golden-exterior-2026_790739f0.jpg",
+      "hotelSlug": "al-mokhtara-golden",
+      "hotelName": "Mokhtara Golden Hotel",
+      "city": "madinah",
+      "destinationPath": "media/by-hotel/al-mokhtara-golden/al-mokhtara-golden-exterior-2026_790739f0.jpg"
+    },
+    {
+      "fileName": "al-mokhtara-golden-lobby-2026_358d2fef.jpg",
+      "sourcePath": "/home/ubuntu/webdev-static-assets/al-ghanem-travel/owner-upload-2026-08-25/Hotel_Images/al-mokhtara-golden-lobby-2026_358d2fef.jpg",
+      "hotelSlug": "al-mokhtara-golden",
+      "hotelName": "Mokhtara Golden Hotel",
+      "city": "madinah",
+      "destinationPath": "media/by-hotel/al-mokhtara-golden/al-mokhtara-golden-lobby-2026_358d2fef.jpg"
+    },
+    {
+      "fileName": "al-mokhtara-golden-room-2026_87c19459.jpg",
+      "sourcePath": "/home/ubuntu/webdev-static-assets/al-ghanem-travel/owner-upload-2026-08-25/Hotel_Images/al-mokhtara-golden-room-2026_87c19459.jpg",
+      "hotelSlug": "al-mokhtara-golden",
+      "hotelName": "Mokhtara Golden Hotel",
+      "city": "madinah",
+      "destinationPath": "media/by-hotel/al-mokhtara-golden/al-mokhtara-golden-room-2026_87c19459.jpg"
+    },
+    {
+      "fileName": "al-mukhtara-international-lobby-2026_73129fbc.jpg",
+      "sourcePath": "/home/ubuntu/webdev-static-assets/al-ghanem-travel/owner-upload-2026-08-25/Hotel_Images/al-mukhtara-international-lobby-2026_73129fbc.jpg",
+      "hotelSlug": "al-mokhtara-international",
+      "hotelName": "Mokhtara International Hotel",
+      "city": "madinah",
+      "destinationPath": "media/by-hotel/al-mokhtara-international/al-mukhtara-international-lobby-2026_73129fbc.jpg"
+    },
+    {
+      "fileName": "al-mukhtara-international-room-2026_cc0ede0b.jpg",
+      "sourcePath": "/home/ubuntu/webdev-static-assets/al-ghanem-travel/owner-upload-2026-08-25/Hotel_Images/al-mukhtara-international-room-2026_cc0ede0b.jpg",
+      "hotelSlug": "al-mokhtara-international",
+      "hotelName": "Mokhtara International Hotel",
+      "city": "madinah",
+      "destinationPath": "media/by-hotel/al-mokhtara-international/al-mukhtara-international-room-2026_cc0ede0b.jpg"
+    },
+    {
+      "fileName": "al-muna-kareem-exterior_51c249c5.jpg",
+      "sourcePath": "/home/ubuntu/webdev-static-assets/al-ghanem-travel/owner-upload-2026-08-25/Hotel_Images/al-muna-kareem-exterior_51c249c5.jpg",
+      "hotelSlug": "al-muna-kareem-madinah",
+      "hotelName": "Al Muna Kareem Hotel",
+      "city": "madinah",
+      "destinationPath": "media/by-hotel/al-muna-kareem-madinah/al-muna-kareem-exterior_51c249c5.jpg"
+    },
+    {
+      "fileName": "al-muna-kareem-facade_8aabbab0.jpg",
+      "sourcePath": "/home/ubuntu/webdev-static-assets/al-ghanem-travel/owner-upload-2026-08-25/Hotel_Images/al-muna-kareem-facade_8aabbab0.jpg",
+      "hotelSlug": "al-muna-kareem-madinah",
+      "hotelName": "Al Muna Kareem Hotel",
+      "city": "madinah",
+      "destinationPath": "media/by-hotel/al-muna-kareem-madinah/al-muna-kareem-facade_8aabbab0.jpg"
+    },
+    {
+      "fileName": "al-muna-kareem-room_7c81c76f.jpg",
+      "sourcePath": "/home/ubuntu/webdev-static-assets/al-ghanem-travel/owner-upload-2026-08-25/Hotel_Images/al-muna-kareem-room_7c81c76f.jpg",
+      "hotelSlug": "al-muna-kareem-madinah",
+      "hotelName": "Al Muna Kareem Hotel",
+      "city": "madinah",
+      "destinationPath": "media/by-hotel/al-muna-kareem-madinah/al-muna-kareem-room_7c81c76f.jpg"
+    },
+    {
+      "fileName": "al-ritz-al-madinah-exterior-2026_758f5568.jpg",
+      "sourcePath": "/home/ubuntu/webdev-static-assets/al-ghanem-travel/owner-upload-2026-08-25/Hotel_Images/al-ritz-al-madinah-exterior-2026_758f5568.jpg",
+      "hotelSlug": "al-ritz-al-madinah",
+      "hotelName": "Al Ritz Al Madinah Hotel",
+      "city": "madinah",
+      "destinationPath": "media/by-hotel/al-ritz-al-madinah/al-ritz-al-madinah-exterior-2026_758f5568.jpg"
+    },
+    {
+      "fileName": "al-ritz-al-madinah-lobby-2026_f3c36798.jpg",
+      "sourcePath": "/home/ubuntu/webdev-static-assets/al-ghanem-travel/owner-upload-2026-08-25/Hotel_Images/al-ritz-al-madinah-lobby-2026_f3c36798.jpg",
+      "hotelSlug": "al-ritz-al-madinah",
+      "hotelName": "Al Ritz Al Madinah Hotel",
+      "city": "madinah",
+      "destinationPath": "media/by-hotel/al-ritz-al-madinah/al-ritz-al-madinah-lobby-2026_f3c36798.jpg"
+    },
+    {
+      "fileName": "al-ritz-al-madinah-room-2026_377c0346.jpg",
+      "sourcePath": "/home/ubuntu/webdev-static-assets/al-ghanem-travel/owner-upload-2026-08-25/Hotel_Images/al-ritz-al-madinah-room-2026_377c0346.jpg",
+      "hotelSlug": "al-ritz-al-madinah",
+      "hotelName": "Al Ritz Al Madinah Hotel",
+      "city": "madinah",
+      "destinationPath": "media/by-hotel/al-ritz-al-madinah/al-ritz-al-madinah-room-2026_377c0346.jpg"
+    },
+    {
+      "fileName": "al-sada-al-masi-exterior_64764373.jpg",
+      "sourcePath": "/home/ubuntu/webdev-static-assets/al-ghanem-travel/owner-upload-2026-08-25/Hotel_Images/al-sada-al-masi-exterior_64764373.jpg",
+      "hotelSlug": "al-sada-al-masi-madinah",
+      "hotelName": "Al Sada Al Masi Hotel",
+      "city": "madinah",
+      "destinationPath": "media/by-hotel/al-sada-al-masi-madinah/al-sada-al-masi-exterior_64764373.jpg"
+    },
+    {
+      "fileName": "al-sada-al-masi-lobby_bf1d13f3.jpg",
+      "sourcePath": "/home/ubuntu/webdev-static-assets/al-ghanem-travel/owner-upload-2026-08-25/Hotel_Images/al-sada-al-masi-lobby_bf1d13f3.jpg",
+      "hotelSlug": "al-sada-al-masi-madinah",
+      "hotelName": "Al Sada Al Masi Hotel",
+      "city": "madinah",
+      "destinationPath": "media/by-hotel/al-sada-al-masi-madinah/al-sada-al-masi-lobby_bf1d13f3.jpg"
+    },
+    {
+      "fileName": "al-sada-al-masi-room_0a886411.jpg",
+      "sourcePath": "/home/ubuntu/webdev-static-assets/al-ghanem-travel/owner-upload-2026-08-25/Hotel_Images/al-sada-al-masi-room_0a886411.jpg",
+      "hotelSlug": "al-sada-al-masi-madinah",
+      "hotelName": "Al Sada Al Masi Hotel",
+      "city": "madinah",
+      "destinationPath": "media/by-hotel/al-sada-al-masi-madinah/al-sada-al-masi-room_0a886411.jpg"
+    },
+    {
+      "fileName": "al-saha-hotel-exterior_b05f0eac.jpg",
+      "sourcePath": "/home/ubuntu/webdev-static-assets/al-ghanem-travel/owner-upload-2026-08-25/Hotel_Images/al-saha-hotel-exterior_b05f0eac.jpg",
+      "hotelSlug": "al-saha-hotel-madinah",
+      "hotelName": "Al Saha Hotel",
+      "city": "madinah",
+      "destinationPath": "media/by-hotel/al-saha-hotel-madinah/al-saha-hotel-exterior_b05f0eac.jpg"
+    },
+    {
+      "fileName": "al-saha-hotel-lobby_a1385626.jpg",
+      "sourcePath": "/home/ubuntu/webdev-static-assets/al-ghanem-travel/owner-upload-2026-08-25/Hotel_Images/al-saha-hotel-lobby_a1385626.jpg",
+      "hotelSlug": "al-saha-hotel-madinah",
+      "hotelName": "Al Saha Hotel",
+      "city": "madinah",
+      "destinationPath": "media/by-hotel/al-saha-hotel-madinah/al-saha-hotel-lobby_a1385626.jpg"
+    },
+    {
+      "fileName": "al-saha-hotel-room_8c873841.jpg",
+      "sourcePath": "/home/ubuntu/webdev-static-assets/al-ghanem-travel/owner-upload-2026-08-25/Hotel_Images/al-saha-hotel-room_8c873841.jpg",
+      "hotelSlug": "al-saha-hotel-madinah",
+      "hotelName": "Al Saha Hotel",
+      "city": "madinah",
+      "destinationPath": "media/by-hotel/al-saha-hotel-madinah/al-saha-hotel-room_8c873841.jpg"
+    },
+    {
+      "fileName": "al-waha-rawdah-lobby_a793a776.jpg",
+      "sourcePath": "/home/ubuntu/webdev-static-assets/al-ghanem-travel/owner-upload-2026-08-25/Hotel_Images/al-waha-rawdah-lobby_a793a776.jpg",
+      "hotelSlug": "al-waha-rawdah-madinah",
+      "hotelName": "Al Waha Rawdah Hotel",
+      "city": "madinah",
+      "destinationPath": "media/by-hotel/al-waha-rawdah-madinah/al-waha-rawdah-lobby_a793a776.jpg"
+    },
+    {
+      "fileName": "al-waha-rawdah-reception_b5821b96.jpg",
+      "sourcePath": "/home/ubuntu/webdev-static-assets/al-ghanem-travel/owner-upload-2026-08-25/Hotel_Images/al-waha-rawdah-reception_b5821b96.jpg",
+      "hotelSlug": "al-waha-rawdah-madinah",
+      "hotelName": "Al Waha Rawdah Hotel",
+      "city": "madinah",
+      "destinationPath": "media/by-hotel/al-waha-rawdah-madinah/al-waha-rawdah-reception_b5821b96.jpg"
+    },
+    {
+      "fileName": "al-waha-rawdah-room_4b2a5070.jpg",
+      "sourcePath": "/home/ubuntu/webdev-static-assets/al-ghanem-travel/owner-upload-2026-08-25/Hotel_Images/al-waha-rawdah-room_4b2a5070.jpg",
+      "hotelSlug": "al-waha-rawdah-madinah",
+      "hotelName": "Al Waha Rawdah Hotel",
+      "city": "madinah",
+      "destinationPath": "media/by-hotel/al-waha-rawdah-madinah/al-waha-rawdah-room_4b2a5070.jpg"
+    },
+    {
+      "fileName": "ancyra-rose-official-exterior_98eaac35.jpg",
+      "sourcePath": "/home/ubuntu/webdev-static-assets/al-ghanem-travel/owner-upload-2026-08-25/Hotel_Images/ancyra-rose-official-exterior_98eaac35.jpg",
+      "hotelSlug": "ancyra-rose-madinah",
+      "hotelName": "AncyrA Rose Hotel by Continent Madinah",
+      "city": "madinah",
+      "destinationPath": "media/by-hotel/ancyra-rose-madinah/ancyra-rose-official-exterior_98eaac35.jpg"
+    },
+    {
+      "fileName": "ancyra-rose-official-family-room_649947a8.jpg",
+      "sourcePath": "/home/ubuntu/webdev-static-assets/al-ghanem-travel/owner-upload-2026-08-25/Hotel_Images/ancyra-rose-official-family-room_649947a8.jpg",
+      "hotelSlug": "ancyra-rose-madinah",
+      "hotelName": "AncyrA Rose Hotel by Continent Madinah",
+      "city": "madinah",
+      "destinationPath": "media/by-hotel/ancyra-rose-madinah/ancyra-rose-official-family-room_649947a8.jpg"
+    },
+    {
+      "fileName": "anwar-al-madinah-movenpick-dining-2026_5929c04d.jpg",
+      "sourcePath": "/home/ubuntu/webdev-static-assets/al-ghanem-travel/owner-upload-2026-08-25/Hotel_Images/anwar-al-madinah-movenpick-dining-2026_5929c04d.jpg",
+      "hotelSlug": "anwar-al-madinah-movenpick",
+      "hotelName": "Anwar Al Madinah Mövenpick",
+      "city": "madinah",
+      "destinationPath": "media/by-hotel/anwar-al-madinah-movenpick/anwar-al-madinah-movenpick-dining-2026_5929c04d.jpg"
+    },
+    {
+      "fileName": "anwar-al-madinah-movenpick-room-2026_c2da374e.jpg",
+      "sourcePath": "/home/ubuntu/webdev-static-assets/al-ghanem-travel/owner-upload-2026-08-25/Hotel_Images/anwar-al-madinah-movenpick-room-2026_c2da374e.jpg",
+      "hotelSlug": "anwar-al-madinah-movenpick",
+      "hotelName": "Anwar Al Madinah Mövenpick",
+      "city": "madinah",
+      "destinationPath": "media/by-hotel/anwar-al-madinah-movenpick/anwar-al-madinah-movenpick-room-2026_c2da374e.jpg"
+    },
+    {
+      "fileName": "anwar-al-zahraa-exterior_68123fb1.jpg",
+      "sourcePath": "/home/ubuntu/webdev-static-assets/al-ghanem-travel/owner-upload-2026-08-25/Hotel_Images/anwar-al-zahraa-exterior_68123fb1.jpg",
+      "hotelSlug": "anwar-al-zahraa-madinah",
+      "hotelName": "Anwar Al Zahraa Hotel",
+      "city": "madinah",
+      "destinationPath": "media/by-hotel/anwar-al-zahraa-madinah/anwar-al-zahraa-exterior_68123fb1.jpg"
+    },
+    {
+      "fileName": "anwar-al-zahraa-lobby_6e37bb77.jpg",
+      "sourcePath": "/home/ubuntu/webdev-static-assets/al-ghanem-travel/owner-upload-2026-08-25/Hotel_Images/anwar-al-zahraa-lobby_6e37bb77.jpg",
+      "hotelSlug": "anwar-al-zahraa-madinah",
+      "hotelName": "Anwar Al Zahraa Hotel",
+      "city": "madinah",
+      "destinationPath": "media/by-hotel/anwar-al-zahraa-madinah/anwar-al-zahraa-lobby_6e37bb77.jpg"
+    },
+    {
+      "fileName": "anwar-al-zahraa-room_3d6bbab6.jpg",
+      "sourcePath": "/home/ubuntu/webdev-static-assets/al-ghanem-travel/owner-upload-2026-08-25/Hotel_Images/anwar-al-zahraa-room_3d6bbab6.jpg",
+      "hotelSlug": "anwar-al-zahraa-madinah",
+      "hotelName": "Anwar Al Zahraa Hotel",
+      "city": "madinah",
+      "destinationPath": "media/by-hotel/anwar-al-zahraa-madinah/anwar-al-zahraa-room_3d6bbab6.jpg"
+    },
+    {
+      "fileName": "araek-taiba-exterior_a6df6c5d.jpg",
+      "sourcePath": "/home/ubuntu/webdev-static-assets/al-ghanem-travel/owner-upload-2026-08-25/Hotel_Images/araek-taiba-exterior_a6df6c5d.jpg",
+      "hotelSlug": "araek-taiba-madinah",
+      "hotelName": "Araek Taiba Hotel",
+      "city": "madinah",
+      "destinationPath": "media/by-hotel/araek-taiba-madinah/araek-taiba-exterior_a6df6c5d.jpg"
+    },
+    {
+      "fileName": "araek-taiba-lobby_7ccd6852.jpg",
+      "sourcePath": "/home/ubuntu/webdev-static-assets/al-ghanem-travel/owner-upload-2026-08-25/Hotel_Images/araek-taiba-lobby_7ccd6852.jpg",
+      "hotelSlug": "araek-taiba-madinah",
+      "hotelName": "Araek Taiba Hotel",
+      "city": "madinah",
+      "destinationPath": "media/by-hotel/araek-taiba-madinah/araek-taiba-lobby_7ccd6852.jpg"
+    },
+    {
+      "fileName": "araek-taiba-room_95e2f420.jpg",
+      "sourcePath": "/home/ubuntu/webdev-static-assets/al-ghanem-travel/owner-upload-2026-08-25/Hotel_Images/araek-taiba-room_95e2f420.jpg",
+      "hotelSlug": "araek-taiba-madinah",
+      "hotelName": "Araek Taiba Hotel",
+      "city": "madinah",
+      "destinationPath": "media/by-hotel/araek-taiba-madinah/araek-taiba-room_95e2f420.jpg"
+    },
+    {
+      "fileName": "arjwan-rose-exterior_1780db6d.jpg",
+      "sourcePath": "/home/ubuntu/webdev-static-assets/al-ghanem-travel/owner-upload-2026-08-25/Hotel_Images/arjwan-rose-exterior_1780db6d.jpg",
+      "hotelSlug": "arjwan-rose-madinah",
+      "hotelName": "Arjwan Rose Hotel",
+      "city": "madinah",
+      "destinationPath": "media/by-hotel/arjwan-rose-madinah/arjwan-rose-exterior_1780db6d.jpg"
+    },
+    {
+      "fileName": "arjwan-rose-lobby_a5dcc208.jpg",
+      "sourcePath": "/home/ubuntu/webdev-static-assets/al-ghanem-travel/owner-upload-2026-08-25/Hotel_Images/arjwan-rose-lobby_a5dcc208.jpg",
+      "hotelSlug": "arjwan-rose-madinah",
+      "hotelName": "Arjwan Rose Hotel",
+      "city": "madinah",
+      "destinationPath": "media/by-hotel/arjwan-rose-madinah/arjwan-rose-lobby_a5dcc208.jpg"
+    },
+    {
+      "fileName": "arjwan-rose-room_63ec7629.jpg",
+      "sourcePath": "/home/ubuntu/webdev-static-assets/al-ghanem-travel/owner-upload-2026-08-25/Hotel_Images/arjwan-rose-room_63ec7629.jpg",
+      "hotelSlug": "arjwan-rose-madinah",
+      "hotelName": "Arjwan Rose Hotel",
+      "city": "madinah",
+      "destinationPath": "media/by-hotel/arjwan-rose-madinah/arjwan-rose-room_63ec7629.jpg"
+    },
+    {
+      "fileName": "artal-al-monawwarah-exterior_0d52259c.jpg",
+      "sourcePath": "/home/ubuntu/webdev-static-assets/al-ghanem-travel/owner-upload-2026-08-25/Hotel_Images/artal-al-monawwarah-exterior_0d52259c.jpg",
+      "hotelSlug": "artal-al-monawwarah",
+      "hotelName": "Artal Al-Monawwarah Hotel",
+      "city": "madinah",
+      "destinationPath": "media/by-hotel/artal-al-monawwarah/artal-al-monawwarah-exterior_0d52259c.jpg"
+    },
+    {
+      "fileName": "artal-al-monawwarah-lobby_f554974b.jpg",
+      "sourcePath": "/home/ubuntu/webdev-static-assets/al-ghanem-travel/owner-upload-2026-08-25/Hotel_Images/artal-al-monawwarah-lobby_f554974b.jpg",
+      "hotelSlug": "artal-al-monawwarah",
+      "hotelName": "Artal Al-Monawwarah Hotel",
+      "city": "madinah",
+      "destinationPath": "media/by-hotel/artal-al-monawwarah/artal-al-monawwarah-lobby_f554974b.jpg"
+    },
+    {
+      "fileName": "assaafa-hotel-madinah-exterior_abeae964.jpeg",
+      "sourcePath": "/home/ubuntu/webdev-static-assets/al-ghanem-travel/owner-upload-2026-08-25/Hotel_Images/assaafa-hotel-madinah-exterior_abeae964.jpeg",
+      "hotelSlug": "assaafa-hotel-madinah",
+      "hotelName": "Assaafa Hotel",
+      "city": "madinah",
+      "destinationPath": "media/by-hotel/assaafa-hotel-madinah/assaafa-hotel-madinah-exterior_abeae964.jpeg"
+    },
+    {
+      "fileName": "assaafa-hotel-madinah-lobby_8bc45b80.jpg",
+      "sourcePath": "/home/ubuntu/webdev-static-assets/al-ghanem-travel/owner-upload-2026-08-25/Hotel_Images/assaafa-hotel-madinah-lobby_8bc45b80.jpg",
+      "hotelSlug": "assaafa-hotel-madinah",
+      "hotelName": "Assaafa Hotel",
+      "city": "madinah",
+      "destinationPath": "media/by-hotel/assaafa-hotel-madinah/assaafa-hotel-madinah-lobby_8bc45b80.jpg"
+    },
+    {
+      "fileName": "assaafa-hotel-madinah-room_5c06d01c.jpg",
+      "sourcePath": "/home/ubuntu/webdev-static-assets/al-ghanem-travel/owner-upload-2026-08-25/Hotel_Images/assaafa-hotel-madinah-room_5c06d01c.jpg",
+      "hotelSlug": "assaafa-hotel-madinah",
+      "hotelName": "Assaafa Hotel",
+      "city": "madinah",
+      "destinationPath": "media/by-hotel/assaafa-hotel-madinah/assaafa-hotel-madinah-room_5c06d01c.jpg"
+    },
+    {
+      "fileName": "aurion-al-aqeeq-bedroom_0f73b8f7.jpg",
+      "sourcePath": "/home/ubuntu/webdev-static-assets/al-ghanem-travel/owner-upload-2026-08-25/Hotel_Images/aurion-al-aqeeq-bedroom_0f73b8f7.jpg",
+      "hotelSlug": "aurion-al-aqeeq-madinah",
+      "hotelName": "AURION Hotel Al-Aqeeq",
+      "city": "madinah",
+      "destinationPath": "media/by-hotel/aurion-al-aqeeq-madinah/aurion-al-aqeeq-bedroom_0f73b8f7.jpg"
+    },
+    {
+      "fileName": "aurion-al-aqeeq-room_97c2a1da.jpg",
+      "sourcePath": "/home/ubuntu/webdev-static-assets/al-ghanem-travel/owner-upload-2026-08-25/Hotel_Images/aurion-al-aqeeq-room_97c2a1da.jpg",
+      "hotelSlug": "aurion-al-aqeeq-madinah",
+      "hotelName": "AURION Hotel Al-Aqeeq",
+      "city": "madinah",
+      "destinationPath": "media/by-hotel/aurion-al-aqeeq-madinah/aurion-al-aqeeq-room_97c2a1da.jpg"
+    },
+    {
+      "fileName": "aurion-al-aqeeq-suite_f3ffc623.jpg",
+      "sourcePath": "/home/ubuntu/webdev-static-assets/al-ghanem-travel/owner-upload-2026-08-25/Hotel_Images/aurion-al-aqeeq-suite_f3ffc623.jpg",
+      "hotelSlug": "aurion-al-aqeeq-madinah",
+      "hotelName": "AURION Hotel Al-Aqeeq",
+      "city": "madinah",
+      "destinationPath": "media/by-hotel/aurion-al-aqeeq-madinah/aurion-al-aqeeq-suite_f3ffc623.jpg"
+    },
+    {
+      "fileName": "aval-hotel-madinah-exterior_275c7880.jpg",
+      "sourcePath": "/home/ubuntu/webdev-static-assets/al-ghanem-travel/owner-upload-2026-08-25/Hotel_Images/aval-hotel-madinah-exterior_275c7880.jpg",
+      "hotelSlug": "aval-hotel-madinah",
+      "hotelName": "AVAL Hotel",
+      "city": "madinah",
+      "destinationPath": "media/by-hotel/aval-hotel-madinah/aval-hotel-madinah-exterior_275c7880.jpg"
+    },
+    {
+      "fileName": "aval-hotel-madinah-lobby_5b89a276.jpg",
+      "sourcePath": "/home/ubuntu/webdev-static-assets/al-ghanem-travel/owner-upload-2026-08-25/Hotel_Images/aval-hotel-madinah-lobby_5b89a276.jpg",
+      "hotelSlug": "aval-hotel-madinah",
+      "hotelName": "AVAL Hotel",
+      "city": "madinah",
+      "destinationPath": "media/by-hotel/aval-hotel-madinah/aval-hotel-madinah-lobby_5b89a276.jpg"
+    },
+    {
+      "fileName": "aval-hotel-madinah-room_0160ed2b.jpg",
+      "sourcePath": "/home/ubuntu/webdev-static-assets/al-ghanem-travel/owner-upload-2026-08-25/Hotel_Images/aval-hotel-madinah-room_0160ed2b.jpg",
+      "hotelSlug": "aval-hotel-madinah",
+      "hotelName": "AVAL Hotel",
+      "city": "madinah",
+      "destinationPath": "media/by-hotel/aval-hotel-madinah/aval-hotel-madinah-room_0160ed2b.jpg"
+    },
+    {
+      "fileName": "belvedere-hotel-madinah-lobby_a664a0c2.jpg",
+      "sourcePath": "/home/ubuntu/webdev-static-assets/al-ghanem-travel/owner-upload-2026-08-25/Hotel_Images/belvedere-hotel-madinah-lobby_a664a0c2.jpg",
+      "hotelSlug": "belvedere-hotel-madinah",
+      "hotelName": "Belvedere Hotel",
+      "city": "madinah",
+      "destinationPath": "media/by-hotel/belvedere-hotel-madinah/belvedere-hotel-madinah-lobby_a664a0c2.jpg"
+    },
+    {
+      "fileName": "belvedere-hotel-madinah-room_88df16de.jpg",
+      "sourcePath": "/home/ubuntu/webdev-static-assets/al-ghanem-travel/owner-upload-2026-08-25/Hotel_Images/belvedere-hotel-madinah-room_88df16de.jpg",
+      "hotelSlug": "belvedere-hotel-madinah",
+      "hotelName": "Belvedere Hotel",
+      "city": "madinah",
+      "destinationPath": "media/by-hotel/belvedere-hotel-madinah/belvedere-hotel-madinah-room_88df16de.jpg"
+    },
+    {
+      "fileName": "belvedere-hotel-madinah-suite_130e06fb.jpg",
+      "sourcePath": "/home/ubuntu/webdev-static-assets/al-ghanem-travel/owner-upload-2026-08-25/Hotel_Images/belvedere-hotel-madinah-suite_130e06fb.jpg",
+      "hotelSlug": "belvedere-hotel-madinah",
+      "hotelName": "Belvedere Hotel",
+      "city": "madinah",
+      "destinationPath": "media/by-hotel/belvedere-hotel-madinah/belvedere-hotel-madinah-suite_130e06fb.jpg"
+    },
+    {
+      "fileName": "biltmore-al-madinah-dining-2026_02ff6ba3.jpg",
+      "sourcePath": "/home/ubuntu/webdev-static-assets/al-ghanem-travel/owner-upload-2026-08-25/Hotel_Images/biltmore-al-madinah-dining-2026_02ff6ba3.jpg",
+      "hotelSlug": "biltmore-al-madinah",
+      "hotelName": "The Biltmore Al Madinah Hotel",
+      "city": "madinah",
+      "destinationPath": "media/by-hotel/biltmore-al-madinah/biltmore-al-madinah-dining-2026_02ff6ba3.jpg"
+    },
+    {
+      "fileName": "biltmore-al-madinah-lobby-2026_7ff24bc8.jpg",
+      "sourcePath": "/home/ubuntu/webdev-static-assets/al-ghanem-travel/owner-upload-2026-08-25/Hotel_Images/biltmore-al-madinah-lobby-2026_7ff24bc8.jpg",
+      "hotelSlug": "biltmore-al-madinah",
+      "hotelName": "The Biltmore Al Madinah Hotel",
+      "city": "madinah",
+      "destinationPath": "media/by-hotel/biltmore-al-madinah/biltmore-al-madinah-lobby-2026_7ff24bc8.jpg"
+    },
+    {
+      "fileName": "biltmore-al-madinah-suite-2026_d7a31330.jpg",
+      "sourcePath": "/home/ubuntu/webdev-static-assets/al-ghanem-travel/owner-upload-2026-08-25/Hotel_Images/biltmore-al-madinah-suite-2026_d7a31330.jpg",
+      "hotelSlug": "biltmore-al-madinah",
+      "hotelName": "The Biltmore Al Madinah Hotel",
+      "city": "madinah",
+      "destinationPath": "media/by-hotel/biltmore-al-madinah/biltmore-al-madinah-suite-2026_d7a31330.jpg"
+    },
+    {
+      "fileName": "bosphorus-al-salam-guest-room_d2b752a8.jpg",
+      "sourcePath": "/home/ubuntu/webdev-static-assets/al-ghanem-travel/owner-upload-2026-08-25/Hotel_Images/bosphorus-al-salam-guest-room_d2b752a8.jpg",
+      "hotelSlug": "bosphorus-hotel-al-salam",
+      "hotelName": "Bosphorus Hotel Al Salam",
+      "city": "madinah",
+      "destinationPath": "media/by-hotel/bosphorus-hotel-al-salam/bosphorus-al-salam-guest-room_d2b752a8.jpg"
+    },
+    {
+      "fileName": "bosphorus-al-salam-lobby_835fb25f.jpg",
+      "sourcePath": "/home/ubuntu/webdev-static-assets/al-ghanem-travel/owner-upload-2026-08-25/Hotel_Images/bosphorus-al-salam-lobby_835fb25f.jpg",
+      "hotelSlug": "bosphorus-hotel-al-salam",
+      "hotelName": "Bosphorus Hotel Al Salam",
+      "city": "madinah",
+      "destinationPath": "media/by-hotel/bosphorus-hotel-al-salam/bosphorus-al-salam-lobby_835fb25f.jpg"
+    },
+    {
+      "fileName": "bosphorus-al-salam-room_ece8d1fa.jpg",
+      "sourcePath": "/home/ubuntu/webdev-static-assets/al-ghanem-travel/owner-upload-2026-08-25/Hotel_Images/bosphorus-al-salam-room_ece8d1fa.jpg",
+      "hotelSlug": "bosphorus-hotel-al-salam",
+      "hotelName": "Bosphorus Hotel Al Salam",
+      "city": "madinah",
+      "destinationPath": "media/by-hotel/bosphorus-hotel-al-salam/bosphorus-al-salam-room_ece8d1fa.jpg"
+    },
+    {
+      "fileName": "bosphorus-hotel-medina-exterior_e26196b8.jpg",
+      "sourcePath": "/home/ubuntu/webdev-static-assets/al-ghanem-travel/owner-upload-2026-08-25/Hotel_Images/bosphorus-hotel-medina-exterior_e26196b8.jpg",
+      "hotelSlug": "bosphorus-hotel-medina",
+      "hotelName": "Bosphorus Hotel Medina",
+      "city": "madinah",
+      "destinationPath": "media/by-hotel/bosphorus-hotel-medina/bosphorus-hotel-medina-exterior_e26196b8.jpg"
+    },
+    {
+      "fileName": "bosphorus-hotel-medina-lobby_81ea5be4.jpg",
+      "sourcePath": "/home/ubuntu/webdev-static-assets/al-ghanem-travel/owner-upload-2026-08-25/Hotel_Images/bosphorus-hotel-medina-lobby_81ea5be4.jpg",
+      "hotelSlug": "bosphorus-hotel-medina",
+      "hotelName": "Bosphorus Hotel Medina",
+      "city": "madinah",
+      "destinationPath": "media/by-hotel/bosphorus-hotel-medina/bosphorus-hotel-medina-lobby_81ea5be4.jpg"
+    },
+    {
+      "fileName": "bosphorus-hotel-medina-room_567b84cf.jpg",
+      "sourcePath": "/home/ubuntu/webdev-static-assets/al-ghanem-travel/owner-upload-2026-08-25/Hotel_Images/bosphorus-hotel-medina-room_567b84cf.jpg",
+      "hotelSlug": "bosphorus-hotel-medina",
+      "hotelName": "Bosphorus Hotel Medina",
+      "city": "madinah",
+      "destinationPath": "media/by-hotel/bosphorus-hotel-medina/bosphorus-hotel-medina-room_567b84cf.jpg"
+    },
+    {
+      "fileName": "bosphorus-waqf-safi-guest-room_1c801637.jpg",
+      "sourcePath": "/home/ubuntu/webdev-static-assets/al-ghanem-travel/owner-upload-2026-08-25/Hotel_Images/bosphorus-waqf-safi-guest-room_1c801637.jpg",
+      "hotelSlug": "bosphorus-waqf-safi-madinah",
+      "hotelName": "Bosphorus Hotel Waqf Safi",
+      "city": "madinah",
+      "destinationPath": "media/by-hotel/bosphorus-waqf-safi-madinah/bosphorus-waqf-safi-guest-room_1c801637.jpg"
+    },
+    {
+      "fileName": "bosphorus-waqf-safi-lobby_118aef4f.jpg",
+      "sourcePath": "/home/ubuntu/webdev-static-assets/al-ghanem-travel/owner-upload-2026-08-25/Hotel_Images/bosphorus-waqf-safi-lobby_118aef4f.jpg",
+      "hotelSlug": "bosphorus-waqf-safi-madinah",
+      "hotelName": "Bosphorus Hotel Waqf Safi",
+      "city": "madinah",
+      "destinationPath": "media/by-hotel/bosphorus-waqf-safi-madinah/bosphorus-waqf-safi-lobby_118aef4f.jpg"
+    },
+    {
+      "fileName": "bosphorus-waqf-safi-room_68fb17b3.jpg",
+      "sourcePath": "/home/ubuntu/webdev-static-assets/al-ghanem-travel/owner-upload-2026-08-25/Hotel_Images/bosphorus-waqf-safi-room_68fb17b3.jpg",
+      "hotelSlug": "bosphorus-waqf-safi-madinah",
+      "hotelName": "Bosphorus Hotel Waqf Safi",
+      "city": "madinah",
+      "destinationPath": "media/by-hotel/bosphorus-waqf-safi-madinah/bosphorus-waqf-safi-room_68fb17b3.jpg"
+    },
+    {
+      "fileName": "castle-hotel-madinah-exterior_c8553e20.jpg",
+      "sourcePath": "/home/ubuntu/webdev-static-assets/al-ghanem-travel/owner-upload-2026-08-25/Hotel_Images/castle-hotel-madinah-exterior_c8553e20.jpg",
+      "hotelSlug": "castle-hotel-madinah",
+      "hotelName": "Castle Hotel",
+      "city": "madinah",
+      "destinationPath": "media/by-hotel/castle-hotel-madinah/castle-hotel-madinah-exterior_c8553e20.jpg"
+    },
+    {
+      "fileName": "castle-hotel-madinah-lobby_7225e888.jpg",
+      "sourcePath": "/home/ubuntu/webdev-static-assets/al-ghanem-travel/owner-upload-2026-08-25/Hotel_Images/castle-hotel-madinah-lobby_7225e888.jpg",
+      "hotelSlug": "castle-hotel-madinah",
+      "hotelName": "Castle Hotel",
+      "city": "madinah",
+      "destinationPath": "media/by-hotel/castle-hotel-madinah/castle-hotel-madinah-lobby_7225e888.jpg"
+    },
+    {
+      "fileName": "castle-hotel-madinah-room_dde8502e.jpg",
+      "sourcePath": "/home/ubuntu/webdev-static-assets/al-ghanem-travel/owner-upload-2026-08-25/Hotel_Images/castle-hotel-madinah-room_dde8502e.jpg",
+      "hotelSlug": "castle-hotel-madinah",
+      "hotelName": "Castle Hotel",
+      "city": "madinah",
+      "destinationPath": "media/by-hotel/castle-hotel-madinah/castle-hotel-madinah-room_dde8502e.jpg"
+    },
+    {
+      "fileName": "cladium-exterior_d7128667.jpg",
+      "sourcePath": "/home/ubuntu/webdev-static-assets/al-ghanem-travel/owner-upload-2026-08-25/Hotel_Images/cladium-exterior_d7128667.jpg",
+      "hotelSlug": "cladium-hotel-madinah",
+      "hotelName": "Cladium Hotel",
+      "city": "madinah",
+      "destinationPath": "media/by-hotel/cladium-hotel-madinah/cladium-exterior_d7128667.jpg"
+    },
+    {
+      "fileName": "cladium-lobby_44603903.webp",
+      "sourcePath": "/home/ubuntu/webdev-static-assets/al-ghanem-travel/owner-upload-2026-08-25/Hotel_Images/cladium-lobby_44603903.webp",
+      "hotelSlug": "cladium-hotel-madinah",
+      "hotelName": "Cladium Hotel",
+      "city": "madinah",
+      "destinationPath": "media/by-hotel/cladium-hotel-madinah/cladium-lobby_44603903.webp"
+    },
+    {
+      "fileName": "cladium-room_6bfa7b5e.jpg",
+      "sourcePath": "/home/ubuntu/webdev-static-assets/al-ghanem-travel/owner-upload-2026-08-25/Hotel_Images/cladium-room_6bfa7b5e.jpg",
+      "hotelSlug": "cladium-hotel-madinah",
+      "hotelName": "Cladium Hotel",
+      "city": "madinah",
+      "destinationPath": "media/by-hotel/cladium-hotel-madinah/cladium-room_6bfa7b5e.jpg"
+    },
+    {
+      "fileName": "crowne-plaza-madinah-dining-2026_e5165fff.jpg",
+      "sourcePath": "/home/ubuntu/webdev-static-assets/al-ghanem-travel/owner-upload-2026-08-25/Hotel_Images/crowne-plaza-madinah-dining-2026_e5165fff.jpg",
+      "hotelSlug": "crowne-plaza-madinah",
+      "hotelName": "Crowne Plaza Madinah",
+      "city": "madinah",
+      "destinationPath": "media/by-hotel/crowne-plaza-madinah/crowne-plaza-madinah-dining-2026_e5165fff.jpg"
+    },
+    {
+      "fileName": "crowne-plaza-madinah-lobby-2026_63fd0d11.jpg",
+      "sourcePath": "/home/ubuntu/webdev-static-assets/al-ghanem-travel/owner-upload-2026-08-25/Hotel_Images/crowne-plaza-madinah-lobby-2026_63fd0d11.jpg",
+      "hotelSlug": "crowne-plaza-madinah",
+      "hotelName": "Crowne Plaza Madinah",
+      "city": "madinah",
+      "destinationPath": "media/by-hotel/crowne-plaza-madinah/crowne-plaza-madinah-lobby-2026_63fd0d11.jpg"
+    },
+    {
+      "fileName": "crowne-plaza-madinah-room-2026_3f671de9.jpg",
+      "sourcePath": "/home/ubuntu/webdev-static-assets/al-ghanem-travel/owner-upload-2026-08-25/Hotel_Images/crowne-plaza-madinah-room-2026_3f671de9.jpg",
+      "hotelSlug": "crowne-plaza-madinah",
+      "hotelName": "Crowne Plaza Madinah",
+      "city": "madinah",
+      "destinationPath": "media/by-hotel/crowne-plaza-madinah/crowne-plaza-madinah-room-2026_3f671de9.jpg"
+    },
+    {
+      "fileName": "dar-al-eiman-al-haram-exterior_2404c84d.jpg",
+      "sourcePath": "/home/ubuntu/webdev-static-assets/al-ghanem-travel/owner-upload-2026-08-25/Hotel_Images/dar-al-eiman-al-haram-exterior_2404c84d.jpg",
+      "hotelSlug": "al-haram-hotel",
+      "hotelName": "Dar Al Eiman Al Haram Hotel",
+      "city": "madinah",
+      "destinationPath": "media/by-hotel/al-haram-hotel/dar-al-eiman-al-haram-exterior_2404c84d.jpg"
+    },
+    {
+      "fileName": "dar-al-eiman-al-haram-room_dd55c7ba.jpg",
+      "sourcePath": "/home/ubuntu/webdev-static-assets/al-ghanem-travel/owner-upload-2026-08-25/Hotel_Images/dar-al-eiman-al-haram-room_dd55c7ba.jpg",
+      "hotelSlug": "al-haram-hotel",
+      "hotelName": "Dar Al Eiman Al Haram Hotel",
+      "city": "madinah",
+      "destinationPath": "media/by-hotel/al-haram-hotel/dar-al-eiman-al-haram-room_dd55c7ba.jpg"
+    },
+    {
+      "fileName": "dar-al-eiman-al-haram-twin-room_542ef42e.jpg",
+      "sourcePath": "/home/ubuntu/webdev-static-assets/al-ghanem-travel/owner-upload-2026-08-25/Hotel_Images/dar-al-eiman-al-haram-twin-room_542ef42e.jpg",
+      "hotelSlug": "al-haram-hotel",
+      "hotelName": "Dar Al Eiman Al Haram Hotel",
+      "city": "madinah",
+      "destinationPath": "media/by-hotel/al-haram-hotel/dar-al-eiman-al-haram-twin-room_542ef42e.jpg"
+    },
+    {
+      "fileName": "dar-al-iman-madinah-lounge-2026_0038b5bd.jpg",
+      "sourcePath": "/home/ubuntu/webdev-static-assets/al-ghanem-travel/owner-upload-2026-08-25/Hotel_Images/dar-al-iman-madinah-lounge-2026_0038b5bd.jpg",
+      "hotelSlug": "dar-al-iman-intercontinental",
+      "hotelName": "InterContinental Dar Al Iman Madinah",
+      "city": "madinah",
+      "destinationPath": "media/by-hotel/dar-al-iman-intercontinental/dar-al-iman-madinah-lounge-2026_0038b5bd.jpg"
+    },
+    {
+      "fileName": "dar-al-iman-madinah-room-2026_6462e1c6.jpg",
+      "sourcePath": "/home/ubuntu/webdev-static-assets/al-ghanem-travel/owner-upload-2026-08-25/Hotel_Images/dar-al-iman-madinah-room-2026_6462e1c6.jpg",
+      "hotelSlug": "dar-al-iman-intercontinental",
+      "hotelName": "InterContinental Dar Al Iman Madinah",
+      "city": "madinah",
+      "destinationPath": "media/by-hotel/dar-al-iman-intercontinental/dar-al-iman-madinah-room-2026_6462e1c6.jpg"
+    },
+    {
+      "fileName": "dar-al-naeem-exterior_b9f8751f.jpg",
+      "sourcePath": "/home/ubuntu/webdev-static-assets/al-ghanem-travel/owner-upload-2026-08-25/Hotel_Images/dar-al-naeem-exterior_b9f8751f.jpg",
+      "hotelSlug": "dar-al-naeem-madinah",
+      "hotelName": "Dar Al Naeem Hotel",
+      "city": "madinah",
+      "destinationPath": "media/by-hotel/dar-al-naeem-madinah/dar-al-naeem-exterior_b9f8751f.jpg"
+    },
+    {
+      "fileName": "dar-al-naeem-lobby_7f648d79.jpg",
+      "sourcePath": "/home/ubuntu/webdev-static-assets/al-ghanem-travel/owner-upload-2026-08-25/Hotel_Images/dar-al-naeem-lobby_7f648d79.jpg",
+      "hotelSlug": "dar-al-naeem-madinah",
+      "hotelName": "Dar Al Naeem Hotel",
+      "city": "madinah",
+      "destinationPath": "media/by-hotel/dar-al-naeem-madinah/dar-al-naeem-lobby_7f648d79.jpg"
+    },
+    {
+      "fileName": "dar-al-naeem-room_885a96b0.jpg",
+      "sourcePath": "/home/ubuntu/webdev-static-assets/al-ghanem-travel/owner-upload-2026-08-25/Hotel_Images/dar-al-naeem-room_885a96b0.jpg",
+      "hotelSlug": "dar-al-naeem-madinah",
+      "hotelName": "Dar Al Naeem Hotel",
+      "city": "madinah",
+      "destinationPath": "media/by-hotel/dar-al-naeem-madinah/dar-al-naeem-room_885a96b0.jpg"
+    },
+    {
+      "fileName": "dar-al-taqwa-madinah-dining-2026_29d983e4.jpg",
+      "sourcePath": "/home/ubuntu/webdev-static-assets/al-ghanem-travel/owner-upload-2026-08-25/Hotel_Images/dar-al-taqwa-madinah-dining-2026_29d983e4.jpg",
+      "hotelSlug": "dar-al-taqwa-madinah",
+      "hotelName": "Dar Al Taqwa Hotel",
+      "city": "madinah",
+      "destinationPath": "media/by-hotel/dar-al-taqwa-madinah/dar-al-taqwa-madinah-dining-2026_29d983e4.jpg"
+    },
+    {
+      "fileName": "dar-al-taqwa-madinah-lobby-2026_88c6b228.jpg",
+      "sourcePath": "/home/ubuntu/webdev-static-assets/al-ghanem-travel/owner-upload-2026-08-25/Hotel_Images/dar-al-taqwa-madinah-lobby-2026_88c6b228.jpg",
+      "hotelSlug": "dar-al-taqwa-madinah",
+      "hotelName": "Dar Al Taqwa Hotel",
+      "city": "madinah",
+      "destinationPath": "media/by-hotel/dar-al-taqwa-madinah/dar-al-taqwa-madinah-lobby-2026_88c6b228.jpg"
+    },
+    {
+      "fileName": "dar-al-taqwa-madinah-room-2026_a6636fc2.jpg",
+      "sourcePath": "/home/ubuntu/webdev-static-assets/al-ghanem-travel/owner-upload-2026-08-25/Hotel_Images/dar-al-taqwa-madinah-room-2026_a6636fc2.jpg",
+      "hotelSlug": "dar-al-taqwa-madinah",
+      "hotelName": "Dar Al Taqwa Hotel",
+      "city": "madinah",
+      "destinationPath": "media/by-hotel/dar-al-taqwa-madinah/dar-al-taqwa-madinah-room-2026_a6636fc2.jpg"
+    },
+    {
+      "fileName": "diyafa-al-mukhtara-madinah-exterior_9d718612.webp",
+      "sourcePath": "/home/ubuntu/webdev-static-assets/al-ghanem-travel/owner-upload-2026-08-25/Hotel_Images/diyafa-al-mukhtara-madinah-exterior_9d718612.webp",
+      "hotelSlug": "diyafa-al-mukhtara-madinah",
+      "hotelName": "Diyafa Al Mukhtara Hotel",
+      "city": "madinah",
+      "destinationPath": "media/by-hotel/diyafa-al-mukhtara-madinah/diyafa-al-mukhtara-madinah-exterior_9d718612.webp"
+    },
+    {
+      "fileName": "diyafa-al-mukhtara-madinah-lobby_133f1471.jpg",
+      "sourcePath": "/home/ubuntu/webdev-static-assets/al-ghanem-travel/owner-upload-2026-08-25/Hotel_Images/diyafa-al-mukhtara-madinah-lobby_133f1471.jpg",
+      "hotelSlug": "diyafa-al-mukhtara-madinah",
+      "hotelName": "Diyafa Al Mukhtara Hotel",
+      "city": "madinah",
+      "destinationPath": "media/by-hotel/diyafa-al-mukhtara-madinah/diyafa-al-mukhtara-madinah-lobby_133f1471.jpg"
+    },
+    {
+      "fileName": "diyafa-al-mukhtara-madinah-room_dd553dda.jpg",
+      "sourcePath": "/home/ubuntu/webdev-static-assets/al-ghanem-travel/owner-upload-2026-08-25/Hotel_Images/diyafa-al-mukhtara-madinah-room_dd553dda.jpg",
+      "hotelSlug": "diyafa-al-mukhtara-madinah",
+      "hotelName": "Diyafa Al Mukhtara Hotel",
+      "city": "madinah",
+      "destinationPath": "media/by-hotel/diyafa-al-mukhtara-madinah/diyafa-al-mukhtara-madinah-room_dd553dda.jpg"
+    },
+    {
+      "fileName": "diyar-ajwa-facade_73040270.jpg",
+      "sourcePath": "/home/ubuntu/webdev-static-assets/al-ghanem-travel/owner-upload-2026-08-25/Hotel_Images/diyar-ajwa-facade_73040270.jpg",
+      "hotelSlug": "diyar-ajwa-tapestry-hilton",
+      "hotelName": "Diyar Ajwa, Tapestry Collection by Hilton",
+      "city": "madinah",
+      "destinationPath": "media/by-hotel/diyar-ajwa-tapestry-hilton/diyar-ajwa-facade_73040270.jpg"
+    },
+    {
+      "fileName": "diyar-ajwa-lobby_1ffce765.jpg",
+      "sourcePath": "/home/ubuntu/webdev-static-assets/al-ghanem-travel/owner-upload-2026-08-25/Hotel_Images/diyar-ajwa-lobby_1ffce765.jpg",
+      "hotelSlug": "diyar-ajwa-tapestry-hilton",
+      "hotelName": "Diyar Ajwa, Tapestry Collection by Hilton",
+      "city": "madinah",
+      "destinationPath": "media/by-hotel/diyar-ajwa-tapestry-hilton/diyar-ajwa-lobby_1ffce765.jpg"
+    },
+    {
+      "fileName": "diyar-ajwa-room_74dba180.jpg",
+      "sourcePath": "/home/ubuntu/webdev-static-assets/al-ghanem-travel/owner-upload-2026-08-25/Hotel_Images/diyar-ajwa-room_74dba180.jpg",
+      "hotelSlug": "diyar-ajwa-tapestry-hilton",
+      "hotelName": "Diyar Ajwa, Tapestry Collection by Hilton",
+      "city": "madinah",
+      "destinationPath": "media/by-hotel/diyar-ajwa-tapestry-hilton/diyar-ajwa-room_74dba180.jpg"
+    },
+    {
+      "fileName": "diyar-al-huda-exterior_1219522b.jpg",
+      "sourcePath": "/home/ubuntu/webdev-static-assets/al-ghanem-travel/owner-upload-2026-08-25/Hotel_Images/diyar-al-huda-exterior_1219522b.jpg",
+      "hotelSlug": "diyar-al-huda-madinah",
+      "hotelName": "Diyar Al Huda Hotel",
+      "city": "madinah",
+      "destinationPath": "media/by-hotel/diyar-al-huda-madinah/diyar-al-huda-exterior_1219522b.jpg"
+    },
+    {
+      "fileName": "diyar-al-huda-lobby_129b280e.jpg",
+      "sourcePath": "/home/ubuntu/webdev-static-assets/al-ghanem-travel/owner-upload-2026-08-25/Hotel_Images/diyar-al-huda-lobby_129b280e.jpg",
+      "hotelSlug": "diyar-al-huda-madinah",
+      "hotelName": "Diyar Al Huda Hotel",
+      "city": "madinah",
+      "destinationPath": "media/by-hotel/diyar-al-huda-madinah/diyar-al-huda-lobby_129b280e.jpg"
+    },
+    {
+      "fileName": "diyar-al-huda-room_d863e883.jpg",
+      "sourcePath": "/home/ubuntu/webdev-static-assets/al-ghanem-travel/owner-upload-2026-08-25/Hotel_Images/diyar-al-huda-room_d863e883.jpg",
+      "hotelSlug": "diyar-al-huda-madinah",
+      "hotelName": "Diyar Al Huda Hotel",
+      "city": "madinah",
+      "destinationPath": "media/by-hotel/diyar-al-huda-madinah/diyar-al-huda-room_d863e883.jpg"
+    },
+    {
+      "fileName": "diyar-al-madinah-exterior_9a935f2e.jpg",
+      "sourcePath": "/home/ubuntu/webdev-static-assets/al-ghanem-travel/owner-upload-2026-08-25/Hotel_Images/diyar-al-madinah-exterior_9a935f2e.jpg",
+      "hotelSlug": "diyar-al-madinah-madinah",
+      "hotelName": "Diyar Al Madinah Hotel",
+      "city": "madinah",
+      "destinationPath": "media/by-hotel/diyar-al-madinah-madinah/diyar-al-madinah-exterior_9a935f2e.jpg"
+    },
+    {
+      "fileName": "diyar-al-madinah-lobby_263d6033.jpg",
+      "sourcePath": "/home/ubuntu/webdev-static-assets/al-ghanem-travel/owner-upload-2026-08-25/Hotel_Images/diyar-al-madinah-lobby_263d6033.jpg",
+      "hotelSlug": "diyar-al-madinah-madinah",
+      "hotelName": "Diyar Al Madinah Hotel",
+      "city": "madinah",
+      "destinationPath": "media/by-hotel/diyar-al-madinah-madinah/diyar-al-madinah-lobby_263d6033.jpg"
+    },
+    {
+      "fileName": "diyar-al-madinah-room_a9653c1c.jpg",
+      "sourcePath": "/home/ubuntu/webdev-static-assets/al-ghanem-travel/owner-upload-2026-08-25/Hotel_Images/diyar-al-madinah-room_a9653c1c.jpg",
+      "hotelSlug": "diyar-al-madinah-madinah",
+      "hotelName": "Diyar Al Madinah Hotel",
+      "city": "madinah",
+      "destinationPath": "media/by-hotel/diyar-al-madinah-madinah/diyar-al-madinah-room_a9653c1c.jpg"
+    },
+    {
+      "fileName": "diyar-al-salam-exterior_676dcfd8.jpg",
+      "sourcePath": "/home/ubuntu/webdev-static-assets/al-ghanem-travel/owner-upload-2026-08-25/Hotel_Images/diyar-al-salam-exterior_676dcfd8.jpg",
+      "hotelSlug": "diyar-al-salam-madinah",
+      "hotelName": "Diyar Al Salam Hotel",
+      "city": "madinah",
+      "destinationPath": "media/by-hotel/diyar-al-salam-madinah/diyar-al-salam-exterior_676dcfd8.jpg"
+    },
+    {
+      "fileName": "diyar-al-salam-lobby_115e9dc1.jpg",
+      "sourcePath": "/home/ubuntu/webdev-static-assets/al-ghanem-travel/owner-upload-2026-08-25/Hotel_Images/diyar-al-salam-lobby_115e9dc1.jpg",
+      "hotelSlug": "diyar-al-salam-madinah",
+      "hotelName": "Diyar Al Salam Hotel",
+      "city": "madinah",
+      "destinationPath": "media/by-hotel/diyar-al-salam-madinah/diyar-al-salam-lobby_115e9dc1.jpg"
+    },
+    {
+      "fileName": "diyar-al-salam-room_0cbeb420.jpg",
+      "sourcePath": "/home/ubuntu/webdev-static-assets/al-ghanem-travel/owner-upload-2026-08-25/Hotel_Images/diyar-al-salam-room_0cbeb420.jpg",
+      "hotelSlug": "diyar-al-salam-madinah",
+      "hotelName": "Diyar Al Salam Hotel",
+      "city": "madinah",
+      "destinationPath": "media/by-hotel/diyar-al-salam-madinah/diyar-al-salam-room_0cbeb420.jpg"
+    },
+    {
+      "fileName": "diyar-al-salam-silver-exterior_bc6c01f9.jpg",
+      "sourcePath": "/home/ubuntu/webdev-static-assets/al-ghanem-travel/owner-upload-2026-08-25/Hotel_Images/diyar-al-salam-silver-exterior_bc6c01f9.jpg",
+      "hotelSlug": "diyar-al-salam-silver-madinah",
+      "hotelName": "Diyar Al Salam Silver Hotel",
+      "city": "madinah",
+      "destinationPath": "media/by-hotel/diyar-al-salam-silver-madinah/diyar-al-salam-silver-exterior_bc6c01f9.jpg"
+    },
+    {
+      "fileName": "diyar-al-salam-silver-lobby_de339a55.jpg",
+      "sourcePath": "/home/ubuntu/webdev-static-assets/al-ghanem-travel/owner-upload-2026-08-25/Hotel_Images/diyar-al-salam-silver-lobby_de339a55.jpg",
+      "hotelSlug": "diyar-al-salam-silver-madinah",
+      "hotelName": "Diyar Al Salam Silver Hotel",
+      "city": "madinah",
+      "destinationPath": "media/by-hotel/diyar-al-salam-silver-madinah/diyar-al-salam-silver-lobby_de339a55.jpg"
+    },
+    {
+      "fileName": "diyar-al-salam-silver-room_898699ff.jpg",
+      "sourcePath": "/home/ubuntu/webdev-static-assets/al-ghanem-travel/owner-upload-2026-08-25/Hotel_Images/diyar-al-salam-silver-room_898699ff.jpg",
+      "hotelSlug": "diyar-al-salam-silver-madinah",
+      "hotelName": "Diyar Al Salam Silver Hotel",
+      "city": "madinah",
+      "destinationPath": "media/by-hotel/diyar-al-salam-silver-madinah/diyar-al-salam-silver-room_898699ff.jpg"
+    },
+    {
+      "fileName": "diyar-al-taqwa-exterior_6f207a66.jpg",
+      "sourcePath": "/home/ubuntu/webdev-static-assets/al-ghanem-travel/owner-upload-2026-08-25/Hotel_Images/diyar-al-taqwa-exterior_6f207a66.jpg",
+      "hotelSlug": "diyar-al-taqwa-madinah",
+      "hotelName": "Diyar Al Taqwa Hotel",
+      "city": "madinah",
+      "destinationPath": "media/by-hotel/diyar-al-taqwa-madinah/diyar-al-taqwa-exterior_6f207a66.jpg"
+    },
+    {
+      "fileName": "diyar-al-taqwa-lobby_48740534.jpg",
+      "sourcePath": "/home/ubuntu/webdev-static-assets/al-ghanem-travel/owner-upload-2026-08-25/Hotel_Images/diyar-al-taqwa-lobby_48740534.jpg",
+      "hotelSlug": "diyar-al-taqwa-madinah",
+      "hotelName": "Diyar Al Taqwa Hotel",
+      "city": "madinah",
+      "destinationPath": "media/by-hotel/diyar-al-taqwa-madinah/diyar-al-taqwa-lobby_48740534.jpg"
+    },
+    {
+      "fileName": "diyar-al-taqwa-room_f9ee8974.jpg",
+      "sourcePath": "/home/ubuntu/webdev-static-assets/al-ghanem-travel/owner-upload-2026-08-25/Hotel_Images/diyar-al-taqwa-room_f9ee8974.jpg",
+      "hotelSlug": "diyar-al-taqwa-madinah",
+      "hotelName": "Diyar Al Taqwa Hotel",
+      "city": "madinah",
+      "destinationPath": "media/by-hotel/diyar-al-taqwa-madinah/diyar-al-taqwa-room_f9ee8974.jpg"
+    },
+    {
+      "fileName": "diyar-wahat-al-nazeel-exterior_98196255.jpg",
+      "sourcePath": "/home/ubuntu/webdev-static-assets/al-ghanem-travel/owner-upload-2026-08-25/Hotel_Images/diyar-wahat-al-nazeel-exterior_98196255.jpg",
+      "hotelSlug": "diyar-wahat-al-nazeel-madinah",
+      "hotelName": "Diyar Wahat Al Nazeel Hotel",
+      "city": "madinah",
+      "destinationPath": "media/by-hotel/diyar-wahat-al-nazeel-madinah/diyar-wahat-al-nazeel-exterior_98196255.jpg"
+    },
+    {
+      "fileName": "diyar-wahat-al-nazeel-room_989fc269.jpg",
+      "sourcePath": "/home/ubuntu/webdev-static-assets/al-ghanem-travel/owner-upload-2026-08-25/Hotel_Images/diyar-wahat-al-nazeel-room_989fc269.jpg",
+      "hotelSlug": "diyar-wahat-al-nazeel-madinah",
+      "hotelName": "Diyar Wahat Al Nazeel Hotel",
+      "city": "madinah",
+      "destinationPath": "media/by-hotel/diyar-wahat-al-nazeel-madinah/diyar-wahat-al-nazeel-room_989fc269.jpg"
+    },
+    {
+      "fileName": "doubletree-madinah-gate-dining-2026_59045298.jpg",
+      "sourcePath": "/home/ubuntu/webdev-static-assets/al-ghanem-travel/owner-upload-2026-08-25/Hotel_Images/doubletree-madinah-gate-dining-2026_59045298.jpg",
+      "hotelSlug": "doubletree-by-hilton-madinah-gate",
+      "hotelName": "DoubleTree by Hilton Madinah Gate",
+      "city": "madinah",
+      "destinationPath": "media/by-hotel/doubletree-by-hilton-madinah-gate/doubletree-madinah-gate-dining-2026_59045298.jpg"
+    },
+    {
+      "fileName": "doubletree-madinah-gate-lobby-2026_922440b3.jpg",
+      "sourcePath": "/home/ubuntu/webdev-static-assets/al-ghanem-travel/owner-upload-2026-08-25/Hotel_Images/doubletree-madinah-gate-lobby-2026_922440b3.jpg",
+      "hotelSlug": "doubletree-by-hilton-madinah-gate",
+      "hotelName": "DoubleTree by Hilton Madinah Gate",
+      "city": "madinah",
+      "destinationPath": "media/by-hotel/doubletree-by-hilton-madinah-gate/doubletree-madinah-gate-lobby-2026_922440b3.jpg"
+    },
+    {
+      "fileName": "doubletree-madinah-gate-room-2026_d74126a5.jpg",
+      "sourcePath": "/home/ubuntu/webdev-static-assets/al-ghanem-travel/owner-upload-2026-08-25/Hotel_Images/doubletree-madinah-gate-room-2026_d74126a5.jpg",
+      "hotelSlug": "doubletree-by-hilton-madinah-gate",
+      "hotelName": "DoubleTree by Hilton Madinah Gate",
+      "city": "madinah",
+      "destinationPath": "media/by-hotel/doubletree-by-hilton-madinah-gate/doubletree-madinah-gate-room-2026_d74126a5.jpg"
+    },
+    {
+      "fileName": "durrah-al-eiman-exterior_95196c97.jpg",
+      "sourcePath": "/home/ubuntu/webdev-static-assets/al-ghanem-travel/owner-upload-2026-08-25/Hotel_Images/durrah-al-eiman-exterior_95196c97.jpg",
+      "hotelSlug": "durrah-al-eiman-madinah",
+      "hotelName": "Durrah Al Eiman Hotel",
+      "city": "madinah",
+      "destinationPath": "media/by-hotel/durrah-al-eiman-madinah/durrah-al-eiman-exterior_95196c97.jpg"
+    },
+    {
+      "fileName": "durrah-al-eiman-lobby_372f2b5c.jpg",
+      "sourcePath": "/home/ubuntu/webdev-static-assets/al-ghanem-travel/owner-upload-2026-08-25/Hotel_Images/durrah-al-eiman-lobby_372f2b5c.jpg",
+      "hotelSlug": "durrah-al-eiman-madinah",
+      "hotelName": "Durrah Al Eiman Hotel",
+      "city": "madinah",
+      "destinationPath": "media/by-hotel/durrah-al-eiman-madinah/durrah-al-eiman-lobby_372f2b5c.jpg"
+    },
+    {
+      "fileName": "durrah-al-eiman-room_6a93e299.jpg",
+      "sourcePath": "/home/ubuntu/webdev-static-assets/al-ghanem-travel/owner-upload-2026-08-25/Hotel_Images/durrah-al-eiman-room_6a93e299.jpg",
+      "hotelSlug": "durrah-al-eiman-madinah",
+      "hotelName": "Durrah Al Eiman Hotel",
+      "city": "madinah",
+      "destinationPath": "media/by-hotel/durrah-al-eiman-madinah/durrah-al-eiman-room_6a93e299.jpg"
+    },
+    {
+      "fileName": "durrat-al-madinah-hotel-exterior-2026_0317a1b8.jpg",
+      "sourcePath": "/home/ubuntu/webdev-static-assets/al-ghanem-travel/owner-upload-2026-08-25/Hotel_Images/durrat-al-madinah-hotel-exterior-2026_0317a1b8.jpg",
+      "hotelSlug": "al-durrah-madinah",
+      "hotelName": "Durra Al Madinah Hotel",
+      "city": "madinah",
+      "destinationPath": "media/by-hotel/al-durrah-madinah/durrat-al-madinah-hotel-exterior-2026_0317a1b8.jpg"
+    },
+    {
+      "fileName": "durrat-al-madinah-hotel-lobby-2026_b8611147.jpg",
+      "sourcePath": "/home/ubuntu/webdev-static-assets/al-ghanem-travel/owner-upload-2026-08-25/Hotel_Images/durrat-al-madinah-hotel-lobby-2026_b8611147.jpg",
+      "hotelSlug": "al-durrah-madinah",
+      "hotelName": "Durra Al Madinah Hotel",
+      "city": "madinah",
+      "destinationPath": "media/by-hotel/al-durrah-madinah/durrat-al-madinah-hotel-lobby-2026_b8611147.jpg"
+    },
+    {
+      "fileName": "durrat-al-madinah-hotel-room-2026_62d01097.jpg",
+      "sourcePath": "/home/ubuntu/webdev-static-assets/al-ghanem-travel/owner-upload-2026-08-25/Hotel_Images/durrat-al-madinah-hotel-room-2026_62d01097.jpg",
+      "hotelSlug": "al-durrah-madinah",
+      "hotelName": "Durra Al Madinah Hotel",
+      "city": "madinah",
+      "destinationPath": "media/by-hotel/al-durrah-madinah/durrat-al-madinah-hotel-room-2026_62d01097.jpg"
+    },
+    {
+      "fileName": "elaf-al-taqwa-exterior_4c92e46b.jpg",
+      "sourcePath": "/home/ubuntu/webdev-static-assets/al-ghanem-travel/owner-upload-2026-08-25/Hotel_Images/elaf-al-taqwa-exterior_4c92e46b.jpg",
+      "hotelSlug": "elaf-al-taqwa-madinah",
+      "hotelName": "Elaf Al Taqwa Hotel",
+      "city": "madinah",
+      "destinationPath": "media/by-hotel/elaf-al-taqwa-madinah/elaf-al-taqwa-exterior_4c92e46b.jpg"
+    },
+    {
+      "fileName": "elaf-al-taqwa-facade_c97b6e12.webp",
+      "sourcePath": "/home/ubuntu/webdev-static-assets/al-ghanem-travel/owner-upload-2026-08-25/Hotel_Images/elaf-al-taqwa-facade_c97b6e12.webp",
+      "hotelSlug": "elaf-al-taqwa-madinah",
+      "hotelName": "Elaf Al Taqwa Hotel",
+      "city": "madinah",
+      "destinationPath": "media/by-hotel/elaf-al-taqwa-madinah/elaf-al-taqwa-facade_c97b6e12.webp"
+    },
+    {
+      "fileName": "elaf-al-taqwa-room_f75acbe8.jpg",
+      "sourcePath": "/home/ubuntu/webdev-static-assets/al-ghanem-travel/owner-upload-2026-08-25/Hotel_Images/elaf-al-taqwa-room_f75acbe8.jpg",
+      "hotelSlug": "elaf-al-taqwa-madinah",
+      "hotelName": "Elaf Al Taqwa Hotel",
+      "city": "madinah",
+      "destinationPath": "media/by-hotel/elaf-al-taqwa-madinah/elaf-al-taqwa-room_f75acbe8.jpg"
+    },
+    {
+      "fileName": "elaf-taiba-lobby_c986b5f3.jpg",
+      "sourcePath": "/home/ubuntu/webdev-static-assets/al-ghanem-travel/owner-upload-2026-08-25/Hotel_Images/elaf-taiba-lobby_c986b5f3.jpg",
+      "hotelSlug": "elaf-taiba-madinah",
+      "hotelName": "Elaf Taiba Hotel",
+      "city": "madinah",
+      "destinationPath": "media/by-hotel/elaf-taiba-madinah/elaf-taiba-lobby_c986b5f3.jpg"
+    },
+    {
+      "fileName": "elaf-taiba-reception_cc5dce9c.jpg",
+      "sourcePath": "/home/ubuntu/webdev-static-assets/al-ghanem-travel/owner-upload-2026-08-25/Hotel_Images/elaf-taiba-reception_cc5dce9c.jpg",
+      "hotelSlug": "elaf-taiba-madinah",
+      "hotelName": "Elaf Taiba Hotel",
+      "city": "madinah",
+      "destinationPath": "media/by-hotel/elaf-taiba-madinah/elaf-taiba-reception_cc5dce9c.jpg"
+    },
+    {
+      "fileName": "elaf-taiba-room_873488b0.jpg",
+      "sourcePath": "/home/ubuntu/webdev-static-assets/al-ghanem-travel/owner-upload-2026-08-25/Hotel_Images/elaf-taiba-room_873488b0.jpg",
+      "hotelSlug": "elaf-taiba-madinah",
+      "hotelName": "Elaf Taiba Hotel",
+      "city": "madinah",
+      "destinationPath": "media/by-hotel/elaf-taiba-madinah/elaf-taiba-room_873488b0.jpg"
+    },
+    {
+      "fileName": "emaar-elite-exterior_9c6c7fd5.jpg",
+      "sourcePath": "/home/ubuntu/webdev-static-assets/al-ghanem-travel/owner-upload-2026-08-25/Hotel_Images/emaar-elite-exterior_9c6c7fd5.jpg",
+      "hotelSlug": "emaar-elite-madinah",
+      "hotelName": "Emaar Elite Hotel",
+      "city": "madinah",
+      "destinationPath": "media/by-hotel/emaar-elite-madinah/emaar-elite-exterior_9c6c7fd5.jpg"
+    },
+    {
+      "fileName": "emaar-elite-lobby_3dc9f58e.jpg",
+      "sourcePath": "/home/ubuntu/webdev-static-assets/al-ghanem-travel/owner-upload-2026-08-25/Hotel_Images/emaar-elite-lobby_3dc9f58e.jpg",
+      "hotelSlug": "emaar-elite-madinah",
+      "hotelName": "Emaar Elite Hotel",
+      "city": "madinah",
+      "destinationPath": "media/by-hotel/emaar-elite-madinah/emaar-elite-lobby_3dc9f58e.jpg"
+    },
+    {
+      "fileName": "emaar-elite-room_11ff2236.jpg",
+      "sourcePath": "/home/ubuntu/webdev-static-assets/al-ghanem-travel/owner-upload-2026-08-25/Hotel_Images/emaar-elite-room_11ff2236.jpg",
+      "hotelSlug": "emaar-elite-madinah",
+      "hotelName": "Emaar Elite Hotel",
+      "city": "madinah",
+      "destinationPath": "media/by-hotel/emaar-elite-madinah/emaar-elite-room_11ff2236.jpg"
+    },
+    {
+      "fileName": "emaar-maktan-exterior_d35561f3.jpg",
+      "sourcePath": "/home/ubuntu/webdev-static-assets/al-ghanem-travel/owner-upload-2026-08-25/Hotel_Images/emaar-maktan-exterior_d35561f3.jpg",
+      "hotelSlug": "emaar-maktan-madinah",
+      "hotelName": "Emaar Maktan Hotel",
+      "city": "madinah",
+      "destinationPath": "media/by-hotel/emaar-maktan-madinah/emaar-maktan-exterior_d35561f3.jpg"
+    },
+    {
+      "fileName": "emaar-maktan-lobby_bc65f6b5.jpg",
+      "sourcePath": "/home/ubuntu/webdev-static-assets/al-ghanem-travel/owner-upload-2026-08-25/Hotel_Images/emaar-maktan-lobby_bc65f6b5.jpg",
+      "hotelSlug": "emaar-maktan-madinah",
+      "hotelName": "Emaar Maktan Hotel",
+      "city": "madinah",
+      "destinationPath": "media/by-hotel/emaar-maktan-madinah/emaar-maktan-lobby_bc65f6b5.jpg"
+    },
+    {
+      "fileName": "emaar-maktan-room_8ca68d7f.jpg",
+      "sourcePath": "/home/ubuntu/webdev-static-assets/al-ghanem-travel/owner-upload-2026-08-25/Hotel_Images/emaar-maktan-room_8ca68d7f.jpg",
+      "hotelSlug": "emaar-maktan-madinah",
+      "hotelName": "Emaar Maktan Hotel",
+      "city": "madinah",
+      "destinationPath": "media/by-hotel/emaar-maktan-madinah/emaar-maktan-room_8ca68d7f.jpg"
+    },
+    {
+      "fileName": "emaar-taibah-exterior_78f231be.jpg",
+      "sourcePath": "/home/ubuntu/webdev-static-assets/al-ghanem-travel/owner-upload-2026-08-25/Hotel_Images/emaar-taibah-exterior_78f231be.jpg",
+      "hotelSlug": "emaar-taibah-madinah",
+      "hotelName": "Emaar Taibah Hotel",
+      "city": "madinah",
+      "destinationPath": "media/by-hotel/emaar-taibah-madinah/emaar-taibah-exterior_78f231be.jpg"
+    },
+    {
+      "fileName": "emaar-taibah-lobby_ec02733b.jpg",
+      "sourcePath": "/home/ubuntu/webdev-static-assets/al-ghanem-travel/owner-upload-2026-08-25/Hotel_Images/emaar-taibah-lobby_ec02733b.jpg",
+      "hotelSlug": "emaar-taibah-madinah",
+      "hotelName": "Emaar Taibah Hotel",
+      "city": "madinah",
+      "destinationPath": "media/by-hotel/emaar-taibah-madinah/emaar-taibah-lobby_ec02733b.jpg"
+    },
+    {
+      "fileName": "emaar-taibah-room_ba21390c.jpg",
+      "sourcePath": "/home/ubuntu/webdev-static-assets/al-ghanem-travel/owner-upload-2026-08-25/Hotel_Images/emaar-taibah-room_ba21390c.jpg",
+      "hotelSlug": "emaar-taibah-madinah",
+      "hotelName": "Emaar Taibah Hotel",
+      "city": "madinah",
+      "destinationPath": "media/by-hotel/emaar-taibah-madinah/emaar-taibah-room_ba21390c.jpg"
+    },
+    {
+      "fileName": "eman-royal-madinah-lobby-2026_d3c2ae46.jpg",
+      "sourcePath": "/home/ubuntu/webdev-static-assets/al-ghanem-travel/owner-upload-2026-08-25/Hotel_Images/eman-royal-madinah-lobby-2026_d3c2ae46.jpg",
+      "hotelSlug": "eman-royal",
+      "hotelName": "Emaar Royal Hotel",
+      "city": "madinah",
+      "destinationPath": "media/by-hotel/eman-royal/eman-royal-madinah-lobby-2026_d3c2ae46.jpg"
+    },
+    {
+      "fileName": "exterior-trip-medina_03d41764.jpg",
+      "sourcePath": "/home/ubuntu/webdev-static-assets/al-ghanem-travel/owner-upload-2026-08-25/Hotel_Images/exterior-trip-medina_03d41764.jpg",
+      "hotelSlug": "dar-al-eiman-grand-madinah",
+      "hotelName": "Dar Al Eiman Grand Hotel",
+      "city": "madinah",
+      "destinationPath": "media/by-hotel/dar-al-eiman-grand-madinah/exterior-trip-medina_03d41764.jpg"
+    },
+    {
+      "fileName": "faraj-almadina-public-space_1345d74f.jpg",
+      "sourcePath": "/home/ubuntu/webdev-static-assets/al-ghanem-travel/owner-upload-2026-08-25/Hotel_Images/faraj-almadina-public-space_1345d74f.jpg",
+      "hotelSlug": "faraj-almadina-hotel",
+      "hotelName": "Faraj Almadina Hotel",
+      "city": "madinah",
+      "destinationPath": "media/by-hotel/faraj-almadina-hotel/faraj-almadina-public-space_1345d74f.jpg"
+    },
+    {
+      "fileName": "faraj-almadina-reception_7d99bd75.jpg",
+      "sourcePath": "/home/ubuntu/webdev-static-assets/al-ghanem-travel/owner-upload-2026-08-25/Hotel_Images/faraj-almadina-reception_7d99bd75.jpg",
+      "hotelSlug": "faraj-almadina-hotel",
+      "hotelName": "Faraj Almadina Hotel",
+      "city": "madinah",
+      "destinationPath": "media/by-hotel/faraj-almadina-hotel/faraj-almadina-reception_7d99bd75.jpg"
+    },
+    {
+      "fileName": "faraj-almadina-room_7a0c1cfd.jpg",
+      "sourcePath": "/home/ubuntu/webdev-static-assets/al-ghanem-travel/owner-upload-2026-08-25/Hotel_Images/faraj-almadina-room_7a0c1cfd.jpg",
+      "hotelSlug": "faraj-almadina-hotel",
+      "hotelName": "Faraj Almadina Hotel",
+      "city": "madinah",
+      "destinationPath": "media/by-hotel/faraj-almadina-hotel/faraj-almadina-room_7a0c1cfd.jpg"
+    },
+    {
+      "fileName": "golden-madinah-hotel-exterior_02f50b8b.jpg",
+      "sourcePath": "/home/ubuntu/webdev-static-assets/al-ghanem-travel/owner-upload-2026-08-25/Hotel_Images/golden-madinah-hotel-exterior_02f50b8b.jpg",
+      "hotelSlug": "golden-madinah-hotel",
+      "hotelName": "Golden Madinah Hotel",
+      "city": "madinah",
+      "destinationPath": "media/by-hotel/golden-madinah-hotel/golden-madinah-hotel-exterior_02f50b8b.jpg"
+    },
+    {
+      "fileName": "golden-madinah-hotel-lobby_fa1b088d.jpg",
+      "sourcePath": "/home/ubuntu/webdev-static-assets/al-ghanem-travel/owner-upload-2026-08-25/Hotel_Images/golden-madinah-hotel-lobby_fa1b088d.jpg",
+      "hotelSlug": "golden-madinah-hotel",
+      "hotelName": "Golden Madinah Hotel",
+      "city": "madinah",
+      "destinationPath": "media/by-hotel/golden-madinah-hotel/golden-madinah-hotel-lobby_fa1b088d.jpg"
+    },
+    {
+      "fileName": "golden-madinah-hotel-room_fea1fe0c.jpg",
+      "sourcePath": "/home/ubuntu/webdev-static-assets/al-ghanem-travel/owner-upload-2026-08-25/Hotel_Images/golden-madinah-hotel-room_fea1fe0c.jpg",
+      "hotelSlug": "golden-madinah-hotel",
+      "hotelName": "Golden Madinah Hotel",
+      "city": "madinah",
+      "destinationPath": "media/by-hotel/golden-madinah-hotel/golden-madinah-hotel-room_fea1fe0c.jpg"
+    },
+    {
+      "fileName": "golden-tulip-al-zahabi-exterior-2026_d05c6586.jpg",
+      "sourcePath": "/home/ubuntu/webdev-static-assets/al-ghanem-travel/owner-upload-2026-08-25/Hotel_Images/golden-tulip-al-zahabi-exterior-2026_d05c6586.jpg",
+      "hotelSlug": "golden-tulip-al-zahabi",
+      "hotelName": "Golden Tulip Al Zahabi",
+      "city": "madinah",
+      "destinationPath": "media/by-hotel/golden-tulip-al-zahabi/golden-tulip-al-zahabi-exterior-2026_d05c6586.jpg"
+    },
+    {
+      "fileName": "golden-tulip-al-zahabi-lobby-2026_b18b2647.jpg",
+      "sourcePath": "/home/ubuntu/webdev-static-assets/al-ghanem-travel/owner-upload-2026-08-25/Hotel_Images/golden-tulip-al-zahabi-lobby-2026_b18b2647.jpg",
+      "hotelSlug": "golden-tulip-al-zahabi",
+      "hotelName": "Golden Tulip Al Zahabi",
+      "city": "madinah",
+      "destinationPath": "media/by-hotel/golden-tulip-al-zahabi/golden-tulip-al-zahabi-lobby-2026_b18b2647.jpg"
+    },
+    {
+      "fileName": "golden-tulip-al-zahabi-room-2026_4c05ab99.jpg",
+      "sourcePath": "/home/ubuntu/webdev-static-assets/al-ghanem-travel/owner-upload-2026-08-25/Hotel_Images/golden-tulip-al-zahabi-room-2026_4c05ab99.jpg",
+      "hotelSlug": "golden-tulip-al-zahabi",
+      "hotelName": "Golden Tulip Al Zahabi",
+      "city": "madinah",
+      "destinationPath": "media/by-hotel/golden-tulip-al-zahabi/golden-tulip-al-zahabi-room-2026_4c05ab99.jpg"
+    },
+    {
+      "fileName": "grand-plaza-badr-exterior_90ae9db2.jpg",
+      "sourcePath": "/home/ubuntu/webdev-static-assets/al-ghanem-travel/owner-upload-2026-08-25/Hotel_Images/grand-plaza-badr-exterior_90ae9db2.jpg",
+      "hotelSlug": "grand-plaza-badr-al-maqam",
+      "hotelName": "Grand Plaza Badr Al Maqam",
+      "city": "madinah",
+      "destinationPath": "media/by-hotel/grand-plaza-badr-al-maqam/grand-plaza-badr-exterior_90ae9db2.jpg"
+    },
+    {
+      "fileName": "grand-plaza-badr-lounge_19add0f5.jpg",
+      "sourcePath": "/home/ubuntu/webdev-static-assets/al-ghanem-travel/owner-upload-2026-08-25/Hotel_Images/grand-plaza-badr-lounge_19add0f5.jpg",
+      "hotelSlug": "grand-plaza-badr-al-maqam",
+      "hotelName": "Grand Plaza Badr Al Maqam",
+      "city": "madinah",
+      "destinationPath": "media/by-hotel/grand-plaza-badr-al-maqam/grand-plaza-badr-lounge_19add0f5.jpg"
+    },
+    {
+      "fileName": "grand-plaza-badr-room_e8a07366.jpg",
+      "sourcePath": "/home/ubuntu/webdev-static-assets/al-ghanem-travel/owner-upload-2026-08-25/Hotel_Images/grand-plaza-badr-room_e8a07366.jpg",
+      "hotelSlug": "grand-plaza-badr-al-maqam",
+      "hotelName": "Grand Plaza Badr Al Maqam",
+      "city": "madinah",
+      "destinationPath": "media/by-hotel/grand-plaza-badr-al-maqam/grand-plaza-badr-room_e8a07366.jpg"
+    },
+    {
+      "fileName": "grand-plaza-exterior_7c73b3b2.jpg",
+      "sourcePath": "/home/ubuntu/webdev-static-assets/al-ghanem-travel/owner-upload-2026-08-25/Hotel_Images/grand-plaza-exterior_7c73b3b2.jpg",
+      "hotelSlug": "grand-plaza-al-madinah",
+      "hotelName": "Grand Plaza Al Madinah",
+      "city": "madinah",
+      "destinationPath": "media/by-hotel/grand-plaza-al-madinah/grand-plaza-exterior_7c73b3b2.jpg"
+    },
+    {
+      "fileName": "grand-plaza-lobby_2e1878cb.jpg",
+      "sourcePath": "/home/ubuntu/webdev-static-assets/al-ghanem-travel/owner-upload-2026-08-25/Hotel_Images/grand-plaza-lobby_2e1878cb.jpg",
+      "hotelSlug": "grand-plaza-al-madinah",
+      "hotelName": "Grand Plaza Al Madinah",
+      "city": "madinah",
+      "destinationPath": "media/by-hotel/grand-plaza-al-madinah/grand-plaza-lobby_2e1878cb.jpg"
+    },
+    {
+      "fileName": "grand-plaza-room_12204036.jpg",
+      "sourcePath": "/home/ubuntu/webdev-static-assets/al-ghanem-travel/owner-upload-2026-08-25/Hotel_Images/grand-plaza-room_12204036.jpg",
+      "hotelSlug": "grand-plaza-al-madinah",
+      "hotelName": "Grand Plaza Al Madinah",
+      "city": "madinah",
+      "destinationPath": "media/by-hotel/grand-plaza-al-madinah/grand-plaza-room_12204036.jpg"
+    },
+    {
+      "fileName": "grand-zowar-exterior_9aceaa73.jpg",
+      "sourcePath": "/home/ubuntu/webdev-static-assets/al-ghanem-travel/owner-upload-2026-08-25/Hotel_Images/grand-zowar-exterior_9aceaa73.jpg",
+      "hotelSlug": "grand-zowar-madinah",
+      "hotelName": "Grand Zowar Hotel",
+      "city": "madinah",
+      "destinationPath": "media/by-hotel/grand-zowar-madinah/grand-zowar-exterior_9aceaa73.jpg"
+    },
+    {
+      "fileName": "grand-zowar-lobby_f2dc01a1.jpg",
+      "sourcePath": "/home/ubuntu/webdev-static-assets/al-ghanem-travel/owner-upload-2026-08-25/Hotel_Images/grand-zowar-lobby_f2dc01a1.jpg",
+      "hotelSlug": "grand-zowar-madinah",
+      "hotelName": "Grand Zowar Hotel",
+      "city": "madinah",
+      "destinationPath": "media/by-hotel/grand-zowar-madinah/grand-zowar-lobby_f2dc01a1.jpg"
+    },
+    {
+      "fileName": "grand-zowar-room_d304ff93.jpg",
+      "sourcePath": "/home/ubuntu/webdev-static-assets/al-ghanem-travel/owner-upload-2026-08-25/Hotel_Images/grand-zowar-room_d304ff93.jpg",
+      "hotelSlug": "grand-zowar-madinah",
+      "hotelName": "Grand Zowar Hotel",
+      "city": "madinah",
+      "destinationPath": "media/by-hotel/grand-zowar-madinah/grand-zowar-room_d304ff93.jpg"
+    },
+    {
+      "fileName": "hayah-al-huda-exterior_ebaddbd1.jpg",
+      "sourcePath": "/home/ubuntu/webdev-static-assets/al-ghanem-travel/owner-upload-2026-08-25/Hotel_Images/hayah-al-huda-exterior_ebaddbd1.jpg",
+      "hotelSlug": "hayah-al-huda-madinah",
+      "hotelName": "Hayah Al Huda Hotel",
+      "city": "madinah",
+      "destinationPath": "media/by-hotel/hayah-al-huda-madinah/hayah-al-huda-exterior_ebaddbd1.jpg"
+    },
+    {
+      "fileName": "hayah-al-huda-lobby_6868152b.jpg",
+      "sourcePath": "/home/ubuntu/webdev-static-assets/al-ghanem-travel/owner-upload-2026-08-25/Hotel_Images/hayah-al-huda-lobby_6868152b.jpg",
+      "hotelSlug": "hayah-al-huda-madinah",
+      "hotelName": "Hayah Al Huda Hotel",
+      "city": "madinah",
+      "destinationPath": "media/by-hotel/hayah-al-huda-madinah/hayah-al-huda-lobby_6868152b.jpg"
+    },
+    {
+      "fileName": "hayah-al-huda-room_70ce791b.jpg",
+      "sourcePath": "/home/ubuntu/webdev-static-assets/al-ghanem-travel/owner-upload-2026-08-25/Hotel_Images/hayah-al-huda-room_70ce791b.jpg",
+      "hotelSlug": "hayah-al-huda-madinah",
+      "hotelName": "Hayah Al Huda Hotel",
+      "city": "madinah",
+      "destinationPath": "media/by-hotel/hayah-al-huda-madinah/hayah-al-huda-room_70ce791b.jpg"
+    },
+    {
+      "fileName": "hayah-al-waha-exterior-2026_99887d95.jpg",
+      "sourcePath": "/home/ubuntu/webdev-static-assets/al-ghanem-travel/owner-upload-2026-08-25/Hotel_Images/hayah-al-waha-exterior-2026_99887d95.jpg",
+      "hotelSlug": "al-waha-hotel-madinah",
+      "hotelName": "Hayah Al Waha Hotel",
+      "city": "madinah",
+      "destinationPath": "media/by-hotel/al-waha-hotel-madinah/hayah-al-waha-exterior-2026_99887d95.jpg"
+    },
+    {
+      "fileName": "hayah-al-waha-lobby-2026_bf161e3d.jpg",
+      "sourcePath": "/home/ubuntu/webdev-static-assets/al-ghanem-travel/owner-upload-2026-08-25/Hotel_Images/hayah-al-waha-lobby-2026_bf161e3d.jpg",
+      "hotelSlug": "al-waha-hotel-madinah",
+      "hotelName": "Hayah Al Waha Hotel",
+      "city": "madinah",
+      "destinationPath": "media/by-hotel/al-waha-hotel-madinah/hayah-al-waha-lobby-2026_bf161e3d.jpg"
+    },
+    {
+      "fileName": "hayah-al-waha-room-2026_7e986d6c.jpg",
+      "sourcePath": "/home/ubuntu/webdev-static-assets/al-ghanem-travel/owner-upload-2026-08-25/Hotel_Images/hayah-al-waha-room-2026_7e986d6c.jpg",
+      "hotelSlug": "al-waha-hotel-madinah",
+      "hotelName": "Hayah Al Waha Hotel",
+      "city": "madinah",
+      "destinationPath": "media/by-hotel/al-waha-hotel-madinah/hayah-al-waha-room-2026_7e986d6c.jpg"
+    },
+    {
+      "fileName": "hayah-golden-exterior_30d3097a.jpg",
+      "sourcePath": "/home/ubuntu/webdev-static-assets/al-ghanem-travel/owner-upload-2026-08-25/Hotel_Images/hayah-golden-exterior_30d3097a.jpg",
+      "hotelSlug": "hayah-golden-madinah",
+      "hotelName": "Hayah Golden Hotel",
+      "city": "madinah",
+      "destinationPath": "media/by-hotel/hayah-golden-madinah/hayah-golden-exterior_30d3097a.jpg"
+    },
+    {
+      "fileName": "hayah-golden-lobby_791a5d22.jpg",
+      "sourcePath": "/home/ubuntu/webdev-static-assets/al-ghanem-travel/owner-upload-2026-08-25/Hotel_Images/hayah-golden-lobby_791a5d22.jpg",
+      "hotelSlug": "hayah-golden-madinah",
+      "hotelName": "Hayah Golden Hotel",
+      "city": "madinah",
+      "destinationPath": "media/by-hotel/hayah-golden-madinah/hayah-golden-lobby_791a5d22.jpg"
+    },
+    {
+      "fileName": "hayah-golden-room_6d9d51e4.webp",
+      "sourcePath": "/home/ubuntu/webdev-static-assets/al-ghanem-travel/owner-upload-2026-08-25/Hotel_Images/hayah-golden-room_6d9d51e4.webp",
+      "hotelSlug": "hayah-golden-madinah",
+      "hotelName": "Hayah Golden Hotel",
+      "city": "madinah",
+      "destinationPath": "media/by-hotel/hayah-golden-madinah/hayah-golden-room_6d9d51e4.webp"
+    },
+    {
+      "fileName": "hayah-plaza-lobby_1e18b400.jpg",
+      "sourcePath": "/home/ubuntu/webdev-static-assets/al-ghanem-travel/owner-upload-2026-08-25/Hotel_Images/hayah-plaza-lobby_1e18b400.jpg",
+      "hotelSlug": "hayah-plaza-madinah",
+      "hotelName": "Hayah Plaza Hotel",
+      "city": "madinah",
+      "destinationPath": "media/by-hotel/hayah-plaza-madinah/hayah-plaza-lobby_1e18b400.jpg"
+    },
+    {
+      "fileName": "hayah-plaza-reception_2f0b284a.jpg",
+      "sourcePath": "/home/ubuntu/webdev-static-assets/al-ghanem-travel/owner-upload-2026-08-25/Hotel_Images/hayah-plaza-reception_2f0b284a.jpg",
+      "hotelSlug": "hayah-plaza-madinah",
+      "hotelName": "Hayah Plaza Hotel",
+      "city": "madinah",
+      "destinationPath": "media/by-hotel/hayah-plaza-madinah/hayah-plaza-reception_2f0b284a.jpg"
+    },
+    {
+      "fileName": "hayah-plaza-room_c528be45.jpg",
+      "sourcePath": "/home/ubuntu/webdev-static-assets/al-ghanem-travel/owner-upload-2026-08-25/Hotel_Images/hayah-plaza-room_c528be45.jpg",
+      "hotelSlug": "hayah-plaza-madinah",
+      "hotelName": "Hayah Plaza Hotel",
+      "city": "madinah",
+      "destinationPath": "media/by-hotel/hayah-plaza-madinah/hayah-plaza-room_c528be45.jpg"
+    },
+    {
+      "fileName": "hayah-salam-silver-exterior_dd9a41a4.jpg",
+      "sourcePath": "/home/ubuntu/webdev-static-assets/al-ghanem-travel/owner-upload-2026-08-25/Hotel_Images/hayah-salam-silver-exterior_dd9a41a4.jpg",
+      "hotelSlug": "hayah-salam-silver-madinah",
+      "hotelName": "Hayah Salam Silver Hotel",
+      "city": "madinah",
+      "destinationPath": "media/by-hotel/hayah-salam-silver-madinah/hayah-salam-silver-exterior_dd9a41a4.jpg"
+    },
+    {
+      "fileName": "hayah-salam-silver-reception_6727546c.jpg",
+      "sourcePath": "/home/ubuntu/webdev-static-assets/al-ghanem-travel/owner-upload-2026-08-25/Hotel_Images/hayah-salam-silver-reception_6727546c.jpg",
+      "hotelSlug": "hayah-salam-silver-madinah",
+      "hotelName": "Hayah Salam Silver Hotel",
+      "city": "madinah",
+      "destinationPath": "media/by-hotel/hayah-salam-silver-madinah/hayah-salam-silver-reception_6727546c.jpg"
+    },
+    {
+      "fileName": "hayah-salam-silver-room_bb94460c.jpg",
+      "sourcePath": "/home/ubuntu/webdev-static-assets/al-ghanem-travel/owner-upload-2026-08-25/Hotel_Images/hayah-salam-silver-room_bb94460c.jpg",
+      "hotelSlug": "hayah-salam-silver-madinah",
+      "hotelName": "Hayah Salam Silver Hotel",
+      "city": "madinah",
+      "destinationPath": "media/by-hotel/hayah-salam-silver-madinah/hayah-salam-silver-room_bb94460c.jpg"
+    },
+    {
+      "fileName": "hilton-madinah-lounge-2026_44577b3d.jpg",
+      "sourcePath": "/home/ubuntu/webdev-static-assets/al-ghanem-travel/owner-upload-2026-08-25/Hotel_Images/hilton-madinah-lounge-2026_44577b3d.jpg",
+      "hotelSlug": "hilton-madinah",
+      "hotelName": "Madinah Hilton",
+      "city": "madinah",
+      "destinationPath": "media/by-hotel/hilton-madinah/hilton-madinah-lounge-2026_44577b3d.jpg"
+    },
+    {
+      "fileName": "hilton-madinah-room-2026_ea7e1d25.jpg",
+      "sourcePath": "/home/ubuntu/webdev-static-assets/al-ghanem-travel/owner-upload-2026-08-25/Hotel_Images/hilton-madinah-room-2026_ea7e1d25.jpg",
+      "hotelSlug": "hilton-madinah",
+      "hotelName": "Madinah Hilton",
+      "city": "madinah",
+      "destinationPath": "media/by-hotel/hilton-madinah/hilton-madinah-room-2026_ea7e1d25.jpg"
+    },
+    {
+      "fileName": "holiday-villa-madinah-exterior_5167df79.jpg",
+      "sourcePath": "/home/ubuntu/webdev-static-assets/al-ghanem-travel/owner-upload-2026-08-25/Hotel_Images/holiday-villa-madinah-exterior_5167df79.jpg",
+      "hotelSlug": "holiday-villa-madinah",
+      "hotelName": "Holiday Villa Madinah",
+      "city": "madinah",
+      "destinationPath": "media/by-hotel/holiday-villa-madinah/holiday-villa-madinah-exterior_5167df79.jpg"
+    },
+    {
+      "fileName": "holiday-villa-madinah-lobby_b2a3a553.jpg",
+      "sourcePath": "/home/ubuntu/webdev-static-assets/al-ghanem-travel/owner-upload-2026-08-25/Hotel_Images/holiday-villa-madinah-lobby_b2a3a553.jpg",
+      "hotelSlug": "holiday-villa-madinah",
+      "hotelName": "Holiday Villa Madinah",
+      "city": "madinah",
+      "destinationPath": "media/by-hotel/holiday-villa-madinah/holiday-villa-madinah-lobby_b2a3a553.jpg"
+    },
+    {
+      "fileName": "holiday-villa-madinah-room_2a0a6241.jpg",
+      "sourcePath": "/home/ubuntu/webdev-static-assets/al-ghanem-travel/owner-upload-2026-08-25/Hotel_Images/holiday-villa-madinah-room_2a0a6241.jpg",
+      "hotelSlug": "holiday-villa-madinah",
+      "hotelName": "Holiday Villa Madinah",
+      "city": "madinah",
+      "destinationPath": "media/by-hotel/holiday-villa-madinah/holiday-villa-madinah-room_2a0a6241.jpg"
+    },
+    {
+      "fileName": "intercontinental-dar-al-hijra-madinah-exterior-2026_bb5bbdf7.jpg",
+      "sourcePath": "/home/ubuntu/webdev-static-assets/al-ghanem-travel/owner-upload-2026-08-25/Hotel_Images/intercontinental-dar-al-hijra-madinah-exterior-2026_bb5bbdf7.jpg",
+      "hotelSlug": "intercontinental-dar-al-hijra-madinah",
+      "hotelName": "InterContinental Dar Al Hijra Madinah",
+      "city": "madinah",
+      "destinationPath": "media/by-hotel/intercontinental-dar-al-hijra-madinah/intercontinental-dar-al-hijra-madinah-exterior-2026_bb5bbdf7.jpg"
+    },
+    {
+      "fileName": "intercontinental-dar-al-hijra-madinah-lounge-2026_da77c02b.jpg",
+      "sourcePath": "/home/ubuntu/webdev-static-assets/al-ghanem-travel/owner-upload-2026-08-25/Hotel_Images/intercontinental-dar-al-hijra-madinah-lounge-2026_da77c02b.jpg",
+      "hotelSlug": "intercontinental-dar-al-hijra-madinah",
+      "hotelName": "InterContinental Dar Al Hijra Madinah",
+      "city": "madinah",
+      "destinationPath": "media/by-hotel/intercontinental-dar-al-hijra-madinah/intercontinental-dar-al-hijra-madinah-lounge-2026_da77c02b.jpg"
+    },
+    {
+      "fileName": "intercontinental-dar-al-hijra-madinah-room-2026_6abede9f.jpg",
+      "sourcePath": "/home/ubuntu/webdev-static-assets/al-ghanem-travel/owner-upload-2026-08-25/Hotel_Images/intercontinental-dar-al-hijra-madinah-room-2026_6abede9f.jpg",
+      "hotelSlug": "intercontinental-dar-al-hijra-madinah",
+      "hotelName": "InterContinental Dar Al Hijra Madinah",
+      "city": "madinah",
+      "destinationPath": "media/by-hotel/intercontinental-dar-al-hijra-madinah/intercontinental-dar-al-hijra-madinah-room-2026_6abede9f.jpg"
+    },
+    {
+      "fileName": "jawharat-al-rasheed-lobby_07b04114.webp",
+      "sourcePath": "/home/ubuntu/webdev-static-assets/al-ghanem-travel/owner-upload-2026-08-25/Hotel_Images/jawharat-al-rasheed-lobby_07b04114.webp",
+      "hotelSlug": "jawharat-al-rasheed-madinah",
+      "hotelName": "Jawharat Al Rasheed Hotel",
+      "city": "madinah",
+      "destinationPath": "media/by-hotel/jawharat-al-rasheed-madinah/jawharat-al-rasheed-lobby_07b04114.webp"
+    },
+    {
+      "fileName": "jawharat-al-rasheed-reception_9bf622aa.webp",
+      "sourcePath": "/home/ubuntu/webdev-static-assets/al-ghanem-travel/owner-upload-2026-08-25/Hotel_Images/jawharat-al-rasheed-reception_9bf622aa.webp",
+      "hotelSlug": "jawharat-al-rasheed-madinah",
+      "hotelName": "Jawharat Al Rasheed Hotel",
+      "city": "madinah",
+      "destinationPath": "media/by-hotel/jawharat-al-rasheed-madinah/jawharat-al-rasheed-reception_9bf622aa.webp"
+    },
+    {
+      "fileName": "jawharat-al-rasheed-room_34f22827.jpg",
+      "sourcePath": "/home/ubuntu/webdev-static-assets/al-ghanem-travel/owner-upload-2026-08-25/Hotel_Images/jawharat-al-rasheed-room_34f22827.jpg",
+      "hotelSlug": "jawharat-al-rasheed-madinah",
+      "hotelName": "Jawharat Al Rasheed Hotel",
+      "city": "madinah",
+      "destinationPath": "media/by-hotel/jawharat-al-rasheed-madinah/jawharat-al-rasheed-room_34f22827.jpg"
+    },
+    {
+      "fileName": "jayden-hotel-madinah-exterior-2026_0ad0294c.jpg",
+      "sourcePath": "/home/ubuntu/webdev-static-assets/al-ghanem-travel/owner-upload-2026-08-25/Hotel_Images/jayden-hotel-madinah-exterior-2026_0ad0294c.jpg",
+      "hotelSlug": "jayden-hotel-madinah",
+      "hotelName": "Jayden Hotel",
+      "city": "madinah",
+      "destinationPath": "media/by-hotel/jayden-hotel-madinah/jayden-hotel-madinah-exterior-2026_0ad0294c.jpg"
+    },
+    {
+      "fileName": "jayden-hotel-madinah-lobby-2026_9e4761b9.jpg",
+      "sourcePath": "/home/ubuntu/webdev-static-assets/al-ghanem-travel/owner-upload-2026-08-25/Hotel_Images/jayden-hotel-madinah-lobby-2026_9e4761b9.jpg",
+      "hotelSlug": "jayden-hotel-madinah",
+      "hotelName": "Jayden Hotel",
+      "city": "madinah",
+      "destinationPath": "media/by-hotel/jayden-hotel-madinah/jayden-hotel-madinah-lobby-2026_9e4761b9.jpg"
+    },
+    {
+      "fileName": "jayden-hotel-madinah-room-2026_111d52bd.jpg",
+      "sourcePath": "/home/ubuntu/webdev-static-assets/al-ghanem-travel/owner-upload-2026-08-25/Hotel_Images/jayden-hotel-madinah-room-2026_111d52bd.jpg",
+      "hotelSlug": "jayden-hotel-madinah",
+      "hotelName": "Jayden Hotel",
+      "city": "madinah",
+      "destinationPath": "media/by-hotel/jayden-hotel-madinah/jayden-hotel-madinah-room-2026_111d52bd.jpg"
+    },
+    {
+      "fileName": "jiwar-al-madina-exterior_7523dcfc.jpg",
+      "sourcePath": "/home/ubuntu/webdev-static-assets/al-ghanem-travel/owner-upload-2026-08-25/Hotel_Images/jiwar-al-madina-exterior_7523dcfc.jpg",
+      "hotelSlug": "jiwar-al-madina",
+      "hotelName": "Jiwar Al Madina Hotel",
+      "city": "madinah",
+      "destinationPath": "media/by-hotel/jiwar-al-madina/jiwar-al-madina-exterior_7523dcfc.jpg"
+    },
+    {
+      "fileName": "jiwar-al-madina-lobby_72bdeb66.jpg",
+      "sourcePath": "/home/ubuntu/webdev-static-assets/al-ghanem-travel/owner-upload-2026-08-25/Hotel_Images/jiwar-al-madina-lobby_72bdeb66.jpg",
+      "hotelSlug": "jiwar-al-madina",
+      "hotelName": "Jiwar Al Madina Hotel",
+      "city": "madinah",
+      "destinationPath": "media/by-hotel/jiwar-al-madina/jiwar-al-madina-lobby_72bdeb66.jpg"
+    },
+    {
+      "fileName": "jiwar-al-madina-room_33da0c94.jpg",
+      "sourcePath": "/home/ubuntu/webdev-static-assets/al-ghanem-travel/owner-upload-2026-08-25/Hotel_Images/jiwar-al-madina-room_33da0c94.jpg",
+      "hotelSlug": "jiwar-al-madina",
+      "hotelName": "Jiwar Al Madina Hotel",
+      "city": "madinah",
+      "destinationPath": "media/by-hotel/jiwar-al-madina/jiwar-al-madina-room_33da0c94.jpg"
+    },
+    {
+      "fileName": "jiwar-taiba-madinah-exterior_9e2bbc5d.jpg",
+      "sourcePath": "/home/ubuntu/webdev-static-assets/al-ghanem-travel/owner-upload-2026-08-25/Hotel_Images/jiwar-taiba-madinah-exterior_9e2bbc5d.jpg",
+      "hotelSlug": "jiwar-taiba-madinah",
+      "hotelName": "Jiwar Taiba Hotel",
+      "city": "madinah",
+      "destinationPath": "media/by-hotel/jiwar-taiba-madinah/jiwar-taiba-madinah-exterior_9e2bbc5d.jpg"
+    },
+    {
+      "fileName": "jiwar-taiba-madinah-lobby_310d83cd.jpg",
+      "sourcePath": "/home/ubuntu/webdev-static-assets/al-ghanem-travel/owner-upload-2026-08-25/Hotel_Images/jiwar-taiba-madinah-lobby_310d83cd.jpg",
+      "hotelSlug": "jiwar-taiba-madinah",
+      "hotelName": "Jiwar Taiba Hotel",
+      "city": "madinah",
+      "destinationPath": "media/by-hotel/jiwar-taiba-madinah/jiwar-taiba-madinah-lobby_310d83cd.jpg"
+    },
+    {
+      "fileName": "jiwar-taiba-madinah-room_ce340cf6.jpg",
+      "sourcePath": "/home/ubuntu/webdev-static-assets/al-ghanem-travel/owner-upload-2026-08-25/Hotel_Images/jiwar-taiba-madinah-room_ce340cf6.jpg",
+      "hotelSlug": "jiwar-taiba-madinah",
+      "hotelName": "Jiwar Taiba Hotel",
+      "city": "madinah",
+      "destinationPath": "media/by-hotel/jiwar-taiba-madinah/jiwar-taiba-madinah-room_ce340cf6.jpg"
+    },
+    {
+      "fileName": "karam-taibah-almasi-exterior_7923ee17.jpg",
+      "sourcePath": "/home/ubuntu/webdev-static-assets/al-ghanem-travel/owner-upload-2026-08-25/Hotel_Images/karam-taibah-almasi-exterior_7923ee17.jpg",
+      "hotelSlug": "karam-taibah-almasi-madinah",
+      "hotelName": "Karam Taibah Almasi",
+      "city": "madinah",
+      "destinationPath": "media/by-hotel/karam-taibah-almasi-madinah/karam-taibah-almasi-exterior_7923ee17.jpg"
+    },
+    {
+      "fileName": "karam-taibah-almasi-lobby_cf986a55.jpg",
+      "sourcePath": "/home/ubuntu/webdev-static-assets/al-ghanem-travel/owner-upload-2026-08-25/Hotel_Images/karam-taibah-almasi-lobby_cf986a55.jpg",
+      "hotelSlug": "karam-taibah-almasi-madinah",
+      "hotelName": "Karam Taibah Almasi",
+      "city": "madinah",
+      "destinationPath": "media/by-hotel/karam-taibah-almasi-madinah/karam-taibah-almasi-lobby_cf986a55.jpg"
+    },
+    {
+      "fileName": "karam-taibah-almasi-room_97562dec.jpg",
+      "sourcePath": "/home/ubuntu/webdev-static-assets/al-ghanem-travel/owner-upload-2026-08-25/Hotel_Images/karam-taibah-almasi-room_97562dec.jpg",
+      "hotelSlug": "karam-taibah-almasi-madinah",
+      "hotelName": "Karam Taibah Almasi",
+      "city": "madinah",
+      "destinationPath": "media/by-hotel/karam-taibah-almasi-madinah/karam-taibah-almasi-room_97562dec.jpg"
+    },
+    {
+      "fileName": "kayan-international-exterior_b735c7b0.jpg",
+      "sourcePath": "/home/ubuntu/webdev-static-assets/al-ghanem-travel/owner-upload-2026-08-25/Hotel_Images/kayan-international-exterior_b735c7b0.jpg",
+      "hotelSlug": "kayan-international-hotel",
+      "hotelName": "Kayan International Hotel",
+      "city": "madinah",
+      "destinationPath": "media/by-hotel/kayan-international-hotel/kayan-international-exterior_b735c7b0.jpg"
+    },
+    {
+      "fileName": "kayan-international-lobby_793e81fa.png",
+      "sourcePath": "/home/ubuntu/webdev-static-assets/al-ghanem-travel/owner-upload-2026-08-25/Hotel_Images/kayan-international-lobby_793e81fa.png",
+      "hotelSlug": "kayan-international-hotel",
+      "hotelName": "Kayan International Hotel",
+      "city": "madinah",
+      "destinationPath": "media/by-hotel/kayan-international-hotel/kayan-international-lobby_793e81fa.png"
+    },
+    {
+      "fileName": "kayan-international-room_9dcd4d06.jpg",
+      "sourcePath": "/home/ubuntu/webdev-static-assets/al-ghanem-travel/owner-upload-2026-08-25/Hotel_Images/kayan-international-room_9dcd4d06.jpg",
+      "hotelSlug": "kayan-international-hotel",
+      "hotelName": "Kayan International Hotel",
+      "city": "madinah",
+      "destinationPath": "media/by-hotel/kayan-international-hotel/kayan-international-room_9dcd4d06.jpg"
+    },
+    {
+      "fileName": "le-meridien-madinah-exterior-2026_57705004.jpg",
+      "sourcePath": "/home/ubuntu/webdev-static-assets/al-ghanem-travel/owner-upload-2026-08-25/Hotel_Images/le-meridien-madinah-exterior-2026_57705004.jpg",
+      "hotelSlug": "le-meridien-madinah",
+      "hotelName": "Le Méridien Medina",
+      "city": "madinah",
+      "destinationPath": "media/by-hotel/le-meridien-madinah/le-meridien-madinah-exterior-2026_57705004.jpg"
+    },
+    {
+      "fileName": "le-meridien-madinah-restaurant-2026_396bee31.jpg",
+      "sourcePath": "/home/ubuntu/webdev-static-assets/al-ghanem-travel/owner-upload-2026-08-25/Hotel_Images/le-meridien-madinah-restaurant-2026_396bee31.jpg",
+      "hotelSlug": "le-meridien-madinah",
+      "hotelName": "Le Méridien Medina",
+      "city": "madinah",
+      "destinationPath": "media/by-hotel/le-meridien-madinah/le-meridien-madinah-restaurant-2026_396bee31.jpg"
+    },
+    {
+      "fileName": "le-meridien-madinah-room-2026_94f3204e.jpg",
+      "sourcePath": "/home/ubuntu/webdev-static-assets/al-ghanem-travel/owner-upload-2026-08-25/Hotel_Images/le-meridien-madinah-room-2026_94f3204e.jpg",
+      "hotelSlug": "le-meridien-madinah",
+      "hotelName": "Le Méridien Medina",
+      "city": "madinah",
+      "destinationPath": "media/by-hotel/le-meridien-madinah/le-meridien-madinah-room-2026_94f3204e.jpg"
+    },
+    {
+      "fileName": "luluat-al-diyafa-madinah-exterior_f5768722.jpg",
+      "sourcePath": "/home/ubuntu/webdev-static-assets/al-ghanem-travel/owner-upload-2026-08-25/Hotel_Images/luluat-al-diyafa-madinah-exterior_f5768722.jpg",
+      "hotelSlug": "luluat-al-diyafa-madinah",
+      "hotelName": "Luluat Al Diyafa Hotel",
+      "city": "madinah",
+      "destinationPath": "media/by-hotel/luluat-al-diyafa-madinah/luluat-al-diyafa-madinah-exterior_f5768722.jpg"
+    },
+    {
+      "fileName": "luluat-al-diyafa-madinah-room-alt_5b84b4e8.jpg",
+      "sourcePath": "/home/ubuntu/webdev-static-assets/al-ghanem-travel/owner-upload-2026-08-25/Hotel_Images/luluat-al-diyafa-madinah-room-alt_5b84b4e8.jpg",
+      "hotelSlug": "luluat-al-diyafa-madinah",
+      "hotelName": "Luluat Al Diyafa Hotel",
+      "city": "madinah",
+      "destinationPath": "media/by-hotel/luluat-al-diyafa-madinah/luluat-al-diyafa-madinah-room-alt_5b84b4e8.jpg"
+    },
+    {
+      "fileName": "luluat-al-diyafa-madinah-room_a146bf76.jpg",
+      "sourcePath": "/home/ubuntu/webdev-static-assets/al-ghanem-travel/owner-upload-2026-08-25/Hotel_Images/luluat-al-diyafa-madinah-room_a146bf76.jpg",
+      "hotelSlug": "luluat-al-diyafa-madinah",
+      "hotelName": "Luluat Al Diyafa Hotel",
+      "city": "madinah",
+      "destinationPath": "media/by-hotel/luluat-al-diyafa-madinah/luluat-al-diyafa-madinah-room_a146bf76.jpg"
+    },
+    {
+      "fileName": "maden-al-rawda-exterior_c586f683.jpg",
+      "sourcePath": "/home/ubuntu/webdev-static-assets/al-ghanem-travel/owner-upload-2026-08-25/Hotel_Images/maden-al-rawda-exterior_c586f683.jpg",
+      "hotelSlug": "maden-al-rawda-madinah",
+      "hotelName": "Maden Al Rawda Hotel",
+      "city": "madinah",
+      "destinationPath": "media/by-hotel/maden-al-rawda-madinah/maden-al-rawda-exterior_c586f683.jpg"
+    },
+    {
+      "fileName": "maden-al-rawda-lobby_c760748b.jpg",
+      "sourcePath": "/home/ubuntu/webdev-static-assets/al-ghanem-travel/owner-upload-2026-08-25/Hotel_Images/maden-al-rawda-lobby_c760748b.jpg",
+      "hotelSlug": "maden-al-rawda-madinah",
+      "hotelName": "Maden Al Rawda Hotel",
+      "city": "madinah",
+      "destinationPath": "media/by-hotel/maden-al-rawda-madinah/maden-al-rawda-lobby_c760748b.jpg"
+    },
+    {
+      "fileName": "maden-al-rawda-room_208f94ca.jpg",
+      "sourcePath": "/home/ubuntu/webdev-static-assets/al-ghanem-travel/owner-upload-2026-08-25/Hotel_Images/maden-al-rawda-room_208f94ca.jpg",
+      "hotelSlug": "maden-al-rawda-madinah",
+      "hotelName": "Maden Al Rawda Hotel",
+      "city": "madinah",
+      "destinationPath": "media/by-hotel/maden-al-rawda-madinah/maden-al-rawda-room_208f94ca.jpg"
+    },
+    {
+      "fileName": "maden-hotel-exterior-2026_d2fdef5f.jpg",
+      "sourcePath": "/home/ubuntu/webdev-static-assets/al-ghanem-travel/owner-upload-2026-08-25/Hotel_Images/maden-hotel-exterior-2026_d2fdef5f.jpg",
+      "hotelSlug": "al-nokhba-madinah",
+      "hotelName": "Maden Hotel (Al Nokhba Royal Inn)",
+      "city": "madinah",
+      "destinationPath": "media/by-hotel/al-nokhba-madinah/maden-hotel-exterior-2026_d2fdef5f.jpg"
+    },
+    {
+      "fileName": "maden-hotel-exterior_24163449.jpg",
+      "sourcePath": "/home/ubuntu/webdev-static-assets/al-ghanem-travel/owner-upload-2026-08-25/Hotel_Images/maden-hotel-exterior_24163449.jpg",
+      "hotelSlug": "maden-hotel-madinah",
+      "hotelName": "Maden Hotel",
+      "city": "madinah",
+      "destinationPath": "media/by-hotel/maden-hotel-madinah/maden-hotel-exterior_24163449.jpg"
+    },
+    {
+      "fileName": "maden-hotel-lobby-2026_d0cb5c07.jpg",
+      "sourcePath": "/home/ubuntu/webdev-static-assets/al-ghanem-travel/owner-upload-2026-08-25/Hotel_Images/maden-hotel-lobby-2026_d0cb5c07.jpg",
+      "hotelSlug": "al-nokhba-madinah",
+      "hotelName": "Maden Hotel (Al Nokhba Royal Inn)",
+      "city": "madinah",
+      "destinationPath": "media/by-hotel/al-nokhba-madinah/maden-hotel-lobby-2026_d0cb5c07.jpg"
+    },
+    {
+      "fileName": "maden-hotel-lobby_6a050a38.jpg",
+      "sourcePath": "/home/ubuntu/webdev-static-assets/al-ghanem-travel/owner-upload-2026-08-25/Hotel_Images/maden-hotel-lobby_6a050a38.jpg",
+      "hotelSlug": "maden-hotel-madinah",
+      "hotelName": "Maden Hotel",
+      "city": "madinah",
+      "destinationPath": "media/by-hotel/maden-hotel-madinah/maden-hotel-lobby_6a050a38.jpg"
+    },
+    {
+      "fileName": "maden-hotel-room-2026_52ec9449.jpg",
+      "sourcePath": "/home/ubuntu/webdev-static-assets/al-ghanem-travel/owner-upload-2026-08-25/Hotel_Images/maden-hotel-room-2026_52ec9449.jpg",
+      "hotelSlug": "al-nokhba-madinah",
+      "hotelName": "Maden Hotel (Al Nokhba Royal Inn)",
+      "city": "madinah",
+      "destinationPath": "media/by-hotel/al-nokhba-madinah/maden-hotel-room-2026_52ec9449.jpg"
+    },
+    {
+      "fileName": "maden-hotel-room_3ff43321.jpg",
+      "sourcePath": "/home/ubuntu/webdev-static-assets/al-ghanem-travel/owner-upload-2026-08-25/Hotel_Images/maden-hotel-room_3ff43321.jpg",
+      "hotelSlug": "maden-hotel-madinah",
+      "hotelName": "Maden Hotel",
+      "city": "madinah",
+      "destinationPath": "media/by-hotel/maden-hotel-madinah/maden-hotel-room_3ff43321.jpg"
+    },
+    {
+      "fileName": "maien-taiba-quint-room_3c03df4e.jpg",
+      "sourcePath": "/home/ubuntu/webdev-static-assets/al-ghanem-travel/owner-upload-2026-08-25/Hotel_Images/maien-taiba-quint-room_3c03df4e.jpg",
+      "hotelSlug": "maien-taiba",
+      "hotelName": "Maien Taiba Hotel",
+      "city": "madinah",
+      "destinationPath": "media/by-hotel/maien-taiba/maien-taiba-quint-room_3c03df4e.jpg"
+    },
+    {
+      "fileName": "maien-taiba-reception_eed933d9.jpg",
+      "sourcePath": "/home/ubuntu/webdev-static-assets/al-ghanem-travel/owner-upload-2026-08-25/Hotel_Images/maien-taiba-reception_eed933d9.jpg",
+      "hotelSlug": "maien-taiba",
+      "hotelName": "Maien Taiba Hotel",
+      "city": "madinah",
+      "destinationPath": "media/by-hotel/maien-taiba/maien-taiba-reception_eed933d9.jpg"
+    },
+    {
+      "fileName": "maien-taiba-twin-room_c66df46c.jpg",
+      "sourcePath": "/home/ubuntu/webdev-static-assets/al-ghanem-travel/owner-upload-2026-08-25/Hotel_Images/maien-taiba-twin-room_c66df46c.jpg",
+      "hotelSlug": "maien-taiba",
+      "hotelName": "Maien Taiba Hotel",
+      "city": "madinah",
+      "destinationPath": "media/by-hotel/maien-taiba/maien-taiba-twin-room_c66df46c.jpg"
+    },
+    {
+      "fileName": "makarem-burj-al-madinah-exterior-2026_33720bd0.jpg",
+      "sourcePath": "/home/ubuntu/webdev-static-assets/al-ghanem-travel/owner-upload-2026-08-25/Hotel_Images/makarem-burj-al-madinah-exterior-2026_33720bd0.jpg",
+      "hotelSlug": "makarem-burj-al-madinah",
+      "hotelName": "Makarem Burj Al Madinah",
+      "city": "madinah",
+      "destinationPath": "media/by-hotel/makarem-burj-al-madinah/makarem-burj-al-madinah-exterior-2026_33720bd0.jpg"
+    },
+    {
+      "fileName": "makarem-burj-al-madinah-lounge-2026_4a4761d5.jpg",
+      "sourcePath": "/home/ubuntu/webdev-static-assets/al-ghanem-travel/owner-upload-2026-08-25/Hotel_Images/makarem-burj-al-madinah-lounge-2026_4a4761d5.jpg",
+      "hotelSlug": "makarem-burj-al-madinah",
+      "hotelName": "Makarem Burj Al Madinah",
+      "city": "madinah",
+      "destinationPath": "media/by-hotel/makarem-burj-al-madinah/makarem-burj-al-madinah-lounge-2026_4a4761d5.jpg"
+    },
+    {
+      "fileName": "makarem-burj-al-madinah-room-2026_6df6f493.jpg",
+      "sourcePath": "/home/ubuntu/webdev-static-assets/al-ghanem-travel/owner-upload-2026-08-25/Hotel_Images/makarem-burj-al-madinah-room-2026_6df6f493.jpg",
+      "hotelSlug": "makarem-burj-al-madinah",
+      "hotelName": "Makarem Burj Al Madinah",
+      "city": "madinah",
+      "destinationPath": "media/by-hotel/makarem-burj-al-madinah/makarem-burj-al-madinah-room-2026_6df6f493.jpg"
+    },
+    {
+      "fileName": "manar-al-eiman-exterior_2abe022a.jpg",
+      "sourcePath": "/home/ubuntu/webdev-static-assets/al-ghanem-travel/owner-upload-2026-08-25/Hotel_Images/manar-al-eiman-exterior_2abe022a.jpg",
+      "hotelSlug": "manar-al-eiman-madinah",
+      "hotelName": "Manar Al Eiman Hotel",
+      "city": "madinah",
+      "destinationPath": "media/by-hotel/manar-al-eiman-madinah/manar-al-eiman-exterior_2abe022a.jpg"
+    },
+    {
+      "fileName": "manar-al-eiman-reception_3c8fcd4d.jpg",
+      "sourcePath": "/home/ubuntu/webdev-static-assets/al-ghanem-travel/owner-upload-2026-08-25/Hotel_Images/manar-al-eiman-reception_3c8fcd4d.jpg",
+      "hotelSlug": "manar-al-eiman-madinah",
+      "hotelName": "Manar Al Eiman Hotel",
+      "city": "madinah",
+      "destinationPath": "media/by-hotel/manar-al-eiman-madinah/manar-al-eiman-reception_3c8fcd4d.jpg"
+    },
+    {
+      "fileName": "manar-al-eiman-room_762f0201.jpg",
+      "sourcePath": "/home/ubuntu/webdev-static-assets/al-ghanem-travel/owner-upload-2026-08-25/Hotel_Images/manar-al-eiman-room_762f0201.jpg",
+      "hotelSlug": "manar-al-eiman-madinah",
+      "hotelName": "Manar Al Eiman Hotel",
+      "city": "madinah",
+      "destinationPath": "media/by-hotel/manar-al-eiman-madinah/manar-al-eiman-room_762f0201.jpg"
+    },
+    {
+      "fileName": "manarat-al-taj-lobby_2c6f6b02.jpg",
+      "sourcePath": "/home/ubuntu/webdev-static-assets/al-ghanem-travel/owner-upload-2026-08-25/Hotel_Images/manarat-al-taj-lobby_2c6f6b02.jpg",
+      "hotelSlug": "manarat-al-taj-madinah",
+      "hotelName": "Manarat Al Taj Hotel",
+      "city": "madinah",
+      "destinationPath": "media/by-hotel/manarat-al-taj-madinah/manarat-al-taj-lobby_2c6f6b02.jpg"
+    },
+    {
+      "fileName": "manarat-al-taj-room_5539362d.jpg",
+      "sourcePath": "/home/ubuntu/webdev-static-assets/al-ghanem-travel/owner-upload-2026-08-25/Hotel_Images/manarat-al-taj-room_5539362d.jpg",
+      "hotelSlug": "manarat-al-taj-madinah",
+      "hotelName": "Manarat Al Taj Hotel",
+      "city": "madinah",
+      "destinationPath": "media/by-hotel/manarat-al-taj-madinah/manarat-al-taj-room_5539362d.jpg"
+    },
+    {
+      "fileName": "manazel-al-aswaf-exterior_6d002802.jpg",
+      "sourcePath": "/home/ubuntu/webdev-static-assets/al-ghanem-travel/owner-upload-2026-08-25/Hotel_Images/manazel-al-aswaf-exterior_6d002802.jpg",
+      "hotelSlug": "manazel-al-aswaf-madinah",
+      "hotelName": "Manazel Al Aswaf Hotel",
+      "city": "madinah",
+      "destinationPath": "media/by-hotel/manazel-al-aswaf-madinah/manazel-al-aswaf-exterior_6d002802.jpg"
+    },
+    {
+      "fileName": "manazel-al-aswaf-lobby_f62c7798.jpg",
+      "sourcePath": "/home/ubuntu/webdev-static-assets/al-ghanem-travel/owner-upload-2026-08-25/Hotel_Images/manazel-al-aswaf-lobby_f62c7798.jpg",
+      "hotelSlug": "manazel-al-aswaf-madinah",
+      "hotelName": "Manazel Al Aswaf Hotel",
+      "city": "madinah",
+      "destinationPath": "media/by-hotel/manazel-al-aswaf-madinah/manazel-al-aswaf-lobby_f62c7798.jpg"
+    },
+    {
+      "fileName": "manazel-al-aswaf-room_c5aaefa5.jpg",
+      "sourcePath": "/home/ubuntu/webdev-static-assets/al-ghanem-travel/owner-upload-2026-08-25/Hotel_Images/manazel-al-aswaf-room_c5aaefa5.jpg",
+      "hotelSlug": "manazel-al-aswaf-madinah",
+      "hotelName": "Manazel Al Aswaf Hotel",
+      "city": "madinah",
+      "destinationPath": "media/by-hotel/manazel-al-aswaf-madinah/manazel-al-aswaf-room_c5aaefa5.jpg"
+    },
+    {
+      "fileName": "manazeli-al-madinah-reception_1fd9afc7.jpg",
+      "sourcePath": "/home/ubuntu/webdev-static-assets/al-ghanem-travel/owner-upload-2026-08-25/Hotel_Images/manazeli-al-madinah-reception_1fd9afc7.jpg",
+      "hotelSlug": "manazeli-al-madinah",
+      "hotelName": "Manazeli Al Madinah Hotel",
+      "city": "madinah",
+      "destinationPath": "media/by-hotel/manazeli-al-madinah/manazeli-al-madinah-reception_1fd9afc7.jpg"
+    },
+    {
+      "fileName": "manazeli-al-madinah-room_9022665b.jpg",
+      "sourcePath": "/home/ubuntu/webdev-static-assets/al-ghanem-travel/owner-upload-2026-08-25/Hotel_Images/manazeli-al-madinah-room_9022665b.jpg",
+      "hotelSlug": "manazeli-al-madinah",
+      "hotelName": "Manazeli Al Madinah Hotel",
+      "city": "madinah",
+      "destinationPath": "media/by-hotel/manazeli-al-madinah/manazeli-al-madinah-room_9022665b.jpg"
+    },
+    {
+      "fileName": "manazeli-al-madinah-suite_71987019.jpg",
+      "sourcePath": "/home/ubuntu/webdev-static-assets/al-ghanem-travel/owner-upload-2026-08-25/Hotel_Images/manazeli-al-madinah-suite_71987019.jpg",
+      "hotelSlug": "manazeli-al-madinah",
+      "hotelName": "Manazeli Al Madinah Hotel",
+      "city": "madinah",
+      "destinationPath": "media/by-hotel/manazeli-al-madinah/manazeli-al-madinah-suite_71987019.jpg"
+    },
+    {
+      "fileName": "maysan-al-taqwa-exterior_19e967ed.jpg",
+      "sourcePath": "/home/ubuntu/webdev-static-assets/al-ghanem-travel/owner-upload-2026-08-25/Hotel_Images/maysan-al-taqwa-exterior_19e967ed.jpg",
+      "hotelSlug": "maysan-al-taqwa",
+      "hotelName": "Maysan Al Taqwa Hotel",
+      "city": "madinah",
+      "destinationPath": "media/by-hotel/maysan-al-taqwa/maysan-al-taqwa-exterior_19e967ed.jpg"
+    },
+    {
+      "fileName": "maysan-al-taqwa-room_2b429b08.jpg",
+      "sourcePath": "/home/ubuntu/webdev-static-assets/al-ghanem-travel/owner-upload-2026-08-25/Hotel_Images/maysan-al-taqwa-room_2b429b08.jpg",
+      "hotelSlug": "maysan-al-taqwa",
+      "hotelName": "Maysan Al Taqwa Hotel",
+      "city": "madinah",
+      "destinationPath": "media/by-hotel/maysan-al-taqwa/maysan-al-taqwa-room_2b429b08.jpg"
+    },
+    {
+      "fileName": "maysan-rihab-al-misk-exterior_f110b3b6.jpg",
+      "sourcePath": "/home/ubuntu/webdev-static-assets/al-ghanem-travel/owner-upload-2026-08-25/Hotel_Images/maysan-rihab-al-misk-exterior_f110b3b6.jpg",
+      "hotelSlug": "maysan-rihab-al-misk-madinah",
+      "hotelName": "Maysan Rihab Al Misk",
+      "city": "madinah",
+      "destinationPath": "media/by-hotel/maysan-rihab-al-misk-madinah/maysan-rihab-al-misk-exterior_f110b3b6.jpg"
+    },
+    {
+      "fileName": "maysan-rihab-al-misk-lobby_dd315d03.jpg",
+      "sourcePath": "/home/ubuntu/webdev-static-assets/al-ghanem-travel/owner-upload-2026-08-25/Hotel_Images/maysan-rihab-al-misk-lobby_dd315d03.jpg",
+      "hotelSlug": "maysan-rihab-al-misk-madinah",
+      "hotelName": "Maysan Rihab Al Misk",
+      "city": "madinah",
+      "destinationPath": "media/by-hotel/maysan-rihab-al-misk-madinah/maysan-rihab-al-misk-lobby_dd315d03.jpg"
+    },
+    {
+      "fileName": "maysan-rihab-al-misk-room_e30b875c.jpg",
+      "sourcePath": "/home/ubuntu/webdev-static-assets/al-ghanem-travel/owner-upload-2026-08-25/Hotel_Images/maysan-rihab-al-misk-room_e30b875c.jpg",
+      "hotelSlug": "maysan-rihab-al-misk-madinah",
+      "hotelName": "Maysan Rihab Al Misk",
+      "city": "madinah",
+      "destinationPath": "media/by-hotel/maysan-rihab-al-misk-madinah/maysan-rihab-al-misk-room_e30b875c.jpg"
+    },
+    {
+      "fileName": "mias-al-madinah-lobby_8fac0110.jpg",
+      "sourcePath": "/home/ubuntu/webdev-static-assets/al-ghanem-travel/owner-upload-2026-08-25/Hotel_Images/mias-al-madinah-lobby_8fac0110.jpg",
+      "hotelSlug": "mias-al-madinah",
+      "hotelName": "Mias Hotel",
+      "city": "madinah",
+      "destinationPath": "media/by-hotel/mias-al-madinah/mias-al-madinah-lobby_8fac0110.jpg"
+    },
+    {
+      "fileName": "mias-al-madinah-reception_08ae7c13.jpg",
+      "sourcePath": "/home/ubuntu/webdev-static-assets/al-ghanem-travel/owner-upload-2026-08-25/Hotel_Images/mias-al-madinah-reception_08ae7c13.jpg",
+      "hotelSlug": "mias-al-madinah",
+      "hotelName": "Mias Hotel",
+      "city": "madinah",
+      "destinationPath": "media/by-hotel/mias-al-madinah/mias-al-madinah-reception_08ae7c13.jpg"
+    },
+    {
+      "fileName": "mias-al-madinah-room-view_f37b4e5f.webp",
+      "sourcePath": "/home/ubuntu/webdev-static-assets/al-ghanem-travel/owner-upload-2026-08-25/Hotel_Images/mias-al-madinah-room-view_f37b4e5f.webp",
+      "hotelSlug": "mias-al-madinah",
+      "hotelName": "Mias Hotel",
+      "city": "madinah",
+      "destinationPath": "media/by-hotel/mias-al-madinah/mias-al-madinah-room-view_f37b4e5f.webp"
+    },
+    {
+      "fileName": "millennium-al-aqeeq-exterior-2026_239eb0d4.webp",
+      "sourcePath": "/home/ubuntu/webdev-static-assets/al-ghanem-travel/owner-upload-2026-08-25/Hotel_Images/millennium-al-aqeeq-exterior-2026_239eb0d4.webp",
+      "hotelSlug": "millennium-madinah",
+      "hotelName": "Millennium Al Aqeeq Hotel",
+      "city": "madinah",
+      "destinationPath": "media/by-hotel/millennium-madinah/millennium-al-aqeeq-exterior-2026_239eb0d4.webp"
+    },
+    {
+      "fileName": "millennium-al-aqeeq-lobby-2026_19f63fbb.jpg",
+      "sourcePath": "/home/ubuntu/webdev-static-assets/al-ghanem-travel/owner-upload-2026-08-25/Hotel_Images/millennium-al-aqeeq-lobby-2026_19f63fbb.jpg",
+      "hotelSlug": "millennium-madinah",
+      "hotelName": "Millennium Al Aqeeq Hotel",
+      "city": "madinah",
+      "destinationPath": "media/by-hotel/millennium-madinah/millennium-al-aqeeq-lobby-2026_19f63fbb.jpg"
+    },
+    {
+      "fileName": "millennium-al-aqeeq-room-2026_e0b7640d.jpg",
+      "sourcePath": "/home/ubuntu/webdev-static-assets/al-ghanem-travel/owner-upload-2026-08-25/Hotel_Images/millennium-al-aqeeq-room-2026_e0b7640d.jpg",
+      "hotelSlug": "millennium-madinah",
+      "hotelName": "Millennium Al Aqeeq Hotel",
+      "city": "madinah",
+      "destinationPath": "media/by-hotel/millennium-madinah/millennium-al-aqeeq-room-2026_e0b7640d.jpg"
+    },
+    {
+      "fileName": "mirage-al-salam-exterior_d7907a3e.jpg",
+      "sourcePath": "/home/ubuntu/webdev-static-assets/al-ghanem-travel/owner-upload-2026-08-25/Hotel_Images/mirage-al-salam-exterior_d7907a3e.jpg",
+      "hotelSlug": "mirage-al-salam-madinah",
+      "hotelName": "Mirage Al Salam Hotel",
+      "city": "madinah",
+      "destinationPath": "media/by-hotel/mirage-al-salam-madinah/mirage-al-salam-exterior_d7907a3e.jpg"
+    },
+    {
+      "fileName": "mirage-al-salam-lobby_03895a4a.jpg",
+      "sourcePath": "/home/ubuntu/webdev-static-assets/al-ghanem-travel/owner-upload-2026-08-25/Hotel_Images/mirage-al-salam-lobby_03895a4a.jpg",
+      "hotelSlug": "mirage-al-salam-madinah",
+      "hotelName": "Mirage Al Salam Hotel",
+      "city": "madinah",
+      "destinationPath": "media/by-hotel/mirage-al-salam-madinah/mirage-al-salam-lobby_03895a4a.jpg"
+    },
+    {
+      "fileName": "mirage-al-salam-room_b8176cc3.jpg",
+      "sourcePath": "/home/ubuntu/webdev-static-assets/al-ghanem-travel/owner-upload-2026-08-25/Hotel_Images/mirage-al-salam-room_b8176cc3.jpg",
+      "hotelSlug": "mirage-al-salam-madinah",
+      "hotelName": "Mirage Al Salam Hotel",
+      "city": "madinah",
+      "destinationPath": "media/by-hotel/mirage-al-salam-madinah/mirage-al-salam-room_b8176cc3.jpg"
+    },
+    {
+      "fileName": "mohamadia-al-zahra-exterior_970c819f.jpg",
+      "sourcePath": "/home/ubuntu/webdev-static-assets/al-ghanem-travel/owner-upload-2026-08-25/Hotel_Images/mohamadia-al-zahra-exterior_970c819f.jpg",
+      "hotelSlug": "mohamadia-al-zahra-madinah",
+      "hotelName": "Mohamadia Al Zahra Hotel",
+      "city": "madinah",
+      "destinationPath": "media/by-hotel/mohamadia-al-zahra-madinah/mohamadia-al-zahra-exterior_970c819f.jpg"
+    },
+    {
+      "fileName": "mohamadia-al-zahra-lobby_2e4510f5.jpg",
+      "sourcePath": "/home/ubuntu/webdev-static-assets/al-ghanem-travel/owner-upload-2026-08-25/Hotel_Images/mohamadia-al-zahra-lobby_2e4510f5.jpg",
+      "hotelSlug": "mohamadia-al-zahra-madinah",
+      "hotelName": "Mohamadia Al Zahra Hotel",
+      "city": "madinah",
+      "destinationPath": "media/by-hotel/mohamadia-al-zahra-madinah/mohamadia-al-zahra-lobby_2e4510f5.jpg"
+    },
+    {
+      "fileName": "mohamadia-al-zahra-room_0e2669c4.jpg",
+      "sourcePath": "/home/ubuntu/webdev-static-assets/al-ghanem-travel/owner-upload-2026-08-25/Hotel_Images/mohamadia-al-zahra-room_0e2669c4.jpg",
+      "hotelSlug": "mohamadia-al-zahra-madinah",
+      "hotelName": "Mohamadia Al Zahra Hotel",
+      "city": "madinah",
+      "destinationPath": "media/by-hotel/mohamadia-al-zahra-madinah/mohamadia-al-zahra-room_0e2669c4.jpg"
+    },
+    {
+      "fileName": "mysk-al-balad-exterior_863ce27f.jpg",
+      "sourcePath": "/home/ubuntu/webdev-static-assets/al-ghanem-travel/owner-upload-2026-08-25/Hotel_Images/mysk-al-balad-exterior_863ce27f.jpg",
+      "hotelSlug": "mysk-al-balad-madinah",
+      "hotelName": "Mysk Al Balad Hotel Madinah",
+      "city": "madinah",
+      "destinationPath": "media/by-hotel/mysk-al-balad-madinah/mysk-al-balad-exterior_863ce27f.jpg"
+    },
+    {
+      "fileName": "mysk-al-balad-lobby_a5d8d726.jpg",
+      "sourcePath": "/home/ubuntu/webdev-static-assets/al-ghanem-travel/owner-upload-2026-08-25/Hotel_Images/mysk-al-balad-lobby_a5d8d726.jpg",
+      "hotelSlug": "mysk-al-balad-madinah",
+      "hotelName": "Mysk Al Balad Hotel Madinah",
+      "city": "madinah",
+      "destinationPath": "media/by-hotel/mysk-al-balad-madinah/mysk-al-balad-lobby_a5d8d726.jpg"
+    },
+    {
+      "fileName": "mysk-al-balad-room_2289e1e4.jpg",
+      "sourcePath": "/home/ubuntu/webdev-static-assets/al-ghanem-travel/owner-upload-2026-08-25/Hotel_Images/mysk-al-balad-room_2289e1e4.jpg",
+      "hotelSlug": "mysk-al-balad-madinah",
+      "hotelName": "Mysk Al Balad Hotel Madinah",
+      "city": "madinah",
+      "destinationPath": "media/by-hotel/mysk-al-balad-madinah/mysk-al-balad-room_2289e1e4.jpg"
+    },
+    {
+      "fileName": "new-madinah-hotel-exterior-2026_29c83619.jpg",
+      "sourcePath": "/home/ubuntu/webdev-static-assets/al-ghanem-travel/owner-upload-2026-08-25/Hotel_Images/new-madinah-hotel-exterior-2026_29c83619.jpg",
+      "hotelSlug": "new-madinah-hotel",
+      "hotelName": "New Madinah Hotel",
+      "city": "madinah",
+      "destinationPath": "media/by-hotel/new-madinah-hotel/new-madinah-hotel-exterior-2026_29c83619.jpg"
+    },
+    {
+      "fileName": "new-madinah-hotel-lobby-2026_47c1e336.jpg",
+      "sourcePath": "/home/ubuntu/webdev-static-assets/al-ghanem-travel/owner-upload-2026-08-25/Hotel_Images/new-madinah-hotel-lobby-2026_47c1e336.jpg",
+      "hotelSlug": "new-madinah-hotel",
+      "hotelName": "New Madinah Hotel",
+      "city": "madinah",
+      "destinationPath": "media/by-hotel/new-madinah-hotel/new-madinah-hotel-lobby-2026_47c1e336.jpg"
+    },
+    {
+      "fileName": "new-madinah-hotel-room-2026_360a7f4f.jpg",
+      "sourcePath": "/home/ubuntu/webdev-static-assets/al-ghanem-travel/owner-upload-2026-08-25/Hotel_Images/new-madinah-hotel-room-2026_360a7f4f.jpg",
+      "hotelSlug": "new-madinah-hotel",
+      "hotelName": "New Madinah Hotel",
+      "city": "madinah",
+      "destinationPath": "media/by-hotel/new-madinah-hotel/new-madinah-hotel-room-2026_360a7f4f.jpg"
+    },
+    {
+      "fileName": "novotel-madinah-exterior_557edb7c.jpg",
+      "sourcePath": "/home/ubuntu/webdev-static-assets/al-ghanem-travel/owner-upload-2026-08-25/Hotel_Images/novotel-madinah-exterior_557edb7c.jpg",
+      "hotelSlug": "novotel-madinah",
+      "hotelName": "Novotel Madinah",
+      "city": "madinah",
+      "destinationPath": "media/by-hotel/novotel-madinah/novotel-madinah-exterior_557edb7c.jpg"
+    },
+    {
+      "fileName": "novotel-madinah-lobby_f621b6cb.jpg",
+      "sourcePath": "/home/ubuntu/webdev-static-assets/al-ghanem-travel/owner-upload-2026-08-25/Hotel_Images/novotel-madinah-lobby_f621b6cb.jpg",
+      "hotelSlug": "novotel-madinah",
+      "hotelName": "Novotel Madinah",
+      "city": "madinah",
+      "destinationPath": "media/by-hotel/novotel-madinah/novotel-madinah-lobby_f621b6cb.jpg"
+    },
+    {
+      "fileName": "novotel-madinah-room_5c83530d.jpg",
+      "sourcePath": "/home/ubuntu/webdev-static-assets/al-ghanem-travel/owner-upload-2026-08-25/Hotel_Images/novotel-madinah-room_5c83530d.jpg",
+      "hotelSlug": "novotel-madinah",
+      "hotelName": "Novotel Madinah",
+      "city": "madinah",
+      "destinationPath": "media/by-hotel/novotel-madinah/novotel-madinah-room_5c83530d.jpg"
+    },
+    {
+      "fileName": "nusk-al-hijrah-entrance_fc96e013.jpg",
+      "sourcePath": "/home/ubuntu/webdev-static-assets/al-ghanem-travel/owner-upload-2026-08-25/Hotel_Images/nusk-al-hijrah-entrance_fc96e013.jpg",
+      "hotelSlug": "nusk-al-hijrah-madinah",
+      "hotelName": "Nusk Al Hijrah Hotel",
+      "city": "madinah",
+      "destinationPath": "media/by-hotel/nusk-al-hijrah-madinah/nusk-al-hijrah-entrance_fc96e013.jpg"
+    },
+    {
+      "fileName": "nusk-al-hijrah-lobby_bb7ebc30.jpg",
+      "sourcePath": "/home/ubuntu/webdev-static-assets/al-ghanem-travel/owner-upload-2026-08-25/Hotel_Images/nusk-al-hijrah-lobby_bb7ebc30.jpg",
+      "hotelSlug": "nusk-al-hijrah-madinah",
+      "hotelName": "Nusk Al Hijrah Hotel",
+      "city": "madinah",
+      "destinationPath": "media/by-hotel/nusk-al-hijrah-madinah/nusk-al-hijrah-lobby_bb7ebc30.jpg"
+    },
+    {
+      "fileName": "nusk-al-hijrah-room_a740dbd6.jpg",
+      "sourcePath": "/home/ubuntu/webdev-static-assets/al-ghanem-travel/owner-upload-2026-08-25/Hotel_Images/nusk-al-hijrah-room_a740dbd6.jpg",
+      "hotelSlug": "nusk-al-hijrah-madinah",
+      "hotelName": "Nusk Al Hijrah Hotel",
+      "city": "madinah",
+      "destinationPath": "media/by-hotel/nusk-al-hijrah-madinah/nusk-al-hijrah-room_a740dbd6.jpg"
+    },
+    {
+      "fileName": "nusk-al-madinah-guest-room_76652261.webp",
+      "sourcePath": "/home/ubuntu/webdev-static-assets/al-ghanem-travel/owner-upload-2026-08-25/Hotel_Images/nusk-al-madinah-guest-room_76652261.webp",
+      "hotelSlug": "nusk-al-madinah-hotel",
+      "hotelName": "Nusk Al Madinah Hotel",
+      "city": "madinah",
+      "destinationPath": "media/by-hotel/nusk-al-madinah-hotel/nusk-al-madinah-guest-room_76652261.webp"
+    },
+    {
+      "fileName": "nusk-al-madinah-lobby_5adb1aef.jpg",
+      "sourcePath": "/home/ubuntu/webdev-static-assets/al-ghanem-travel/owner-upload-2026-08-25/Hotel_Images/nusk-al-madinah-lobby_5adb1aef.jpg",
+      "hotelSlug": "nusk-al-madinah-hotel",
+      "hotelName": "Nusk Al Madinah Hotel",
+      "city": "madinah",
+      "destinationPath": "media/by-hotel/nusk-al-madinah-hotel/nusk-al-madinah-lobby_5adb1aef.jpg"
+    },
+    {
+      "fileName": "nusk-al-madinah-room_863b9541.jpg",
+      "sourcePath": "/home/ubuntu/webdev-static-assets/al-ghanem-travel/owner-upload-2026-08-25/Hotel_Images/nusk-al-madinah-room_863b9541.jpg",
+      "hotelSlug": "nusk-al-madinah-hotel",
+      "hotelName": "Nusk Al Madinah Hotel",
+      "city": "madinah",
+      "destinationPath": "media/by-hotel/nusk-al-madinah-hotel/nusk-al-madinah-room_863b9541.jpg"
+    },
+    {
+      "fileName": "odst-al-madinah-lobby_01eb9d86.jpg",
+      "sourcePath": "/home/ubuntu/webdev-static-assets/al-ghanem-travel/owner-upload-2026-08-25/Hotel_Images/odst-al-madinah-lobby_01eb9d86.jpg",
+      "hotelSlug": "odst-al-madinah",
+      "hotelName": "Odst Al Madinah Hotel",
+      "city": "madinah",
+      "destinationPath": "media/by-hotel/odst-al-madinah/odst-al-madinah-lobby_01eb9d86.jpg"
+    },
+    {
+      "fileName": "odst-al-madinah-reception_e5707ab6.jpg",
+      "sourcePath": "/home/ubuntu/webdev-static-assets/al-ghanem-travel/owner-upload-2026-08-25/Hotel_Images/odst-al-madinah-reception_e5707ab6.jpg",
+      "hotelSlug": "odst-al-madinah",
+      "hotelName": "Odst Al Madinah Hotel",
+      "city": "madinah",
+      "destinationPath": "media/by-hotel/odst-al-madinah/odst-al-madinah-reception_e5707ab6.jpg"
+    },
+    {
+      "fileName": "odst-al-madinah-room_0518fcf4.jpg",
+      "sourcePath": "/home/ubuntu/webdev-static-assets/al-ghanem-travel/owner-upload-2026-08-25/Hotel_Images/odst-al-madinah-room_0518fcf4.jpg",
+      "hotelSlug": "odst-al-madinah",
+      "hotelName": "Odst Al Madinah Hotel",
+      "city": "madinah",
+      "destinationPath": "media/by-hotel/odst-al-madinah/odst-al-madinah-room_0518fcf4.jpg"
+    },
+    {
+      "fileName": "plaza-inn-ohud-dining_e08fde1e.jpg",
+      "sourcePath": "/home/ubuntu/webdev-static-assets/al-ghanem-travel/owner-upload-2026-08-25/Hotel_Images/plaza-inn-ohud-dining_e08fde1e.jpg",
+      "hotelSlug": "plaza-inn-ohud-madinah",
+      "hotelName": "Plaza Inn Ohud",
+      "city": "madinah",
+      "destinationPath": "media/by-hotel/plaza-inn-ohud-madinah/plaza-inn-ohud-dining_e08fde1e.jpg"
+    },
+    {
+      "fileName": "plaza-inn-ohud-lobby_9ad4db66.jpg",
+      "sourcePath": "/home/ubuntu/webdev-static-assets/al-ghanem-travel/owner-upload-2026-08-25/Hotel_Images/plaza-inn-ohud-lobby_9ad4db66.jpg",
+      "hotelSlug": "plaza-inn-ohud-madinah",
+      "hotelName": "Plaza Inn Ohud",
+      "city": "madinah",
+      "destinationPath": "media/by-hotel/plaza-inn-ohud-madinah/plaza-inn-ohud-lobby_9ad4db66.jpg"
+    },
+    {
+      "fileName": "plaza-inn-ohud-room_ce131503.jpg",
+      "sourcePath": "/home/ubuntu/webdev-static-assets/al-ghanem-travel/owner-upload-2026-08-25/Hotel_Images/plaza-inn-ohud-room_ce131503.jpg",
+      "hotelSlug": "plaza-inn-ohud-madinah",
+      "hotelName": "Plaza Inn Ohud",
+      "city": "madinah",
+      "destinationPath": "media/by-hotel/plaza-inn-ohud-madinah/plaza-inn-ohud-room_ce131503.jpg"
+    },
+    {
+      "fileName": "pullman-zamzam-madinah-lobby-2026_cedd2947.jpg",
+      "sourcePath": "/home/ubuntu/webdev-static-assets/al-ghanem-travel/owner-upload-2026-08-25/Hotel_Images/pullman-zamzam-madinah-lobby-2026_cedd2947.jpg",
+      "hotelSlug": "pullman-zamzam-madinah",
+      "hotelName": "Pullman Zamzam Madina",
+      "city": "madinah",
+      "destinationPath": "media/by-hotel/pullman-zamzam-madinah/pullman-zamzam-madinah-lobby-2026_cedd2947.jpg"
+    },
+    {
+      "fileName": "pullman-zamzam-madinah-room-2026_a609d9bb.jpg",
+      "sourcePath": "/home/ubuntu/webdev-static-assets/al-ghanem-travel/owner-upload-2026-08-25/Hotel_Images/pullman-zamzam-madinah-room-2026_a609d9bb.jpg",
+      "hotelSlug": "pullman-zamzam-madinah",
+      "hotelName": "Pullman Zamzam Madina",
+      "city": "madinah",
+      "destinationPath": "media/by-hotel/pullman-zamzam-madinah/pullman-zamzam-madinah-room-2026_a609d9bb.jpg"
+    },
+    {
+      "fileName": "qasr-al-andalus-golden-exterior_ecaeca4c.jpg",
+      "sourcePath": "/home/ubuntu/webdev-static-assets/al-ghanem-travel/owner-upload-2026-08-25/Hotel_Images/qasr-al-andalus-golden-exterior_ecaeca4c.jpg",
+      "hotelSlug": "qasr-al-andalus-golden-madinah",
+      "hotelName": "Qasr Al Andalus Golden Hotel",
+      "city": "madinah",
+      "destinationPath": "media/by-hotel/qasr-al-andalus-golden-madinah/qasr-al-andalus-golden-exterior_ecaeca4c.jpg"
+    },
+    {
+      "fileName": "qasr-al-andalus-golden-lobby_d9c1e9e3.jpg",
+      "sourcePath": "/home/ubuntu/webdev-static-assets/al-ghanem-travel/owner-upload-2026-08-25/Hotel_Images/qasr-al-andalus-golden-lobby_d9c1e9e3.jpg",
+      "hotelSlug": "qasr-al-andalus-golden-madinah",
+      "hotelName": "Qasr Al Andalus Golden Hotel",
+      "city": "madinah",
+      "destinationPath": "media/by-hotel/qasr-al-andalus-golden-madinah/qasr-al-andalus-golden-lobby_d9c1e9e3.jpg"
+    },
+    {
+      "fileName": "qasr-al-andalus-golden-room_4ac41372.jpg",
+      "sourcePath": "/home/ubuntu/webdev-static-assets/al-ghanem-travel/owner-upload-2026-08-25/Hotel_Images/qasr-al-andalus-golden-room_4ac41372.jpg",
+      "hotelSlug": "qasr-al-andalus-golden-madinah",
+      "hotelName": "Qasr Al Andalus Golden Hotel",
+      "city": "madinah",
+      "destinationPath": "media/by-hotel/qasr-al-andalus-golden-madinah/qasr-al-andalus-golden-room_4ac41372.jpg"
+    },
+    {
+      "fileName": "rabwat-al-safwa-7-exterior-day_07bf3ebc.webp",
+      "sourcePath": "/home/ubuntu/webdev-static-assets/al-ghanem-travel/owner-upload-2026-08-25/Hotel_Images/rabwat-al-safwa-7-exterior-day_07bf3ebc.webp",
+      "hotelSlug": "rabwat-al-safwa-7-madinah",
+      "hotelName": "Rabwat Al Safwa 7 Hotel",
+      "city": "madinah",
+      "destinationPath": "media/by-hotel/rabwat-al-safwa-7-madinah/rabwat-al-safwa-7-exterior-day_07bf3ebc.webp"
+    },
+    {
+      "fileName": "rabwat-al-safwa-7-exterior-night_0adf9120.jpg",
+      "sourcePath": "/home/ubuntu/webdev-static-assets/al-ghanem-travel/owner-upload-2026-08-25/Hotel_Images/rabwat-al-safwa-7-exterior-night_0adf9120.jpg",
+      "hotelSlug": "rabwat-al-safwa-7-madinah",
+      "hotelName": "Rabwat Al Safwa 7 Hotel",
+      "city": "madinah",
+      "destinationPath": "media/by-hotel/rabwat-al-safwa-7-madinah/rabwat-al-safwa-7-exterior-night_0adf9120.jpg"
+    },
+    {
+      "fileName": "rabwat-al-safwa-7-sign_6329e40b.jpg",
+      "sourcePath": "/home/ubuntu/webdev-static-assets/al-ghanem-travel/owner-upload-2026-08-25/Hotel_Images/rabwat-al-safwa-7-sign_6329e40b.jpg",
+      "hotelSlug": "rabwat-al-safwa-7-madinah",
+      "hotelName": "Rabwat Al Safwa 7 Hotel",
+      "city": "madinah",
+      "destinationPath": "media/by-hotel/rabwat-al-safwa-7-madinah/rabwat-al-safwa-7-sign_6329e40b.jpg"
+    },
+    {
+      "fileName": "rabwat-al-safwa-golden-exterior_9196b612.jpg",
+      "sourcePath": "/home/ubuntu/webdev-static-assets/al-ghanem-travel/owner-upload-2026-08-25/Hotel_Images/rabwat-al-safwa-golden-exterior_9196b612.jpg",
+      "hotelSlug": "rabwat-al-safwa-golden-madinah",
+      "hotelName": "Rabwat Al Safwa Golden Hotel",
+      "city": "madinah",
+      "destinationPath": "media/by-hotel/rabwat-al-safwa-golden-madinah/rabwat-al-safwa-golden-exterior_9196b612.jpg"
+    },
+    {
+      "fileName": "rabwat-al-safwa-golden-lobby_781fe428.jpg",
+      "sourcePath": "/home/ubuntu/webdev-static-assets/al-ghanem-travel/owner-upload-2026-08-25/Hotel_Images/rabwat-al-safwa-golden-lobby_781fe428.jpg",
+      "hotelSlug": "rabwat-al-safwa-golden-madinah",
+      "hotelName": "Rabwat Al Safwa Golden Hotel",
+      "city": "madinah",
+      "destinationPath": "media/by-hotel/rabwat-al-safwa-golden-madinah/rabwat-al-safwa-golden-lobby_781fe428.jpg"
+    },
+    {
+      "fileName": "rabwat-al-safwa-golden-room_f9ccd1f6.jpg",
+      "sourcePath": "/home/ubuntu/webdev-static-assets/al-ghanem-travel/owner-upload-2026-08-25/Hotel_Images/rabwat-al-safwa-golden-room_f9ccd1f6.jpg",
+      "hotelSlug": "rabwat-al-safwa-golden-madinah",
+      "hotelName": "Rabwat Al Safwa Golden Hotel",
+      "city": "madinah",
+      "destinationPath": "media/by-hotel/rabwat-al-safwa-golden-madinah/rabwat-al-safwa-golden-room_f9ccd1f6.jpg"
+    },
+    {
+      "fileName": "radisson-hotel-madinah-exterior-2026_b832254a.jpg",
+      "sourcePath": "/home/ubuntu/webdev-static-assets/al-ghanem-travel/owner-upload-2026-08-25/Hotel_Images/radisson-hotel-madinah-exterior-2026_b832254a.jpg",
+      "hotelSlug": "radisson-hotel-madinah",
+      "hotelName": "Radisson Hotel Madinah",
+      "city": "madinah",
+      "destinationPath": "media/by-hotel/radisson-hotel-madinah/radisson-hotel-madinah-exterior-2026_b832254a.jpg"
+    },
+    {
+      "fileName": "radisson-hotel-madinah-lobby-2026_d0770aeb.jpg",
+      "sourcePath": "/home/ubuntu/webdev-static-assets/al-ghanem-travel/owner-upload-2026-08-25/Hotel_Images/radisson-hotel-madinah-lobby-2026_d0770aeb.jpg",
+      "hotelSlug": "radisson-hotel-madinah",
+      "hotelName": "Radisson Hotel Madinah",
+      "city": "madinah",
+      "destinationPath": "media/by-hotel/radisson-hotel-madinah/radisson-hotel-madinah-lobby-2026_d0770aeb.jpg"
+    },
+    {
+      "fileName": "radisson-hotel-madinah-room-2026_a26a9e92.jpg",
+      "sourcePath": "/home/ubuntu/webdev-static-assets/al-ghanem-travel/owner-upload-2026-08-25/Hotel_Images/radisson-hotel-madinah-room-2026_a26a9e92.jpg",
+      "hotelSlug": "radisson-hotel-madinah",
+      "hotelName": "Radisson Hotel Madinah",
+      "city": "madinah",
+      "destinationPath": "media/by-hotel/radisson-hotel-madinah/radisson-hotel-madinah-room-2026_a26a9e92.jpg"
+    },
+    {
+      "fileName": "rama-al-madinah-exterior_92924b1b.jpg",
+      "sourcePath": "/home/ubuntu/webdev-static-assets/al-ghanem-travel/owner-upload-2026-08-25/Hotel_Images/rama-al-madinah-exterior_92924b1b.jpg",
+      "hotelSlug": "rama-al-madinah-hotel",
+      "hotelName": "Rama Al Madinah Hotel",
+      "city": "madinah",
+      "destinationPath": "media/by-hotel/rama-al-madinah-hotel/rama-al-madinah-exterior_92924b1b.jpg"
+    },
+    {
+      "fileName": "rama-al-madinah-lobby_5f74f7ea.jpg",
+      "sourcePath": "/home/ubuntu/webdev-static-assets/al-ghanem-travel/owner-upload-2026-08-25/Hotel_Images/rama-al-madinah-lobby_5f74f7ea.jpg",
+      "hotelSlug": "rama-al-madinah-hotel",
+      "hotelName": "Rama Al Madinah Hotel",
+      "city": "madinah",
+      "destinationPath": "media/by-hotel/rama-al-madinah-hotel/rama-al-madinah-lobby_5f74f7ea.jpg"
+    },
+    {
+      "fileName": "rama-al-madinah-room_21b59319.jpg",
+      "sourcePath": "/home/ubuntu/webdev-static-assets/al-ghanem-travel/owner-upload-2026-08-25/Hotel_Images/rama-al-madinah-room_21b59319.jpg",
+      "hotelSlug": "rama-al-madinah-hotel",
+      "hotelName": "Rama Al Madinah Hotel",
+      "city": "madinah",
+      "destinationPath": "media/by-hotel/rama-al-madinah-hotel/rama-al-madinah-room_21b59319.jpg"
+    },
+    {
+      "fileName": "rawabi-al-zahra-lobby_fdc12dd5.jpg",
+      "sourcePath": "/home/ubuntu/webdev-static-assets/al-ghanem-travel/owner-upload-2026-08-25/Hotel_Images/rawabi-al-zahra-lobby_fdc12dd5.jpg",
+      "hotelSlug": "rawabi-al-zahra-madinah",
+      "hotelName": "Rawabi Al Zahra Hotel",
+      "city": "madinah",
+      "destinationPath": "media/by-hotel/rawabi-al-zahra-madinah/rawabi-al-zahra-lobby_fdc12dd5.jpg"
+    },
+    {
+      "fileName": "rawabi-al-zahra-reception_d2a810b8.jpg",
+      "sourcePath": "/home/ubuntu/webdev-static-assets/al-ghanem-travel/owner-upload-2026-08-25/Hotel_Images/rawabi-al-zahra-reception_d2a810b8.jpg",
+      "hotelSlug": "rawabi-al-zahra-madinah",
+      "hotelName": "Rawabi Al Zahra Hotel",
+      "city": "madinah",
+      "destinationPath": "media/by-hotel/rawabi-al-zahra-madinah/rawabi-al-zahra-reception_d2a810b8.jpg"
+    },
+    {
+      "fileName": "rawabi-al-zahra-room_883d2751.jpg",
+      "sourcePath": "/home/ubuntu/webdev-static-assets/al-ghanem-travel/owner-upload-2026-08-25/Hotel_Images/rawabi-al-zahra-room_883d2751.jpg",
+      "hotelSlug": "rawabi-al-zahra-madinah",
+      "hotelName": "Rawabi Al Zahra Hotel",
+      "city": "madinah",
+      "destinationPath": "media/by-hotel/rawabi-al-zahra-madinah/rawabi-al-zahra-room_883d2751.jpg"
+    },
+    {
+      "fileName": "rawdah-al-aqeeq-exterior-2026_64cd07c8.jpg",
+      "sourcePath": "/home/ubuntu/webdev-static-assets/al-ghanem-travel/owner-upload-2026-08-25/Hotel_Images/rawdah-al-aqeeq-exterior-2026_64cd07c8.jpg",
+      "hotelSlug": "rawdah-al-aqiq",
+      "hotelName": "Rawdah Al Aqiq",
+      "city": "madinah",
+      "destinationPath": "media/by-hotel/rawdah-al-aqiq/rawdah-al-aqeeq-exterior-2026_64cd07c8.jpg"
+    },
+    {
+      "fileName": "rawdah-al-aqeeq-lobby-2026_ef5cb649.jpg",
+      "sourcePath": "/home/ubuntu/webdev-static-assets/al-ghanem-travel/owner-upload-2026-08-25/Hotel_Images/rawdah-al-aqeeq-lobby-2026_ef5cb649.jpg",
+      "hotelSlug": "rawdah-al-aqiq",
+      "hotelName": "Rawdah Al Aqiq",
+      "city": "madinah",
+      "destinationPath": "media/by-hotel/rawdah-al-aqiq/rawdah-al-aqeeq-lobby-2026_ef5cb649.jpg"
+    },
+    {
+      "fileName": "rawdah-al-aqeeq-room-2026_3b4a1978.jpg",
+      "sourcePath": "/home/ubuntu/webdev-static-assets/al-ghanem-travel/owner-upload-2026-08-25/Hotel_Images/rawdah-al-aqeeq-room-2026_3b4a1978.jpg",
+      "hotelSlug": "rawdah-al-aqiq",
+      "hotelName": "Rawdah Al Aqiq",
+      "city": "madinah",
+      "destinationPath": "media/by-hotel/rawdah-al-aqiq/rawdah-al-aqeeq-room-2026_3b4a1978.jpg"
+    },
+    {
+      "fileName": "rehab-taba-hotel-exterior-2026_1ca0c523.jpg",
+      "sourcePath": "/home/ubuntu/webdev-static-assets/al-ghanem-travel/owner-upload-2026-08-25/Hotel_Images/rehab-taba-hotel-exterior-2026_1ca0c523.jpg",
+      "hotelSlug": "al-rehab-madinah",
+      "hotelName": "Rehab Taba Hotel (Rehab Harmony)",
+      "city": "madinah",
+      "destinationPath": "media/by-hotel/al-rehab-madinah/rehab-taba-hotel-exterior-2026_1ca0c523.jpg"
+    },
+    {
+      "fileName": "rehab-taba-hotel-lobby-2026_36ea37de.jpg",
+      "sourcePath": "/home/ubuntu/webdev-static-assets/al-ghanem-travel/owner-upload-2026-08-25/Hotel_Images/rehab-taba-hotel-lobby-2026_36ea37de.jpg",
+      "hotelSlug": "al-rehab-madinah",
+      "hotelName": "Rehab Taba Hotel (Rehab Harmony)",
+      "city": "madinah",
+      "destinationPath": "media/by-hotel/al-rehab-madinah/rehab-taba-hotel-lobby-2026_36ea37de.jpg"
+    },
+    {
+      "fileName": "rehab-taba-hotel-room-2026_6baf5b1b.jpg",
+      "sourcePath": "/home/ubuntu/webdev-static-assets/al-ghanem-travel/owner-upload-2026-08-25/Hotel_Images/rehab-taba-hotel-room-2026_6baf5b1b.jpg",
+      "hotelSlug": "al-rehab-madinah",
+      "hotelName": "Rehab Taba Hotel (Rehab Harmony)",
+      "city": "madinah",
+      "destinationPath": "media/by-hotel/al-rehab-madinah/rehab-taba-hotel-room-2026_6baf5b1b.jpg"
+    },
+    {
+      "fileName": "riyadh-al-zahra-exterior_a867aed1.jpg",
+      "sourcePath": "/home/ubuntu/webdev-static-assets/al-ghanem-travel/owner-upload-2026-08-25/Hotel_Images/riyadh-al-zahra-exterior_a867aed1.jpg",
+      "hotelSlug": "riyadh-al-zahra-madinah",
+      "hotelName": "Riyadh Al Zahra Hotel",
+      "city": "madinah",
+      "destinationPath": "media/by-hotel/riyadh-al-zahra-madinah/riyadh-al-zahra-exterior_a867aed1.jpg"
+    },
+    {
+      "fileName": "riyadh-al-zahra-lobby_7169a975.jpg",
+      "sourcePath": "/home/ubuntu/webdev-static-assets/al-ghanem-travel/owner-upload-2026-08-25/Hotel_Images/riyadh-al-zahra-lobby_7169a975.jpg",
+      "hotelSlug": "riyadh-al-zahra-madinah",
+      "hotelName": "Riyadh Al Zahra Hotel",
+      "city": "madinah",
+      "destinationPath": "media/by-hotel/riyadh-al-zahra-madinah/riyadh-al-zahra-lobby_7169a975.jpg"
+    },
+    {
+      "fileName": "riyadh-al-zahra-room_9d4c6433.jpg",
+      "sourcePath": "/home/ubuntu/webdev-static-assets/al-ghanem-travel/owner-upload-2026-08-25/Hotel_Images/riyadh-al-zahra-room_9d4c6433.jpg",
+      "hotelSlug": "riyadh-al-zahra-madinah",
+      "hotelName": "Riyadh Al Zahra Hotel",
+      "city": "madinah",
+      "destinationPath": "media/by-hotel/riyadh-al-zahra-madinah/riyadh-al-zahra-room_9d4c6433.jpg"
+    },
+    {
+      "fileName": "rotana-al-misk-exterior_42958503.jpg",
+      "sourcePath": "/home/ubuntu/webdev-static-assets/al-ghanem-travel/owner-upload-2026-08-25/Hotel_Images/rotana-al-misk-exterior_42958503.jpg",
+      "hotelSlug": "rotana-al-misk-madinah",
+      "hotelName": "Rotana Al Misk Hotel",
+      "city": "madinah",
+      "destinationPath": "media/by-hotel/rotana-al-misk-madinah/rotana-al-misk-exterior_42958503.jpg"
+    },
+    {
+      "fileName": "rotana-al-misk-lobby_6e5147f5.jpg",
+      "sourcePath": "/home/ubuntu/webdev-static-assets/al-ghanem-travel/owner-upload-2026-08-25/Hotel_Images/rotana-al-misk-lobby_6e5147f5.jpg",
+      "hotelSlug": "rotana-al-misk-madinah",
+      "hotelName": "Rotana Al Misk Hotel",
+      "city": "madinah",
+      "destinationPath": "media/by-hotel/rotana-al-misk-madinah/rotana-al-misk-lobby_6e5147f5.jpg"
+    },
+    {
+      "fileName": "rotana-al-misk-room_612d2ebf.jpg",
+      "sourcePath": "/home/ubuntu/webdev-static-assets/al-ghanem-travel/owner-upload-2026-08-25/Hotel_Images/rotana-al-misk-room_612d2ebf.jpg",
+      "hotelSlug": "rotana-al-misk-madinah",
+      "hotelName": "Rotana Al Misk Hotel",
+      "city": "madinah",
+      "destinationPath": "media/by-hotel/rotana-al-misk-madinah/rotana-al-misk-room_612d2ebf.jpg"
+    },
+    {
+      "fileName": "rua-al-hijrah-exterior-2026_9294fda3.jpg",
+      "sourcePath": "/home/ubuntu/webdev-static-assets/al-ghanem-travel/owner-upload-2026-08-25/Hotel_Images/rua-al-hijrah-exterior-2026_9294fda3.jpg",
+      "hotelSlug": "coral-madinah",
+      "hotelName": "Rua Al Hijrah Hotel (Coral Al Madinah)",
+      "city": "madinah",
+      "destinationPath": "media/by-hotel/coral-madinah/rua-al-hijrah-exterior-2026_9294fda3.jpg"
+    },
+    {
+      "fileName": "rua-al-hijrah-lobby-2026_5f2cc9db.jpg",
+      "sourcePath": "/home/ubuntu/webdev-static-assets/al-ghanem-travel/owner-upload-2026-08-25/Hotel_Images/rua-al-hijrah-lobby-2026_5f2cc9db.jpg",
+      "hotelSlug": "coral-madinah",
+      "hotelName": "Rua Al Hijrah Hotel (Coral Al Madinah)",
+      "city": "madinah",
+      "destinationPath": "media/by-hotel/coral-madinah/rua-al-hijrah-lobby-2026_5f2cc9db.jpg"
+    },
+    {
+      "fileName": "rua-al-hijrah-room-2026_d7df4501.jpg",
+      "sourcePath": "/home/ubuntu/webdev-static-assets/al-ghanem-travel/owner-upload-2026-08-25/Hotel_Images/rua-al-hijrah-room-2026_d7df4501.jpg",
+      "hotelSlug": "coral-madinah",
+      "hotelName": "Rua Al Hijrah Hotel (Coral Al Madinah)",
+      "city": "madinah",
+      "destinationPath": "media/by-hotel/coral-madinah/rua-al-hijrah-room-2026_d7df4501.jpg"
+    },
+    {
+      "fileName": "ruve-al-madinah-official-1_b30d8745.jpg",
+      "sourcePath": "/home/ubuntu/webdev-static-assets/al-ghanem-travel/owner-upload-2026-08-25/Hotel_Images/ruve-al-madinah-official-1_b30d8745.jpg",
+      "hotelSlug": "ruve-al-madinah",
+      "hotelName": "Ruve Hotel Medinah",
+      "city": "madinah",
+      "destinationPath": "media/by-hotel/ruve-al-madinah/ruve-al-madinah-official-1_b30d8745.jpg"
+    },
+    {
+      "fileName": "ruve-al-madinah-official-2_0a80d468.jpg",
+      "sourcePath": "/home/ubuntu/webdev-static-assets/al-ghanem-travel/owner-upload-2026-08-25/Hotel_Images/ruve-al-madinah-official-2_0a80d468.jpg",
+      "hotelSlug": "ruve-al-madinah",
+      "hotelName": "Ruve Hotel Medinah",
+      "city": "madinah",
+      "destinationPath": "media/by-hotel/ruve-al-madinah/ruve-al-madinah-official-2_0a80d468.jpg"
+    },
+    {
+      "fileName": "ruve-al-madinah-official-3_921f4c92.jpg",
+      "sourcePath": "/home/ubuntu/webdev-static-assets/al-ghanem-travel/owner-upload-2026-08-25/Hotel_Images/ruve-al-madinah-official-3_921f4c92.jpg",
+      "hotelSlug": "ruve-al-madinah",
+      "hotelName": "Ruve Hotel Medinah",
+      "city": "madinah",
+      "destinationPath": "media/by-hotel/ruve-al-madinah/ruve-al-madinah-official-3_921f4c92.jpg"
+    },
+    {
+      "fileName": "safwat-al-madinah-exterior_795c7ebc.jpg",
+      "sourcePath": "/home/ubuntu/webdev-static-assets/al-ghanem-travel/owner-upload-2026-08-25/Hotel_Images/safwat-al-madinah-exterior_795c7ebc.jpg",
+      "hotelSlug": "safwat-al-madinah",
+      "hotelName": "Safwat Almadinah Hotel",
+      "city": "madinah",
+      "destinationPath": "media/by-hotel/safwat-al-madinah/safwat-al-madinah-exterior_795c7ebc.jpg"
+    },
+    {
+      "fileName": "safwat-al-madinah-lobby_c1bfd1d4.jpg",
+      "sourcePath": "/home/ubuntu/webdev-static-assets/al-ghanem-travel/owner-upload-2026-08-25/Hotel_Images/safwat-al-madinah-lobby_c1bfd1d4.jpg",
+      "hotelSlug": "safwat-al-madinah",
+      "hotelName": "Safwat Almadinah Hotel",
+      "city": "madinah",
+      "destinationPath": "media/by-hotel/safwat-al-madinah/safwat-al-madinah-lobby_c1bfd1d4.jpg"
+    },
+    {
+      "fileName": "safwat-al-madinah-room_2c877aa0.jpg",
+      "sourcePath": "/home/ubuntu/webdev-static-assets/al-ghanem-travel/owner-upload-2026-08-25/Hotel_Images/safwat-al-madinah-room_2c877aa0.jpg",
+      "hotelSlug": "safwat-al-madinah",
+      "hotelName": "Safwat Almadinah Hotel",
+      "city": "madinah",
+      "destinationPath": "media/by-hotel/safwat-al-madinah/safwat-al-madinah-room_2c877aa0.jpg"
+    },
+    {
+      "fileName": "saja-by-warwick-madinah-exterior-2026_e4e1947b.jpg",
+      "sourcePath": "/home/ubuntu/webdev-static-assets/al-ghanem-travel/owner-upload-2026-08-25/Hotel_Images/saja-by-warwick-madinah-exterior-2026_e4e1947b.jpg",
+      "hotelSlug": "saja-by-warwick-madinah",
+      "hotelName": "Saja by Warwick Madinah",
+      "city": "madinah",
+      "destinationPath": "media/by-hotel/saja-by-warwick-madinah/saja-by-warwick-madinah-exterior-2026_e4e1947b.jpg"
+    },
+    {
+      "fileName": "saja-by-warwick-madinah-lobby-2026_2944db32.jpg",
+      "sourcePath": "/home/ubuntu/webdev-static-assets/al-ghanem-travel/owner-upload-2026-08-25/Hotel_Images/saja-by-warwick-madinah-lobby-2026_2944db32.jpg",
+      "hotelSlug": "saja-by-warwick-madinah",
+      "hotelName": "Saja by Warwick Madinah",
+      "city": "madinah",
+      "destinationPath": "media/by-hotel/saja-by-warwick-madinah/saja-by-warwick-madinah-lobby-2026_2944db32.jpg"
+    },
+    {
+      "fileName": "saja-by-warwick-madinah-room-2026_515df4e9.jpg",
+      "sourcePath": "/home/ubuntu/webdev-static-assets/al-ghanem-travel/owner-upload-2026-08-25/Hotel_Images/saja-by-warwick-madinah-room-2026_515df4e9.jpg",
+      "hotelSlug": "saja-by-warwick-madinah",
+      "hotelName": "Saja by Warwick Madinah",
+      "city": "madinah",
+      "destinationPath": "media/by-hotel/saja-by-warwick-madinah/saja-by-warwick-madinah-room-2026_515df4e9.jpg"
+    },
+    {
+      "fileName": "saraya-taba-guest-room_e41880bf.jpg",
+      "sourcePath": "/home/ubuntu/webdev-static-assets/al-ghanem-travel/owner-upload-2026-08-25/Hotel_Images/saraya-taba-guest-room_e41880bf.jpg",
+      "hotelSlug": "saraya-taba-hotel-a-madinah",
+      "hotelName": "Saraya Taba Hotel A",
+      "city": "madinah",
+      "destinationPath": "media/by-hotel/saraya-taba-hotel-a-madinah/saraya-taba-guest-room_e41880bf.jpg"
+    },
+    {
+      "fileName": "saraya-taba-lobby_c6206689.jpg",
+      "sourcePath": "/home/ubuntu/webdev-static-assets/al-ghanem-travel/owner-upload-2026-08-25/Hotel_Images/saraya-taba-lobby_c6206689.jpg",
+      "hotelSlug": "saraya-taba-hotel-a-madinah",
+      "hotelName": "Saraya Taba Hotel A",
+      "city": "madinah",
+      "destinationPath": "media/by-hotel/saraya-taba-hotel-a-madinah/saraya-taba-lobby_c6206689.jpg"
+    },
+    {
+      "fileName": "saraya-taba-room_a679b92b.jpg",
+      "sourcePath": "/home/ubuntu/webdev-static-assets/al-ghanem-travel/owner-upload-2026-08-25/Hotel_Images/saraya-taba-room_a679b92b.jpg",
+      "hotelSlug": "saraya-taba-hotel-a-madinah",
+      "hotelName": "Saraya Taba Hotel A",
+      "city": "madinah",
+      "destinationPath": "media/by-hotel/saraya-taba-hotel-a-madinah/saraya-taba-room_a679b92b.jpg"
+    },
+    {
+      "fileName": "shaza-al-baraka-exterior_76a99251.jpg",
+      "sourcePath": "/home/ubuntu/webdev-static-assets/al-ghanem-travel/owner-upload-2026-08-25/Hotel_Images/shaza-al-baraka-exterior_76a99251.jpg",
+      "hotelSlug": "shaza-al-baraka-madinah",
+      "hotelName": "Shaza Al Baraka Hotel",
+      "city": "madinah",
+      "destinationPath": "media/by-hotel/shaza-al-baraka-madinah/shaza-al-baraka-exterior_76a99251.jpg"
+    },
+    {
+      "fileName": "shaza-al-baraka-lobby_e269f363.jpg",
+      "sourcePath": "/home/ubuntu/webdev-static-assets/al-ghanem-travel/owner-upload-2026-08-25/Hotel_Images/shaza-al-baraka-lobby_e269f363.jpg",
+      "hotelSlug": "shaza-al-baraka-madinah",
+      "hotelName": "Shaza Al Baraka Hotel",
+      "city": "madinah",
+      "destinationPath": "media/by-hotel/shaza-al-baraka-madinah/shaza-al-baraka-lobby_e269f363.jpg"
+    },
+    {
+      "fileName": "shaza-al-baraka-room_aefb2321.jpg",
+      "sourcePath": "/home/ubuntu/webdev-static-assets/al-ghanem-travel/owner-upload-2026-08-25/Hotel_Images/shaza-al-baraka-room_aefb2321.jpg",
+      "hotelSlug": "shaza-al-baraka-madinah",
+      "hotelName": "Shaza Al Baraka Hotel",
+      "city": "madinah",
+      "destinationPath": "media/by-hotel/shaza-al-baraka-madinah/shaza-al-baraka-room_aefb2321.jpg"
+    },
+    {
+      "fileName": "shaza-regency-plaza-exterior-2026_ed25e7c0.webp",
+      "sourcePath": "/home/ubuntu/webdev-static-assets/al-ghanem-travel/owner-upload-2026-08-25/Hotel_Images/shaza-regency-plaza-exterior-2026_ed25e7c0.webp",
+      "hotelSlug": "shaza-madinah",
+      "hotelName": "Shaza Regency Plaza Al Madinah",
+      "city": "madinah",
+      "destinationPath": "media/by-hotel/shaza-madinah/shaza-regency-plaza-exterior-2026_ed25e7c0.webp"
+    },
+    {
+      "fileName": "shaza-regency-plaza-exterior_0d4b4931.jpg",
+      "sourcePath": "/home/ubuntu/webdev-static-assets/al-ghanem-travel/owner-upload-2026-08-25/Hotel_Images/shaza-regency-plaza-exterior_0d4b4931.jpg",
+      "hotelSlug": "shaza-regency-plaza-madinah",
+      "hotelName": "Shaza Regency Plaza Hotel",
+      "city": "madinah",
+      "destinationPath": "media/by-hotel/shaza-regency-plaza-madinah/shaza-regency-plaza-exterior_0d4b4931.jpg"
+    },
+    {
+      "fileName": "shaza-regency-plaza-lobby-2026_a89bf720.jpg",
+      "sourcePath": "/home/ubuntu/webdev-static-assets/al-ghanem-travel/owner-upload-2026-08-25/Hotel_Images/shaza-regency-plaza-lobby-2026_a89bf720.jpg",
+      "hotelSlug": "shaza-madinah",
+      "hotelName": "Shaza Regency Plaza Al Madinah",
+      "city": "madinah",
+      "destinationPath": "media/by-hotel/shaza-madinah/shaza-regency-plaza-lobby-2026_a89bf720.jpg"
+    },
+    {
+      "fileName": "shaza-regency-plaza-lobby_ff5b7f4e.jpg",
+      "sourcePath": "/home/ubuntu/webdev-static-assets/al-ghanem-travel/owner-upload-2026-08-25/Hotel_Images/shaza-regency-plaza-lobby_ff5b7f4e.jpg",
+      "hotelSlug": "shaza-regency-plaza-madinah",
+      "hotelName": "Shaza Regency Plaza Hotel",
+      "city": "madinah",
+      "destinationPath": "media/by-hotel/shaza-regency-plaza-madinah/shaza-regency-plaza-lobby_ff5b7f4e.jpg"
+    },
+    {
+      "fileName": "shaza-regency-plaza-room-2026_c98d40b7.jpg",
+      "sourcePath": "/home/ubuntu/webdev-static-assets/al-ghanem-travel/owner-upload-2026-08-25/Hotel_Images/shaza-regency-plaza-room-2026_c98d40b7.jpg",
+      "hotelSlug": "shaza-madinah",
+      "hotelName": "Shaza Regency Plaza Al Madinah",
+      "city": "madinah",
+      "destinationPath": "media/by-hotel/shaza-madinah/shaza-regency-plaza-room-2026_c98d40b7.jpg"
+    },
+    {
+      "fileName": "shaza-regency-plaza-room_c7068f18.jpg",
+      "sourcePath": "/home/ubuntu/webdev-static-assets/al-ghanem-travel/owner-upload-2026-08-25/Hotel_Images/shaza-regency-plaza-room_c7068f18.jpg",
+      "hotelSlug": "shaza-regency-plaza-madinah",
+      "hotelName": "Shaza Regency Plaza Hotel",
+      "city": "madinah",
+      "destinationPath": "media/by-hotel/shaza-regency-plaza-madinah/shaza-regency-plaza-room_c7068f18.jpg"
+    },
+    {
+      "fileName": "silver-tabah-towers-exterior-2026_13ba195a.jpg",
+      "sourcePath": "/home/ubuntu/webdev-static-assets/al-ghanem-travel/owner-upload-2026-08-25/Hotel_Images/silver-tabah-towers-exterior-2026_13ba195a.jpg",
+      "hotelSlug": "silver-tabah-towers-hotel",
+      "hotelName": "Silver Tabah Towers Hotel",
+      "city": "madinah",
+      "destinationPath": "media/by-hotel/silver-tabah-towers-hotel/silver-tabah-towers-exterior-2026_13ba195a.jpg"
+    },
+    {
+      "fileName": "silver-tabah-towers-lobby-2026_d59104db.jpg",
+      "sourcePath": "/home/ubuntu/webdev-static-assets/al-ghanem-travel/owner-upload-2026-08-25/Hotel_Images/silver-tabah-towers-lobby-2026_d59104db.jpg",
+      "hotelSlug": "silver-tabah-towers-hotel",
+      "hotelName": "Silver Tabah Towers Hotel",
+      "city": "madinah",
+      "destinationPath": "media/by-hotel/silver-tabah-towers-hotel/silver-tabah-towers-lobby-2026_d59104db.jpg"
+    },
+    {
+      "fileName": "silver-tabah-towers-room-2026_f9f2534e.jpg",
+      "sourcePath": "/home/ubuntu/webdev-static-assets/al-ghanem-travel/owner-upload-2026-08-25/Hotel_Images/silver-tabah-towers-room-2026_f9f2534e.jpg",
+      "hotelSlug": "silver-tabah-towers-hotel",
+      "hotelName": "Silver Tabah Towers Hotel",
+      "city": "madinah",
+      "destinationPath": "media/by-hotel/silver-tabah-towers-hotel/silver-tabah-towers-room-2026_f9f2534e.jpg"
+    },
+    {
+      "fileName": "sofitel-shahd-exterior_e36b9568.jpg",
+      "sourcePath": "/home/ubuntu/webdev-static-assets/al-ghanem-travel/owner-upload-2026-08-25/Hotel_Images/sofitel-shahd-exterior_e36b9568.jpg",
+      "hotelSlug": "sofitel-shahd-al-madinah",
+      "hotelName": "Sofitel Shahd Al Madinah",
+      "city": "madinah",
+      "destinationPath": "media/by-hotel/sofitel-shahd-al-madinah/sofitel-shahd-exterior_e36b9568.jpg"
+    },
+    {
+      "fileName": "sofitel-shahd-room_ead5cfae.jpg",
+      "sourcePath": "/home/ubuntu/webdev-static-assets/al-ghanem-travel/owner-upload-2026-08-25/Hotel_Images/sofitel-shahd-room_ead5cfae.jpg",
+      "hotelSlug": "sofitel-shahd-al-madinah",
+      "hotelName": "Sofitel Shahd Al Madinah",
+      "city": "madinah",
+      "destinationPath": "media/by-hotel/sofitel-shahd-al-madinah/sofitel-shahd-room_ead5cfae.jpg"
+    },
+    {
+      "fileName": "sofitel-shahd-skyline_a1cf3910.jpg",
+      "sourcePath": "/home/ubuntu/webdev-static-assets/al-ghanem-travel/owner-upload-2026-08-25/Hotel_Images/sofitel-shahd-skyline_a1cf3910.jpg",
+      "hotelSlug": "sofitel-shahd-al-madinah",
+      "hotelName": "Sofitel Shahd Al Madinah",
+      "city": "madinah",
+      "destinationPath": "media/by-hotel/sofitel-shahd-al-madinah/sofitel-shahd-skyline_a1cf3910.jpg"
+    },
+    {
+      "fileName": "swiss-taba-al-salam-exterior_01a3803f.jpg",
+      "sourcePath": "/home/ubuntu/webdev-static-assets/al-ghanem-travel/owner-upload-2026-08-25/Hotel_Images/swiss-taba-al-salam-exterior_01a3803f.jpg",
+      "hotelSlug": "swiss-international-taba-al-salam",
+      "hotelName": "Swiss International Taba Al Salam",
+      "city": "madinah",
+      "destinationPath": "media/by-hotel/swiss-international-taba-al-salam/swiss-taba-al-salam-exterior_01a3803f.jpg"
+    },
+    {
+      "fileName": "swiss-taba-al-salam-reception_2c2b7136.jpg",
+      "sourcePath": "/home/ubuntu/webdev-static-assets/al-ghanem-travel/owner-upload-2026-08-25/Hotel_Images/swiss-taba-al-salam-reception_2c2b7136.jpg",
+      "hotelSlug": "swiss-international-taba-al-salam",
+      "hotelName": "Swiss International Taba Al Salam",
+      "city": "madinah",
+      "destinationPath": "media/by-hotel/swiss-international-taba-al-salam/swiss-taba-al-salam-reception_2c2b7136.jpg"
+    },
+    {
+      "fileName": "swiss-taba-al-salam-room_5756efbb.jpg",
+      "sourcePath": "/home/ubuntu/webdev-static-assets/al-ghanem-travel/owner-upload-2026-08-25/Hotel_Images/swiss-taba-al-salam-room_5756efbb.jpg",
+      "hotelSlug": "swiss-international-taba-al-salam",
+      "hotelName": "Swiss International Taba Al Salam",
+      "city": "madinah",
+      "destinationPath": "media/by-hotel/swiss-international-taba-al-salam/swiss-taba-al-salam-room_5756efbb.jpg"
+    },
+    {
+      "fileName": "tabah-towers-exterior-2026_44c9821b.jpg",
+      "sourcePath": "/home/ubuntu/webdev-static-assets/al-ghanem-travel/owner-upload-2026-08-25/Hotel_Images/tabah-towers-exterior-2026_44c9821b.jpg",
+      "hotelSlug": "tabah-towers-hotel",
+      "hotelName": "Tabah Towers Hotel",
+      "city": "madinah",
+      "destinationPath": "media/by-hotel/tabah-towers-hotel/tabah-towers-exterior-2026_44c9821b.jpg"
+    },
+    {
+      "fileName": "tabah-towers-lobby-2026_58cfca39.jpg",
+      "sourcePath": "/home/ubuntu/webdev-static-assets/al-ghanem-travel/owner-upload-2026-08-25/Hotel_Images/tabah-towers-lobby-2026_58cfca39.jpg",
+      "hotelSlug": "tabah-towers-hotel",
+      "hotelName": "Tabah Towers Hotel",
+      "city": "madinah",
+      "destinationPath": "media/by-hotel/tabah-towers-hotel/tabah-towers-lobby-2026_58cfca39.jpg"
+    },
+    {
+      "fileName": "tabah-towers-room-2026_9ce1539b.jpg",
+      "sourcePath": "/home/ubuntu/webdev-static-assets/al-ghanem-travel/owner-upload-2026-08-25/Hotel_Images/tabah-towers-room-2026_9ce1539b.jpg",
+      "hotelSlug": "tabah-towers-hotel",
+      "hotelName": "Tabah Towers Hotel",
+      "city": "madinah",
+      "destinationPath": "media/by-hotel/tabah-towers-hotel/tabah-towers-room-2026_9ce1539b.jpg"
+    },
+    {
+      "fileName": "taiba-front-exterior_6c74a068.jpg",
+      "sourcePath": "/home/ubuntu/webdev-static-assets/al-ghanem-travel/owner-upload-2026-08-25/Hotel_Images/taiba-front-exterior_6c74a068.jpg",
+      "hotelSlug": "taiba-front-madinah",
+      "hotelName": "Taiba Front Hotel",
+      "city": "madinah",
+      "destinationPath": "media/by-hotel/taiba-front-madinah/taiba-front-exterior_6c74a068.jpg"
+    },
+    {
+      "fileName": "taiba-front-lobby_090a4373.jpg",
+      "sourcePath": "/home/ubuntu/webdev-static-assets/al-ghanem-travel/owner-upload-2026-08-25/Hotel_Images/taiba-front-lobby_090a4373.jpg",
+      "hotelSlug": "taiba-front-madinah",
+      "hotelName": "Taiba Front Hotel",
+      "city": "madinah",
+      "destinationPath": "media/by-hotel/taiba-front-madinah/taiba-front-lobby_090a4373.jpg"
+    },
+    {
+      "fileName": "taiba-front-room_afe547c2.jpg",
+      "sourcePath": "/home/ubuntu/webdev-static-assets/al-ghanem-travel/owner-upload-2026-08-25/Hotel_Images/taiba-front-room_afe547c2.jpg",
+      "hotelSlug": "taiba-front-madinah",
+      "hotelName": "Taiba Front Hotel",
+      "city": "madinah",
+      "destinationPath": "media/by-hotel/taiba-front-madinah/taiba-front-room_afe547c2.jpg"
+    },
+    {
+      "fileName": "the-venue-al-harithia-hallway_3f737e05.jpeg",
+      "sourcePath": "/home/ubuntu/webdev-static-assets/al-ghanem-travel/owner-upload-2026-08-25/Hotel_Images/the-venue-al-harithia-hallway_3f737e05.jpeg",
+      "hotelSlug": "the-venue-al-harithia",
+      "hotelName": "The Venue Al Harithia Hotel",
+      "city": "madinah",
+      "destinationPath": "media/by-hotel/the-venue-al-harithia/the-venue-al-harithia-hallway_3f737e05.jpeg"
+    },
+    {
+      "fileName": "the-venue-al-harithia-lobby_f5ec87b0.jpeg",
+      "sourcePath": "/home/ubuntu/webdev-static-assets/al-ghanem-travel/owner-upload-2026-08-25/Hotel_Images/the-venue-al-harithia-lobby_f5ec87b0.jpeg",
+      "hotelSlug": "the-venue-al-harithia",
+      "hotelName": "The Venue Al Harithia Hotel",
+      "city": "madinah",
+      "destinationPath": "media/by-hotel/the-venue-al-harithia/the-venue-al-harithia-lobby_f5ec87b0.jpeg"
+    },
+    {
+      "fileName": "the-venue-al-harithia-lounge_419ca182.jpeg",
+      "sourcePath": "/home/ubuntu/webdev-static-assets/al-ghanem-travel/owner-upload-2026-08-25/Hotel_Images/the-venue-al-harithia-lounge_419ca182.jpeg",
+      "hotelSlug": "the-venue-al-harithia",
+      "hotelName": "The Venue Al Harithia Hotel",
+      "city": "madinah",
+      "destinationPath": "media/by-hotel/the-venue-al-harithia/the-venue-al-harithia-lounge_419ca182.jpeg"
+    },
+    {
+      "fileName": "tulip-inn-al-daar-rawafid-guest-room_9e3545a2.jpg",
+      "sourcePath": "/home/ubuntu/webdev-static-assets/al-ghanem-travel/owner-upload-2026-08-25/Hotel_Images/tulip-inn-al-daar-rawafid-guest-room_9e3545a2.jpg",
+      "hotelSlug": "tulip-inn-al-daar-rawafid",
+      "hotelName": "Tulip Inn Al Daar Rawafid",
+      "city": "madinah",
+      "destinationPath": "media/by-hotel/tulip-inn-al-daar-rawafid/tulip-inn-al-daar-rawafid-guest-room_9e3545a2.jpg"
+    },
+    {
+      "fileName": "tulip-inn-al-daar-rawafid-lobby_41fe7e17.jpg",
+      "sourcePath": "/home/ubuntu/webdev-static-assets/al-ghanem-travel/owner-upload-2026-08-25/Hotel_Images/tulip-inn-al-daar-rawafid-lobby_41fe7e17.jpg",
+      "hotelSlug": "tulip-inn-al-daar-rawafid",
+      "hotelName": "Tulip Inn Al Daar Rawafid",
+      "city": "madinah",
+      "destinationPath": "media/by-hotel/tulip-inn-al-daar-rawafid/tulip-inn-al-daar-rawafid-lobby_41fe7e17.jpg"
+    },
+    {
+      "fileName": "tulip-inn-al-daar-rawafid-room_9fca4742.jpg",
+      "sourcePath": "/home/ubuntu/webdev-static-assets/al-ghanem-travel/owner-upload-2026-08-25/Hotel_Images/tulip-inn-al-daar-rawafid-room_9fca4742.jpg",
+      "hotelSlug": "tulip-inn-al-daar-rawafid",
+      "hotelName": "Tulip Inn Al Daar Rawafid",
+      "city": "madinah",
+      "destinationPath": "media/by-hotel/tulip-inn-al-daar-rawafid/tulip-inn-al-daar-rawafid-room_9fca4742.jpg"
+    },
+    {
+      "fileName": "valy-al-madinah-hotel-exterior-2026_e706d6e4.jpg",
+      "sourcePath": "/home/ubuntu/webdev-static-assets/al-ghanem-travel/owner-upload-2026-08-25/Hotel_Images/valy-al-madinah-hotel-exterior-2026_e706d6e4.jpg",
+      "hotelSlug": "valy-al-madinah-hotel",
+      "hotelName": "Valy Al Madinah Hotel",
+      "city": "madinah",
+      "destinationPath": "media/by-hotel/valy-al-madinah-hotel/valy-al-madinah-hotel-exterior-2026_e706d6e4.jpg"
+    },
+    {
+      "fileName": "valy-al-madinah-hotel-lobby-2026_ab1a8bc2.jpeg",
+      "sourcePath": "/home/ubuntu/webdev-static-assets/al-ghanem-travel/owner-upload-2026-08-25/Hotel_Images/valy-al-madinah-hotel-lobby-2026_ab1a8bc2.jpeg",
+      "hotelSlug": "valy-al-madinah-hotel",
+      "hotelName": "Valy Al Madinah Hotel",
+      "city": "madinah",
+      "destinationPath": "media/by-hotel/valy-al-madinah-hotel/valy-al-madinah-hotel-lobby-2026_ab1a8bc2.jpeg"
+    },
+    {
+      "fileName": "valy-al-madinah-hotel-room-2026_64284af8.jpg",
+      "sourcePath": "/home/ubuntu/webdev-static-assets/al-ghanem-travel/owner-upload-2026-08-25/Hotel_Images/valy-al-madinah-hotel-room-2026_64284af8.jpg",
+      "hotelSlug": "valy-al-madinah-hotel",
+      "hotelName": "Valy Al Madinah Hotel",
+      "city": "madinah",
+      "destinationPath": "media/by-hotel/valy-al-madinah-hotel/valy-al-madinah-hotel-room-2026_64284af8.jpg"
+    },
+    {
+      "fileName": "waqf-uthman-bin-affan-exterior-2026_d8b0f683.jpg",
+      "sourcePath": "/home/ubuntu/webdev-static-assets/al-ghanem-travel/owner-upload-2026-08-25/Hotel_Images/waqf-uthman-bin-affan-exterior-2026_d8b0f683.jpg",
+      "hotelSlug": "al-waqf-serviced-apartments",
+      "hotelName": "Waqf Uthman Bin Affan Hotel",
+      "city": "madinah",
+      "destinationPath": "media/by-hotel/al-waqf-serviced-apartments/waqf-uthman-bin-affan-exterior-2026_d8b0f683.jpg"
+    },
+    {
+      "fileName": "waqf-uthman-bin-affan-lobby-2026_2382ecd1.jpg",
+      "sourcePath": "/home/ubuntu/webdev-static-assets/al-ghanem-travel/owner-upload-2026-08-25/Hotel_Images/waqf-uthman-bin-affan-lobby-2026_2382ecd1.jpg",
+      "hotelSlug": "al-waqf-serviced-apartments",
+      "hotelName": "Waqf Uthman Bin Affan Hotel",
+      "city": "madinah",
+      "destinationPath": "media/by-hotel/al-waqf-serviced-apartments/waqf-uthman-bin-affan-lobby-2026_2382ecd1.jpg"
+    },
+    {
+      "fileName": "waqt-al-nazeel-madinah-lobby_86c96a14.jpg",
+      "sourcePath": "/home/ubuntu/webdev-static-assets/al-ghanem-travel/owner-upload-2026-08-25/Hotel_Images/waqt-al-nazeel-madinah-lobby_86c96a14.jpg",
+      "hotelSlug": "waqt-al-nazeel-madinah",
+      "hotelName": "Waqt Al Nazeel Hotel",
+      "city": "madinah",
+      "destinationPath": "media/by-hotel/waqt-al-nazeel-madinah/waqt-al-nazeel-madinah-lobby_86c96a14.jpg"
+    },
+    {
+      "fileName": "waqt-al-nazeel-madinah-room-alt_fe275acd.jpg",
+      "sourcePath": "/home/ubuntu/webdev-static-assets/al-ghanem-travel/owner-upload-2026-08-25/Hotel_Images/waqt-al-nazeel-madinah-room-alt_fe275acd.jpg",
+      "hotelSlug": "waqt-al-nazeel-madinah",
+      "hotelName": "Waqt Al Nazeel Hotel",
+      "city": "madinah",
+      "destinationPath": "media/by-hotel/waqt-al-nazeel-madinah/waqt-al-nazeel-madinah-room-alt_fe275acd.jpg"
+    },
+    {
+      "fileName": "waqt-al-nazeel-madinah-room_9931d75d.jpg",
+      "sourcePath": "/home/ubuntu/webdev-static-assets/al-ghanem-travel/owner-upload-2026-08-25/Hotel_Images/waqt-al-nazeel-madinah-room_9931d75d.jpg",
+      "hotelSlug": "waqt-al-nazeel-madinah",
+      "hotelName": "Waqt Al Nazeel Hotel",
+      "city": "madinah",
+      "destinationPath": "media/by-hotel/waqt-al-nazeel-madinah/waqt-al-nazeel-madinah-room_9931d75d.jpg"
+    },
+    {
+      "fileName": "wardat-al-rayyan-exterior_73aa13d1.jpg",
+      "sourcePath": "/home/ubuntu/webdev-static-assets/al-ghanem-travel/owner-upload-2026-08-25/Hotel_Images/wardat-al-rayyan-exterior_73aa13d1.jpg",
+      "hotelSlug": "wardat-al-rayyan-madinah",
+      "hotelName": "Wardat Al Rayyan Hotel",
+      "city": "madinah",
+      "destinationPath": "media/by-hotel/wardat-al-rayyan-madinah/wardat-al-rayyan-exterior_73aa13d1.jpg"
+    },
+    {
+      "fileName": "wardat-al-rayyan-family-room_56dcf20c.jpg",
+      "sourcePath": "/home/ubuntu/webdev-static-assets/al-ghanem-travel/owner-upload-2026-08-25/Hotel_Images/wardat-al-rayyan-family-room_56dcf20c.jpg",
+      "hotelSlug": "wardat-al-rayyan-madinah",
+      "hotelName": "Wardat Al Rayyan Hotel",
+      "city": "madinah",
+      "destinationPath": "media/by-hotel/wardat-al-rayyan-madinah/wardat-al-rayyan-family-room_56dcf20c.jpg"
+    },
+    {
+      "fileName": "wardat-al-rayyan-room_bf920395.jpg",
+      "sourcePath": "/home/ubuntu/webdev-static-assets/al-ghanem-travel/owner-upload-2026-08-25/Hotel_Images/wardat-al-rayyan-room_bf920395.jpg",
+      "hotelSlug": "wardat-al-rayyan-madinah",
+      "hotelName": "Wardat Al Rayyan Hotel",
+      "city": "madinah",
+      "destinationPath": "media/by-hotel/wardat-al-rayyan-madinah/wardat-al-rayyan-room_bf920395.jpg"
+    },
+    {
+      "fileName": "worth-peninsula-madinah-exterior_82c6f72e.jpg",
+      "sourcePath": "/home/ubuntu/webdev-static-assets/al-ghanem-travel/owner-upload-2026-08-25/Hotel_Images/worth-peninsula-madinah-exterior_82c6f72e.jpg",
+      "hotelSlug": "worth-peninsula-madinah",
+      "hotelName": "Worth Peninsula Hotel",
+      "city": "madinah",
+      "destinationPath": "media/by-hotel/worth-peninsula-madinah/worth-peninsula-madinah-exterior_82c6f72e.jpg"
+    },
+    {
+      "fileName": "worth-peninsula-madinah-lobby_f5c4d204.jpg",
+      "sourcePath": "/home/ubuntu/webdev-static-assets/al-ghanem-travel/owner-upload-2026-08-25/Hotel_Images/worth-peninsula-madinah-lobby_f5c4d204.jpg",
+      "hotelSlug": "worth-peninsula-madinah",
+      "hotelName": "Worth Peninsula Hotel",
+      "city": "madinah",
+      "destinationPath": "media/by-hotel/worth-peninsula-madinah/worth-peninsula-madinah-lobby_f5c4d204.jpg"
+    },
+    {
+      "fileName": "worth-peninsula-madinah-room_3a557abc.jpg",
+      "sourcePath": "/home/ubuntu/webdev-static-assets/al-ghanem-travel/owner-upload-2026-08-25/Hotel_Images/worth-peninsula-madinah-room_3a557abc.jpg",
+      "hotelSlug": "worth-peninsula-madinah",
+      "hotelName": "Worth Peninsula Hotel",
+      "city": "madinah",
+      "destinationPath": "media/by-hotel/worth-peninsula-madinah/worth-peninsula-madinah-room_3a557abc.jpg"
+    },
+    {
+      "fileName": "zaha-al-munawara-corridor_8445d402.jpg",
+      "sourcePath": "/home/ubuntu/webdev-static-assets/al-ghanem-travel/owner-upload-2026-08-25/Hotel_Images/zaha-al-munawara-corridor_8445d402.jpg",
+      "hotelSlug": "zaha-al-munawara-madinah",
+      "hotelName": "Zaha Al Munawara Hotel",
+      "city": "madinah",
+      "destinationPath": "media/by-hotel/zaha-al-munawara-madinah/zaha-al-munawara-corridor_8445d402.jpg"
+    },
+    {
+      "fileName": "zaha-al-munawara-exterior_0cbf8d76.jpg",
+      "sourcePath": "/home/ubuntu/webdev-static-assets/al-ghanem-travel/owner-upload-2026-08-25/Hotel_Images/zaha-al-munawara-exterior_0cbf8d76.jpg",
+      "hotelSlug": "zaha-al-munawara-madinah",
+      "hotelName": "Zaha Al Munawara Hotel",
+      "city": "madinah",
+      "destinationPath": "media/by-hotel/zaha-al-munawara-madinah/zaha-al-munawara-exterior_0cbf8d76.jpg"
+    },
+    {
+      "fileName": "zaha-al-munawara-lobby_89d655d0.jpg",
+      "sourcePath": "/home/ubuntu/webdev-static-assets/al-ghanem-travel/owner-upload-2026-08-25/Hotel_Images/zaha-al-munawara-lobby_89d655d0.jpg",
+      "hotelSlug": "zaha-al-munawara-madinah",
+      "hotelName": "Zaha Al Munawara Hotel",
+      "city": "madinah",
+      "destinationPath": "media/by-hotel/zaha-al-munawara-madinah/zaha-al-munawara-lobby_89d655d0.jpg"
+    },
+    {
+      "fileName": "zaha-taiba-official-exterior_8d3e449a.jpg",
+      "sourcePath": "/home/ubuntu/webdev-static-assets/al-ghanem-travel/owner-upload-2026-08-25/Hotel_Images/zaha-taiba-official-exterior_8d3e449a.jpg",
+      "hotelSlug": "zaha-taiba-madinah",
+      "hotelName": "Zaha Taiba Hotel",
+      "city": "madinah",
+      "destinationPath": "media/by-hotel/zaha-taiba-madinah/zaha-taiba-official-exterior_8d3e449a.jpg"
+    },
+    {
+      "fileName": "zaha-taiba-official-lobby_296d28b3.jpg",
+      "sourcePath": "/home/ubuntu/webdev-static-assets/al-ghanem-travel/owner-upload-2026-08-25/Hotel_Images/zaha-taiba-official-lobby_296d28b3.jpg",
+      "hotelSlug": "zaha-taiba-madinah",
+      "hotelName": "Zaha Taiba Hotel",
+      "city": "madinah",
+      "destinationPath": "media/by-hotel/zaha-taiba-madinah/zaha-taiba-official-lobby_296d28b3.jpg"
+    },
+    {
+      "fileName": "zowar-international-exterior_79416168.jpg",
+      "sourcePath": "/home/ubuntu/webdev-static-assets/al-ghanem-travel/owner-upload-2026-08-25/Hotel_Images/zowar-international-exterior_79416168.jpg",
+      "hotelSlug": "zowar-international-madinah",
+      "hotelName": "Zowar International Hotel",
+      "city": "madinah",
+      "destinationPath": "media/by-hotel/zowar-international-madinah/zowar-international-exterior_79416168.jpg"
+    },
+    {
+      "fileName": "zowar-international-lobby_bf154821.jpg",
+      "sourcePath": "/home/ubuntu/webdev-static-assets/al-ghanem-travel/owner-upload-2026-08-25/Hotel_Images/zowar-international-lobby_bf154821.jpg",
+      "hotelSlug": "zowar-international-madinah",
+      "hotelName": "Zowar International Hotel",
+      "city": "madinah",
+      "destinationPath": "media/by-hotel/zowar-international-madinah/zowar-international-lobby_bf154821.jpg"
+    },
+    {
+      "fileName": "zowar-international-room_948c2da7.jpg",
+      "sourcePath": "/home/ubuntu/webdev-static-assets/al-ghanem-travel/owner-upload-2026-08-25/Hotel_Images/zowar-international-room_948c2da7.jpg",
+      "hotelSlug": "zowar-international-madinah",
+      "hotelName": "Zowar International Hotel",
+      "city": "madinah",
+      "destinationPath": "media/by-hotel/zowar-international-madinah/zowar-international-room_948c2da7.jpg"
+    }
+  ],
+  "ambiguous": [],
+  "unreferenced": [
+    {
+      "fileName": "22_al_diyafah_apartments__lobby__01_5c3afae7.webp",
+      "sourcePath": "/home/ubuntu/webdev-static-assets/al-ghanem-travel/owner-upload-2026-08-25/Hotel_Images/22_al_diyafah_apartments__lobby__01_5c3afae7.webp",
+      "reason": "Not currently referenced by a verified hotel gallery in the source catalogue."
+    },
+    {
+      "fileName": "22_al_diyafah_apartments__room__01_6a59f28e.webp",
+      "sourcePath": "/home/ubuntu/webdev-static-assets/al-ghanem-travel/owner-upload-2026-08-25/Hotel_Images/22_al_diyafah_apartments__room__01_6a59f28e.webp",
+      "reason": "Not currently referenced by a verified hotel gallery in the source catalogue."
+    },
+    {
+      "fileName": "24_waqf_othman_bin_affan__room__02_a72aec75.webp",
+      "sourcePath": "/home/ubuntu/webdev-static-assets/al-ghanem-travel/owner-upload-2026-08-25/Hotel_Images/24_waqf_othman_bin_affan__room__02_a72aec75.webp",
+      "reason": "Not currently referenced by a verified hotel gallery in the source catalogue."
+    },
+    {
+      "fileName": "25_sultan_madinah__exterior__01_68f1168a.webp",
+      "sourcePath": "/home/ubuntu/webdev-static-assets/al-ghanem-travel/owner-upload-2026-08-25/Hotel_Images/25_sultan_madinah__exterior__01_68f1168a.webp",
+      "reason": "Not currently referenced by a verified hotel gallery in the source catalogue."
+    },
+    {
+      "fileName": "26_madinah_marriott__exterior__01_b726affc.webp",
+      "sourcePath": "/home/ubuntu/webdev-static-assets/al-ghanem-travel/owner-upload-2026-08-25/Hotel_Images/26_madinah_marriott__exterior__01_b726affc.webp",
+      "reason": "Not currently referenced by a verified hotel gallery in the source catalogue."
+    },
+    {
+      "fileName": "26_madinah_marriott__exterior__02_9c65f214.webp",
+      "sourcePath": "/home/ubuntu/webdev-static-assets/al-ghanem-travel/owner-upload-2026-08-25/Hotel_Images/26_madinah_marriott__exterior__02_9c65f214.webp",
+      "reason": "Not currently referenced by a verified hotel gallery in the source catalogue."
+    },
+    {
+      "fileName": "27_crowne_plaza_madinah__room__01_6ad55214.webp",
+      "sourcePath": "/home/ubuntu/webdev-static-assets/al-ghanem-travel/owner-upload-2026-08-25/Hotel_Images/27_crowne_plaza_madinah__room__01_6ad55214.webp",
+      "reason": "Not currently referenced by a verified hotel gallery in the source catalogue."
+    },
+    {
+      "fileName": "28_al_aqeeq_madinah__room__01_00aa494e.webp",
+      "sourcePath": "/home/ubuntu/webdev-static-assets/al-ghanem-travel/owner-upload-2026-08-25/Hotel_Images/28_al_aqeeq_madinah__room__01_00aa494e.webp",
+      "reason": "Not currently referenced by a verified hotel gallery in the source catalogue."
+    },
+    {
+      "fileName": "28_al_aqeeq_madinah__room__02_72956266.webp",
+      "sourcePath": "/home/ubuntu/webdev-static-assets/al-ghanem-travel/owner-upload-2026-08-25/Hotel_Images/28_al_aqeeq_madinah__room__02_72956266.webp",
+      "reason": "Not currently referenced by a verified hotel gallery in the source catalogue."
+    },
+    {
+      "fileName": "32_sheraton_madinah__exterior__01_be2d434d.webp",
+      "sourcePath": "/home/ubuntu/webdev-static-assets/al-ghanem-travel/owner-upload-2026-08-25/Hotel_Images/32_sheraton_madinah__exterior__01_be2d434d.webp",
+      "reason": "Not currently referenced by a verified hotel gallery in the source catalogue."
+    },
+    {
+      "fileName": "32_sheraton_madinah__exterior__02_572e74c3.webp",
+      "sourcePath": "/home/ubuntu/webdev-static-assets/al-ghanem-travel/owner-upload-2026-08-25/Hotel_Images/32_sheraton_madinah__exterior__02_572e74c3.webp",
+      "reason": "Not currently referenced by a verified hotel gallery in the source catalogue."
+    },
+    {
+      "fileName": "37_al_awali_apartments__room__01_a68d3bf7.webp",
+      "sourcePath": "/home/ubuntu/webdev-static-assets/al-ghanem-travel/owner-upload-2026-08-25/Hotel_Images/37_al_awali_apartments__room__01_a68d3bf7.webp",
+      "reason": "Not currently referenced by a verified hotel gallery in the source catalogue."
+    },
+    {
+      "fileName": "39_al_firdous__exterior__01_d700157a.webp",
+      "sourcePath": "/home/ubuntu/webdev-static-assets/al-ghanem-travel/owner-upload-2026-08-25/Hotel_Images/39_al_firdous__exterior__01_d700157a.webp",
+      "reason": "Not currently referenced by a verified hotel gallery in the source catalogue."
+    },
+    {
+      "fileName": "al-ghanem-corporate-hospitality_fe51bd5d.webp",
+      "sourcePath": "/home/ubuntu/webdev-static-assets/al-ghanem-travel/owner-upload-2026-08-25/Hotel_Images/al-ghanem-corporate-hospitality_fe51bd5d.webp",
+      "reason": "Not currently referenced by a verified hotel gallery in the source catalogue."
+    },
+    {
+      "fileName": "al-ghanem-facade_a96099eb.webp",
+      "sourcePath": "/home/ubuntu/webdev-static-assets/al-ghanem-travel/owner-upload-2026-08-25/Hotel_Images/al-ghanem-facade_a96099eb.webp",
+      "reason": "Not currently referenced by a verified hotel gallery in the source catalogue."
+    },
+    {
+      "fileName": "al-ghanem-islamic-pattern-detail_863efd39.webp",
+      "sourcePath": "/home/ubuntu/webdev-static-assets/al-ghanem-travel/owner-upload-2026-08-25/Hotel_Images/al-ghanem-islamic-pattern-detail_863efd39.webp",
+      "reason": "Not currently referenced by a verified hotel gallery in the source catalogue."
+    },
+    {
+      "fileName": "al-ghanem-madinah-hospitality-hero_e26e2975.webp",
+      "sourcePath": "/home/ubuntu/webdev-static-assets/al-ghanem-travel/owner-upload-2026-08-25/Hotel_Images/al-ghanem-madinah-hospitality-hero_e26e2975.webp",
+      "reason": "Not currently referenced by a verified hotel gallery in the source catalogue."
+    },
+    {
+      "fileName": "al-ghanem-meeting_a8dfe2c7.webp",
+      "sourcePath": "/home/ubuntu/webdev-static-assets/al-ghanem-travel/owner-upload-2026-08-25/Hotel_Images/al-ghanem-meeting_a8dfe2c7.webp",
+      "reason": "Not currently referenced by a verified hotel gallery in the source catalogue."
+    },
+    {
+      "fileName": "al-ghanem-suite_7157df1b.webp",
+      "sourcePath": "/home/ubuntu/webdev-static-assets/al-ghanem-travel/owner-upload-2026-08-25/Hotel_Images/al-ghanem-suite_7157df1b.webp",
+      "reason": "Not currently referenced by a verified hotel gallery in the source catalogue."
+    },
+    {
+      "fileName": "al-ghanem-travel-logo-cropped_e862fc19.webp",
+      "sourcePath": "/home/ubuntu/webdev-static-assets/al-ghanem-travel/owner-upload-2026-08-25/Hotel_Images/al-ghanem-travel-logo-cropped_e862fc19.webp",
+      "reason": "Not currently referenced by a verified hotel gallery in the source catalogue."
+    },
+    {
+      "fileName": "madinah-prophets-mosque-card_dc3ae20c.jpg",
+      "sourcePath": "/home/ubuntu/webdev-static-assets/al-ghanem-travel/owner-upload-2026-08-25/Hotel_Images/madinah-prophets-mosque-card_dc3ae20c.jpg",
+      "reason": "Not currently referenced by a verified hotel gallery in the source catalogue."
+    },
+    {
+      "fileName": "makkah-kaaba-card_7fc0cc43.jpg",
+      "sourcePath": "/home/ubuntu/webdev-static-assets/al-ghanem-travel/owner-upload-2026-08-25/Hotel_Images/makkah-kaaba-card_7fc0cc43.jpg",
+      "reason": "Not currently referenced by a verified hotel gallery in the source catalogue."
+    }
+  ],
+  "currentOnly": [
+    {
+      "fileName": "2001_eaf41eea.jpg",
+      "hotelSlugs": [
+        "dallah-taibah"
+      ]
+    },
+    {
+      "fileName": "2035_PDBL_e768d003.jpg",
+      "hotelSlugs": [
+        "dallah-taibah"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,159 @@
+{
+  "generatedAt": "2026-08-27T14:50:32.055Z",
+  "publicProfiles": 167,
+  "canonicalProfiles": 167,
+  "duplicatePublicSlugs": 0,
+  "publicGalleryUrls": 814,
+  "liveSiteImageUrls": 838,
+  "physicalLiveSiteImages": 838,
+  "physicalDownloadFailures": 0,
+  "galleryUrlsMissingPhysicalFiles": 0,
+  "nonManagedStorageGalleryUrls": 0,
+  "publicProfilesWithNoGallery": 19,
+  "destinationPlaceholderProfiles": 7,
+  "shortNonPlaceholderGalleries": 5,
+  "requiredStructureFilesMissing": 0,
+  "qasrGalleryCount": 14,
+  "goldenTulipAlAnsarGalleryCount": 6,
+  "karamGalleryCount": 8,
+  "ruaaLikePublicProfiles": [],
+  "missingPhysical": [],
+  "nonStorage": [],
+  "duplicateSlugs": [],
+  "zeroGallery": [
+    {
+      "slug": "almasa-grand",
+      "name": "Almasa Grand"
+    },
+    {
+      "slug": "ramada-madinah-al-qibla",
+      "name": "Al Qibla Hotel"
+    },
+    {
+      "slug": "al-jawhara-madinah",
+      "name": "Al Jawhara Madinah"
+    },
+    {
+      "slug": "al-taj-madinah",
+      "name": "Al Taj Madinah"
+    },
+    {
+      "slug": "al-eman-east",
+      "name": "Al Eman (East Branch)"
+    },
+    {
+      "slug": "al-waleed-madinah",
+      "name": "Al Waleed Madinah"
+    },
+    {
+      "slug": "andalus-palace-madinah",
+      "name": "Andalus Palace Madinah"
+    },
+    {
+      "slug": "al-andalus-madinah",
+      "name": "Al Andalus Madinah"
+    },
+    {
+      "slug": "al-aqsa-madinah",
+      "name": "Al Aqsa Madinah"
+    },
+    {
+      "slug": "al-ferdous-madinah",
+      "name": "Al Ferdous Madinah"
+    },
+    {
+      "slug": "al-aliyah-madinah",
+      "name": "Al Aliyah Madinah"
+    },
+    {
+      "slug": "al-sultan-madinah",
+      "name": "Al Sultan Madinah"
+    },
+    {
+      "slug": "al-jazira-madinah",
+      "name": "Al Jazira Madinah"
+    },
+    {
+      "slug": "marriott-madinah",
+      "name": "Marriott Madinah"
+    },
+    {
+      "slug": "hilton-garden-inn-madinah",
+      "name": "Hilton Garden Inn Madinah"
+    },
+    {
+      "slug": "sheraton-madinah",
+      "name": "Sheraton Madinah"
+    },
+    {
+      "slug": "four-points-by-sheraton-madinah",
+      "name": "Four Points by Sheraton Madinah"
+    },
+    {
+      "slug": "quba-hotel-madinah",
+      "name": "Quba Hotel Madinah"
+    },
+    {
+      "slug": "al-aziziyah-hotel-madinah",
+      "name": "Al Aziziyah Hotel Madinah"
+    }
+  ],
+  "placeholderProfiles": [
+    {
+      "slug": "view-al-madinah-hotel",
+      "name": "View Al Madinah Hotel"
+    },
+    {
+      "slug": "diyar-al-sater-madinah",
+      "name": "Diyar Al Sater Hotel"
+    },
+    {
+      "slug": "lulu-al-arab-madinah",
+      "name": "Hotel Lulu Al Arab"
+    },
+    {
+      "slug": "luluat-quba-madinah",
+      "name": "Luluat Quba Hotel"
+    },
+    {
+      "slug": "the-seasons-hotel-madinah",
+      "name": "The Seasons Hotel"
+    },
+    {
+      "slug": "season-star-hotel-madinah",
+      "name": "Season Star Hotel Madinah"
+    },
+    {
+      "slug": "surestay-by-best-western-madinah",
+      "name": "SureStay by Best Western Madinah"
+    }
+  ],
+  "shortGallery": [
+    {
+      "slug": "manarat-al-taj-madinah",
+      "name": "Manarat Al Taj Hotel",
+      "galleryCount": 2
+    },
+    {
+      "slug": "dar-al-eiman-grand-madinah",
+      "name": "Dar Al Eiman Grand Hotel",
+      "galleryCount": 1
+    },
+    {
+      "slug": "nusk-al-eman-hotel",
+      "name": "Nusk Al Eman Hotel",
+      "galleryCount": 1
+    },
+    {
+      "slug": "sidrat-al-madina",
+      "name": "Sidrat Al Madina Hotel",
+      "galleryCount": 1
+    },
+    {
+      "slug": "madinah-harmony",
+      "name": "Al Madinah Harmony Hotel",
+      "galleryCount": 2
+    }
+  ],
+  "missingStructure": []
+}
