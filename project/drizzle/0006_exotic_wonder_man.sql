@@ -1,0 +1,1 @@
+ALTER TABLE `customerReviews` MODIFY COLUMN `contactName` varchar(255);

@@ -1,0 +1,22 @@
+CREATE TABLE `customerReviews` (
+	`id` int AUTO_INCREMENT NOT NULL,
+	`companyName` varchar(255) NOT NULL,
+	`contactName` varchar(255) NOT NULL,
+	`email` varchar(320) NOT NULL,
+	`phone` varchar(64),
+	`serviceType` varchar(64),
+	`rating` int NOT NULL,
+	`reviewBody` text NOT NULL,
+	`locale` varchar(8) NOT NULL DEFAULT 'en',
+	`experienceConfirmed` boolean NOT NULL DEFAULT false,
+	`publishConsent` boolean NOT NULL DEFAULT false,
+	`displayCompanyName` boolean NOT NULL DEFAULT false,
+	`moderationStatus` enum('pending','approved','rejected') NOT NULL DEFAULT 'pending',
+	`moderationNote` text,
+	`reviewedByUserId` int,
+	`reviewedAt` timestamp,
+	`ownerNotifiedAt` timestamp,
+	`createdAt` timestamp NOT NULL DEFAULT (now()),
+	`updatedAt` timestamp NOT NULL DEFAULT (now()) ON UPDATE CURRENT_TIMESTAMP,
+	CONSTRAINT `customerReviews_id` PRIMARY KEY(`id`)
+);

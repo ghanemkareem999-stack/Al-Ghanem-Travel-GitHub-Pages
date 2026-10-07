@@ -1,0 +1,414 @@
+{
+  "totalProfiles": 168,
+  "noGallery": 19,
+  "shortGalleryUnder4": 58,
+  "destinationPlaceholders": 7,
+  "priorityRows": [
+    {
+      "slug": "al-aliyah-madinah",
+      "name": "Al Aliyah Madinah",
+      "imageCount": 0,
+      "usesDestinationPlaceholder": false,
+      "category": "value"
+    },
+    {
+      "slug": "al-andalus-madinah",
+      "name": "Al Andalus Madinah",
+      "imageCount": 0,
+      "usesDestinationPlaceholder": false,
+      "category": "value"
+    },
+    {
+      "slug": "al-aqsa-madinah",
+      "name": "Al Aqsa Madinah",
+      "imageCount": 0,
+      "usesDestinationPlaceholder": false,
+      "category": "value"
+    },
+    {
+      "slug": "al-aziziyah-hotel-madinah",
+      "name": "Al Aziziyah Hotel Madinah",
+      "imageCount": 0,
+      "usesDestinationPlaceholder": false,
+      "category": "value"
+    },
+    {
+      "slug": "al-eman-east",
+      "name": "Al Eman (East Branch)",
+      "imageCount": 0,
+      "usesDestinationPlaceholder": false,
+      "category": "value"
+    },
+    {
+      "slug": "al-ferdous-madinah",
+      "name": "Al Ferdous Madinah",
+      "imageCount": 0,
+      "usesDestinationPlaceholder": false,
+      "category": "value"
+    },
+    {
+      "slug": "al-jawhara-madinah",
+      "name": "Al Jawhara Madinah",
+      "imageCount": 0,
+      "usesDestinationPlaceholder": false,
+      "category": "value"
+    },
+    {
+      "slug": "al-jazira-madinah",
+      "name": "Al Jazira Madinah",
+      "imageCount": 0,
+      "usesDestinationPlaceholder": false,
+      "category": "value"
+    },
+    {
+      "slug": "ramada-madinah-al-qibla",
+      "name": "Al Qibla Hotel",
+      "imageCount": 0,
+      "usesDestinationPlaceholder": false,
+      "category": "executive"
+    },
+    {
+      "slug": "al-sultan-madinah",
+      "name": "Al Sultan Madinah",
+      "imageCount": 0,
+      "usesDestinationPlaceholder": false,
+      "category": "value"
+    },
+    {
+      "slug": "al-taj-madinah",
+      "name": "Al Taj Madinah",
+      "imageCount": 0,
+      "usesDestinationPlaceholder": false,
+      "category": "value"
+    },
+    {
+      "slug": "al-waleed-madinah",
+      "name": "Al Waleed Madinah",
+      "imageCount": 0,
+      "usesDestinationPlaceholder": false,
+      "category": "value"
+    },
+    {
+      "slug": "almasa-grand",
+      "name": "Almasa Grand",
+      "imageCount": 0,
+      "usesDestinationPlaceholder": false,
+      "category": "executive"
+    },
+    {
+      "slug": "andalus-palace-madinah",
+      "name": "Andalus Palace Madinah",
+      "imageCount": 0,
+      "usesDestinationPlaceholder": false,
+      "category": "executive"
+    },
+    {
+      "slug": "four-points-by-sheraton-madinah",
+      "name": "Four Points by Sheraton Madinah",
+      "imageCount": 0,
+      "usesDestinationPlaceholder": false,
+      "category": "executive"
+    },
+    {
+      "slug": "hilton-garden-inn-madinah",
+      "name": "Hilton Garden Inn Madinah",
+      "imageCount": 0,
+      "usesDestinationPlaceholder": false,
+      "category": "executive"
+    },
+    {
+      "slug": "marriott-madinah",
+      "name": "Marriott Madinah",
+      "imageCount": 0,
+      "usesDestinationPlaceholder": false,
+      "category": "premium"
+    },
+    {
+      "slug": "quba-hotel-madinah",
+      "name": "Quba Hotel Madinah",
+      "imageCount": 0,
+      "usesDestinationPlaceholder": false,
+      "category": "value"
+    },
+    {
+      "slug": "sheraton-madinah",
+      "name": "Sheraton Madinah",
+      "imageCount": 0,
+      "usesDestinationPlaceholder": false,
+      "category": "premium"
+    },
+    {
+      "slug": "dar-al-eiman-grand-madinah",
+      "name": "Dar Al Eiman Grand Hotel",
+      "imageCount": 1,
+      "usesDestinationPlaceholder": false,
+      "category": "executive"
+    },
+    {
+      "slug": "diyar-al-sater-madinah",
+      "name": "Diyar Al Sater Hotel",
+      "imageCount": 1,
+      "usesDestinationPlaceholder": true,
+      "category": "value"
+    },
+    {
+      "slug": "lulu-al-arab-madinah",
+      "name": "Hotel Lulu Al Arab",
+      "imageCount": 1,
+      "usesDestinationPlaceholder": true,
+      "category": "value"
+    },
+    {
+      "slug": "karam-al-sada-madinah",
+      "name": "Karam Al Sada Hotel",
+      "imageCount": 1,
+      "usesDestinationPlaceholder": false,
+      "category": "value"
+    },
+    {
+      "slug": "luluat-quba-madinah",
+      "name": "Luluat Quba Hotel",
+      "imageCount": 1,
+      "usesDestinationPlaceholder": true,
+      "category": "value"
+    },
+    {
+      "slug": "nusk-al-eman-hotel",
+      "name": "Nusk Al Eman Hotel",
+      "imageCount": 1,
+      "usesDestinationPlaceholder": false,
+      "category": "value"
+    },
+    {
+      "slug": "season-star-hotel-madinah",
+      "name": "Season Star Hotel Madinah",
+      "imageCount": 1,
+      "usesDestinationPlaceholder": true,
+      "category": "value"
+    },
+    {
+      "slug": "sidrat-al-madina",
+      "name": "Sidrat Al Madina Hotel",
+      "imageCount": 1,
+      "usesDestinationPlaceholder": false,
+      "category": "value"
+    },
+    {
+      "slug": "surestay-by-best-western-madinah",
+      "name": "SureStay by Best Western Madinah",
+      "imageCount": 1,
+      "usesDestinationPlaceholder": true,
+      "category": "value"
+    },
+    {
+      "slug": "the-seasons-hotel-madinah",
+      "name": "The Seasons Hotel",
+      "imageCount": 1,
+      "usesDestinationPlaceholder": true,
+      "category": "value"
+    },
+    {
+      "slug": "view-al-madinah-hotel",
+      "name": "View Al Madinah Hotel",
+      "imageCount": 1,
+      "usesDestinationPlaceholder": true,
+      "category": "executive"
+    },
+    {
+      "slug": "madinah-harmony",
+      "name": "Al Madinah Harmony Hotel",
+      "imageCount": 2,
+      "usesDestinationPlaceholder": false,
+      "category": "executive"
+    },
+    {
+      "slug": "manarat-al-taj-madinah",
+      "name": "Manarat Al Taj Hotel",
+      "imageCount": 2,
+      "usesDestinationPlaceholder": false,
+      "category": "value"
+    },
+    {
+      "slug": "al-ansar-madinah",
+      "name": "Al Ansar Palace Golden Tulip Hotel",
+      "imageCount": 3,
+      "usesDestinationPlaceholder": false,
+      "category": "value"
+    },
+    {
+      "slug": "al-ritz-al-madinah",
+      "name": "Al Ritz Al Madinah Hotel",
+      "imageCount": 3,
+      "usesDestinationPlaceholder": false,
+      "category": "value"
+    },
+    {
+      "slug": "dar-al-taqwa-madinah",
+      "name": "Dar Al Taqwa Hotel",
+      "imageCount": 3,
+      "usesDestinationPlaceholder": false,
+      "category": "premium"
+    },
+    {
+      "slug": "diyar-al-salam-madinah",
+      "name": "Diyar Al Salam Hotel",
+      "imageCount": 3,
+      "usesDestinationPlaceholder": false,
+      "category": "value"
+    },
+    {
+      "slug": "al-durrah-madinah",
+      "name": "Durra Al Madinah Hotel",
+      "imageCount": 3,
+      "usesDestinationPlaceholder": false,
+      "category": "value"
+    },
+    {
+      "slug": "eman-royal",
+      "name": "Emaar Royal Hotel",
+      "imageCount": 3,
+      "usesDestinationPlaceholder": false,
+      "category": "executive"
+    },
+    {
+      "slug": "golden-tulip-al-zahabi",
+      "name": "Golden Tulip Al Zahabi",
+      "imageCount": 3,
+      "usesDestinationPlaceholder": false,
+      "category": "executive"
+    },
+    {
+      "slug": "al-waha-hotel-madinah",
+      "name": "Hayah Al Waha Hotel",
+      "imageCount": 3,
+      "usesDestinationPlaceholder": false,
+      "category": "value"
+    },
+    {
+      "slug": "intercontinental-dar-al-hijra-madinah",
+      "name": "InterContinental Dar Al Hijra Madinah",
+      "imageCount": 3,
+      "usesDestinationPlaceholder": false,
+      "category": "premium"
+    },
+    {
+      "slug": "jayden-hotel-madinah",
+      "name": "Jayden Hotel",
+      "imageCount": 3,
+      "usesDestinationPlaceholder": false,
+      "category": "executive"
+    },
+    {
+      "slug": "al-nokhba-madinah",
+      "name": "Maden Hotel (Al Nokhba Royal Inn)",
+      "imageCount": 3,
+      "usesDestinationPlaceholder": false,
+      "category": "value"
+    },
+    {
+      "slug": "makarem-burj-al-madinah",
+      "name": "Makarem Burj Al Madinah",
+      "imageCount": 3,
+      "usesDestinationPlaceholder": false,
+      "category": "executive"
+    },
+    {
+      "slug": "millennium-madinah",
+      "name": "Millennium Al Aqeeq Hotel",
+      "imageCount": 3,
+      "usesDestinationPlaceholder": false,
+      "category": "executive"
+    },
+    {
+      "slug": "al-mokhtara-golden",
+      "name": "Mokhtara Golden Hotel",
+      "imageCount": 3,
+      "usesDestinationPlaceholder": false,
+      "category": "value"
+    },
+    {
+      "slug": "new-madinah-hotel",
+      "name": "New Madinah Hotel",
+      "imageCount": 3,
+      "usesDestinationPlaceholder": false,
+      "category": "executive"
+    },
+    {
+      "slug": "al-rehab-madinah",
+      "name": "Rehab Taba Hotel (Rehab Harmony)",
+      "imageCount": 3,
+      "usesDestinationPlaceholder": false,
+      "category": "value"
+    },
+    {
+      "slug": "coral-madinah",
+      "name": "Rua Al Hijrah Hotel (Coral Al Madinah)",
+      "imageCount": 3,
+      "usesDestinationPlaceholder": false,
+      "category": "executive"
+    },
+    {
+      "slug": "saja-by-warwick-madinah",
+      "name": "Saja by Warwick Madinah",
+      "imageCount": 3,
+      "usesDestinationPlaceholder": false,
+      "category": "executive"
+    },
+    {
+      "slug": "shaza-madinah",
+      "name": "Shaza Regency Plaza Al Madinah",
+      "imageCount": 3,
+      "usesDestinationPlaceholder": false,
+      "category": "premium"
+    },
+    {
+      "slug": "sidra-alia-al-dahabi-madinah",
+      "name": "Sidra Alia Al-Dahabi Hotel",
+      "imageCount": 3,
+      "usesDestinationPlaceholder": false,
+      "category": "value"
+    },
+    {
+      "slug": "silver-tabah-towers-hotel",
+      "name": "Silver Tabah Towers Hotel",
+      "imageCount": 3,
+      "usesDestinationPlaceholder": false,
+      "category": "value"
+    },
+    {
+      "slug": "tabah-towers-hotel",
+      "name": "Tabah Towers Hotel",
+      "imageCount": 3,
+      "usesDestinationPlaceholder": false,
+      "category": "value"
+    },
+    {
+      "slug": "taqwa-manazil-madina",
+      "name": "Taqwa Manazil Madina",
+      "imageCount": 3,
+      "usesDestinationPlaceholder": false,
+      "category": "value"
+    },
+    {
+      "slug": "biltmore-al-madinah",
+      "name": "The Biltmore Al Madinah Hotel",
+      "imageCount": 3,
+      "usesDestinationPlaceholder": false,
+      "category": "premium"
+    },
+    {
+      "slug": "valy-al-madinah-hotel",
+      "name": "Valy Al Madinah Hotel",
+      "imageCount": 3,
+      "usesDestinationPlaceholder": false,
+      "category": "value"
+    },
+    {
+      "slug": "al-waqf-serviced-apartments",
+      "name": "Waqf Uthman Bin Affan Hotel",
+      "imageCount": 3,
+      "usesDestinationPlaceholder": false,
+      "category": "value"
+    }
+  ]
+}
